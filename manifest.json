@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "lists": [
+    {
+      "id": "list6",
+      "title": "List 6",
+      "description": "NZCER/SPELLWRITE 2005 word list 6.",
+      "wordCount": 70,
+      "path": "list6.json"
+    },
+    {
+      "id": "list7",
+      "title": "List 7",
+      "description": "NZCER/SPELLWRITE 2005 word list 7.",
+      "wordCount": 60,
+      "path": "list7.json"
+    },
+    {
+      "id": "list8",
+      "title": "List 8",
+      "description": "NZCER/SPELLWRITE 2005 word list 8.",
+      "wordCount": 61,
+      "path": "list8.json"
+    },
+    {
+      "id": "list9",
+      "title": "List 9",
+      "description": "NZCER/SPELLWRITE 2005 word list 9.",
+      "wordCount": 70,
+      "path": "list9.json"
+    },
+    {
+      "id": "list10",
+      "title": "List 10",
+      "description": "NZCER/SPELLWRITE 2005 word list 10.",
+      "wordCount": 70,
+      "path": "list10.json"
+    },
+    {
+      "id": "extension1",
+      "title": "Extension List 1",
+      "description": "NZCER/SPELLWRITE 2005 extension word list 1 — harder, less common words.",
+      "wordCount": 100,
+      "path": "extension1.json"
+    }
+  ]
+}

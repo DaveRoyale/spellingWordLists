@@ -1,0 +1,497 @@
+{
+  "id": "list9",
+  "title": "List 9",
+  "description": "NZCER/SPELLWRITE 2005 word list 9.",
+  "words": [
+    {
+      "word": "allowed",
+      "exampleSentences": [
+        "We are allowed to play outside after chores.",
+        "Dogs are not allowed in the shop."
+      ]
+    },
+    {
+      "word": "dictionary",
+      "exampleSentences": [
+        "She looked up the word in a dictionary.",
+        "The dictionary explained what the strange word meant."
+      ]
+    },
+    {
+      "word": "friends",
+      "exampleSentences": [
+        "My friends came over to play on Saturday.",
+        "We made new friends at swimming lessons."
+      ]
+    },
+    {
+      "word": "nearly",
+      "exampleSentences": [
+        "It's nearly time for dinner.",
+        "She nearly won the race."
+      ]
+    },
+    {
+      "word": "they're",
+      "exampleSentences": [
+        "They're coming to visit us next week.",
+        "I think they're already at the park."
+      ]
+    },
+    {
+      "word": "Atlantic",
+      "exampleSentences": [
+        "The ship sailed across the Atlantic Ocean.",
+        "Fishermen caught cod in the Atlantic."
+      ]
+    },
+    {
+      "word": "didn't",
+      "exampleSentences": [
+        "I didn't hear the phone ring.",
+        "She didn't finish her lunch today."
+      ]
+    },
+    {
+      "word": "front",
+      "exampleSentences": [
+        "He sat in the front row at the concert.",
+        "There is a garden at the front of the house."
+      ]
+    },
+    {
+      "word": "New Zealand",
+      "exampleSentences": [
+        "New Zealand has many beautiful mountains.",
+        "We flew to New Zealand for our holiday."
+      ]
+    },
+    {
+      "word": "threw",
+      "exampleSentences": [
+        "He threw the ball to his teammate.",
+        "She threw her old shoes in the bin."
+      ]
+    },
+    {
+      "word": "Auckland",
+      "exampleSentences": [
+        "We visited the Sky Tower in Auckland.",
+        "My cousins live in Auckland."
+      ]
+    },
+    {
+      "word": "different",
+      "exampleSentences": [
+        "Each twin wore a different coloured hat.",
+        "We tried a different route to school today."
+      ]
+    },
+    {
+      "word": "fruit",
+      "exampleSentences": [
+        "She packed fresh fruit for her lunch.",
+        "The fruit bowl was full of apples and bananas."
+      ]
+    },
+    {
+      "word": "Pacific",
+      "exampleSentences": [
+        "Many islands sit in the Pacific Ocean.",
+        "We swam in the warm Pacific waters."
+      ]
+    },
+    {
+      "word": "tomorrow",
+      "exampleSentences": [
+        "We are going to the zoo tomorrow.",
+        "Tomorrow is the last day of school."
+      ]
+    },
+    {
+      "word": "Australia",
+      "exampleSentences": [
+        "Kangaroos live wild in Australia.",
+        "My uncle moved to Australia last year."
+      ]
+    },
+    {
+      "word": "disappeared",
+      "exampleSentences": [
+        "The rabbit disappeared behind the bushes.",
+        "Her smile disappeared when she heard the news."
+      ]
+    },
+    {
+      "word": "grabbed",
+      "exampleSentences": [
+        "He grabbed his bag and ran for the bus.",
+        "She grabbed an umbrella before the rain started."
+      ]
+    },
+    {
+      "word": "Police",
+      "exampleSentences": [
+        "The police helped find the lost dog.",
+        "A police officer waved the cars through."
+      ]
+    },
+    {
+      "word": "video",
+      "exampleSentences": [
+        "We watched a funny video about puppies.",
+        "She recorded a video of her dance routine."
+      ]
+    },
+    {
+      "word": "awhile",
+      "exampleSentences": [
+        "We rested awhile before continuing the walk.",
+        "She read a book awhile before dinner."
+      ]
+    },
+    {
+      "word": "doesn't",
+      "exampleSentences": [
+        "He doesn't like broccoli very much.",
+        "She doesn't live far from the school."
+      ]
+    },
+    {
+      "word": "Hamilton",
+      "exampleSentences": [
+        "We drove through Hamilton on our way south.",
+        "My grandparents live in Hamilton."
+      ]
+    },
+    {
+      "word": "present",
+      "exampleSentences": [
+        "She opened her present carefully.",
+        "He wrapped a present for his best friend."
+      ]
+    },
+    {
+      "word": "wasn't",
+      "exampleSentences": [
+        "It wasn't raining when we left the house.",
+        "She wasn't ready for the bus."
+      ]
+    },
+    {
+      "word": "believe",
+      "exampleSentences": [
+        "I believe you can do it.",
+        "She couldn't believe how tall the tree had grown."
+      ]
+    },
+    {
+      "word": "dollars",
+      "exampleSentences": [
+        "The toy cost five dollars.",
+        "He saved his dollars for a new bike."
+      ]
+    },
+    {
+      "word": "having",
+      "exampleSentences": [
+        "We are having pizza for dinner tonight.",
+        "She was having a great time at the party."
+      ]
+    },
+    {
+      "word": "probably",
+      "exampleSentences": [
+        "It's probably going to rain today.",
+        "He probably forgot his lunchbox again."
+      ]
+    },
+    {
+      "word": "watch",
+      "exampleSentences": [
+        "Let's watch a movie after dinner.",
+        "She likes to watch the birds in the garden."
+      ]
+    },
+    {
+      "word": "breakfast",
+      "exampleSentences": [
+        "I eat toast for breakfast every morning.",
+        "We had pancakes for breakfast on Sunday."
+      ]
+    },
+    {
+      "word": "don't",
+      "exampleSentences": [
+        "I don't want to be late for school.",
+        "Please don't slam the door."
+      ]
+    },
+    {
+      "word": "holidays",
+      "exampleSentences": [
+        "We are going camping these holidays.",
+        "The school holidays start next Friday."
+      ]
+    },
+    {
+      "word": "quiet",
+      "exampleSentences": [
+        "The library is always very quiet.",
+        "Please be quiet while the baby sleeps."
+      ]
+    },
+    {
+      "word": "we're",
+      "exampleSentences": [
+        "We're going to the beach tomorrow.",
+        "I think we're almost out of milk."
+      ]
+    },
+    {
+      "word": "brought",
+      "exampleSentences": [
+        "She brought her favourite toy to show the class.",
+        "He brought an umbrella in case it rained."
+      ]
+    },
+    {
+      "word": "English",
+      "exampleSentences": [
+        "We practised English spelling at school today.",
+        "She is learning English and Māori at school."
+      ]
+    },
+    {
+      "word": "hopped",
+      "exampleSentences": [
+        "The rabbit hopped across the lawn.",
+        "He hopped over the puddle on his way home."
+      ]
+    },
+    {
+      "word": "scared",
+      "exampleSentences": [
+        "The thunder made the puppy scared.",
+        "She felt scared during the scary movie."
+      ]
+    },
+    {
+      "word": "weight",
+      "exampleSentences": [
+        "He lifted the weight of the heavy box.",
+        "The scale showed the weight of the parcel."
+      ]
+    },
+    {
+      "word": "cannon",
+      "exampleSentences": [
+        "The old cannon stood outside the museum.",
+        "They fired the cannon during the show."
+      ]
+    },
+    {
+      "word": "everybody",
+      "exampleSentences": [
+        "Everybody cheered when the team scored.",
+        "Everybody brought a plate of food to the picnic."
+      ]
+    },
+    {
+      "word": "hospital",
+      "exampleSentences": [
+        "My grandma stayed in the hospital for a week.",
+        "We visited the new baby at the hospital."
+      ]
+    },
+    {
+      "word": "second",
+      "exampleSentences": [
+        "She finished the race in second place.",
+        "Wait just a second while I find my shoes."
+      ]
+    },
+    {
+      "word": "Wellington",
+      "exampleSentences": [
+        "Wellington is the capital city of New Zealand.",
+        "We caught the ferry from Wellington."
+      ]
+    },
+    {
+      "word": "caught",
+      "exampleSentences": [
+        "She caught the bus just in time.",
+        "He caught a glimpse of the rainbow."
+      ]
+    },
+    {
+      "word": "everyday",
+      "exampleSentences": [
+        "Brushing your teeth is an everyday habit.",
+        "She wore her everyday clothes to the park."
+      ]
+    },
+    {
+      "word": "instead",
+      "exampleSentences": [
+        "She chose an apple instead of chips.",
+        "Let's walk instead of taking the bus."
+      ]
+    },
+    {
+      "word": "sincerely",
+      "exampleSentences": [
+        "He sincerely apologised for the mess.",
+        "She signed the letter, Yours sincerely."
+      ]
+    },
+    {
+      "word": "weren't",
+      "exampleSentences": [
+        "They weren't home when we visited.",
+        "We weren't sure which way to go."
+      ]
+    },
+    {
+      "word": "centre",
+      "exampleSentences": [
+        "The toy shop is in the centre of town.",
+        "He stood in the centre of the circle."
+      ]
+    },
+    {
+      "word": "everywhere",
+      "exampleSentences": [
+        "Sand got everywhere after our beach trip.",
+        "She looked everywhere for her missing shoe."
+      ]
+    },
+    {
+      "word": "language",
+      "exampleSentences": [
+        "Māori is an official language of New Zealand.",
+        "She is learning a new language at school."
+      ]
+    },
+    {
+      "word": "someone",
+      "exampleSentences": [
+        "Someone left their jacket on the bus.",
+        "I heard someone knock on the door."
+      ]
+    },
+    {
+      "word": "whole",
+      "exampleSentences": [
+        "He ate the whole sandwich in one go.",
+        "We spent the whole day at the beach."
+      ]
+    },
+    {
+      "word": "chocolate",
+      "exampleSentences": [
+        "She melted chocolate to make a cake.",
+        "He shared his chocolate with his little sister."
+      ]
+    },
+    {
+      "word": "excited",
+      "exampleSentences": [
+        "We were excited for the school trip.",
+        "She felt excited about her birthday party."
+      ]
+    },
+    {
+      "word": "lightning",
+      "exampleSentences": [
+        "Lightning lit up the dark sky.",
+        "We counted the seconds between the thunder and lightning."
+      ]
+    },
+    {
+      "word": "special",
+      "exampleSentences": [
+        "Today is a special day for our family.",
+        "She wore her special dress to the wedding."
+      ]
+    },
+    {
+      "word": "won't",
+      "exampleSentences": [
+        "He won't eat his vegetables tonight.",
+        "I won't forget to feed the fish."
+      ]
+    },
+    {
+      "word": "clothes",
+      "exampleSentences": [
+        "She folded the clean clothes neatly.",
+        "We packed warm clothes for our trip."
+      ]
+    },
+    {
+      "word": "favourite",
+      "exampleSentences": [
+        "Chocolate cake is my favourite dessert.",
+        "Blue is her favourite colour."
+      ]
+    },
+    {
+      "word": "luckily",
+      "exampleSentences": [
+        "Luckily, the rain stopped before the picnic.",
+        "He luckily caught the last bus home."
+      ]
+    },
+    {
+      "word": "stopped",
+      "exampleSentences": [
+        "The music stopped suddenly.",
+        "She stopped to pat the friendly dog."
+      ]
+    },
+    {
+      "word": "wonderful",
+      "exampleSentences": [
+        "We had a wonderful time at the fair.",
+        "The garden smelled wonderful after the rain."
+      ]
+    },
+    {
+      "word": "couldn't",
+      "exampleSentences": [
+        "She couldn't find her other shoe.",
+        "He couldn't stop laughing at the joke."
+      ]
+    },
+    {
+      "word": "field",
+      "exampleSentences": [
+        "The sheep grazed in the green field.",
+        "We played football on the school field."
+      ]
+    },
+    {
+      "word": "minute",
+      "exampleSentences": [
+        "Wait just a minute, please.",
+        "The kettle boiled in just a minute."
+      ]
+    },
+    {
+      "word": "straight",
+      "exampleSentences": [
+        "Draw a straight line across the page.",
+        "Walk straight down this road to the shop."
+      ]
+    },
+    {
+      "word": "you're",
+      "exampleSentences": [
+        "You're going to love this book.",
+        "I think you're doing a great job."
+      ]
+    }
+  ]
+}
