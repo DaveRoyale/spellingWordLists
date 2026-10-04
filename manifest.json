@@ -6,42 +6,90 @@
       "title": "List 6",
       "description": "NZCER/SPELLWRITE 2005 word list 6.",
       "wordCount": 70,
-      "path": "list6.json"
+      "path": "list6.json",
+      "sampleWords": [
+        "dark",
+        "asked",
+        "felt",
+        "inside",
+        "say",
+        "every"
+      ]
     },
     {
       "id": "list7",
       "title": "List 7",
       "description": "NZCER/SPELLWRITE 2005 word list 7.",
       "wordCount": 60,
-      "path": "list7.json"
+      "path": "list7.json",
+      "sampleWords": [
+        "everything",
+        "parents",
+        "hand",
+        "doing",
+        "bought",
+        "mother"
+      ]
     },
     {
       "id": "list8",
       "title": "List 8",
       "description": "NZCER/SPELLWRITE 2005 word list 8.",
       "wordCount": 61,
-      "path": "list8.json"
+      "path": "list8.json",
+      "sampleWords": [
+        "first",
+        "round",
+        "men",
+        "January",
+        "sat",
+        "aloud"
+      ]
     },
     {
       "id": "list9",
       "title": "List 9",
       "description": "NZCER/SPELLWRITE 2005 word list 9.",
       "wordCount": 70,
-      "path": "list9.json"
+      "path": "list9.json",
+      "sampleWords": [
+        "friends",
+        "luckily",
+        "whole",
+        "scared",
+        "they're",
+        "sincerely"
+      ]
     },
     {
       "id": "list10",
       "title": "List 10",
       "description": "NZCER/SPELLWRITE 2005 word list 10.",
       "wordCount": 70,
-      "path": "list10.json"
+      "path": "list10.json",
+      "sampleWords": [
+        "garage",
+        "courage",
+        "ministry",
+        "adventure",
+        "technology",
+        "minister"
+      ]
     },
     {
       "id": "extension1",
       "title": "Extension List 1",
       "description": "NZCER/SPELLWRITE 2005 extension word list 1 — harder, less common words.",
       "wordCount": 100,
-      "path": "extension1.json"
+      "path": "extension1.json",
+      "sampleWords": [
+        "problem",
+        "atmosphere",
+        "thoughtful",
+        "introduce",
+        "traffic",
+        "conductor"
+      ]
     }
   ]
 }
