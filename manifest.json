@@ -3,8 +3,8 @@
   "lists": [
     {
       "id": "list6",
-      "title": "List 6",
-      "description": "NZCER/SPELLWRITE 2005 word list 6.",
+      "title": "NZCER SPELLWRITE List 6",
+      "description": "One of six word lists (6 through 10, plus an extension list) transcribed from the NZCER/SPELLWRITE 2005 spelling programme, a published New Zealand spelling resource.",
       "wordCount": 70,
       "path": "list6.json",
       "sampleWords": [
@@ -18,8 +18,8 @@
     },
     {
       "id": "list7",
-      "title": "List 7",
-      "description": "NZCER/SPELLWRITE 2005 word list 7.",
+      "title": "NZCER SPELLWRITE List 7",
+      "description": "One of six word lists (6 through 10, plus an extension list) transcribed from the NZCER/SPELLWRITE 2005 spelling programme, a published New Zealand spelling resource.",
       "wordCount": 60,
       "path": "list7.json",
       "sampleWords": [
@@ -33,8 +33,8 @@
     },
     {
       "id": "list8",
-      "title": "List 8",
-      "description": "NZCER/SPELLWRITE 2005 word list 8.",
+      "title": "NZCER SPELLWRITE List 8",
+      "description": "One of six word lists (6 through 10, plus an extension list) transcribed from the NZCER/SPELLWRITE 2005 spelling programme, a published New Zealand spelling resource.",
       "wordCount": 61,
       "path": "list8.json",
       "sampleWords": [
@@ -48,8 +48,8 @@
     },
     {
       "id": "list9",
-      "title": "List 9",
-      "description": "NZCER/SPELLWRITE 2005 word list 9.",
+      "title": "NZCER SPELLWRITE List 9",
+      "description": "One of six word lists (6 through 10, plus an extension list) transcribed from the NZCER/SPELLWRITE 2005 spelling programme, a published New Zealand spelling resource.",
       "wordCount": 70,
       "path": "list9.json",
       "sampleWords": [
@@ -63,8 +63,8 @@
     },
     {
       "id": "list10",
-      "title": "List 10",
-      "description": "NZCER/SPELLWRITE 2005 word list 10.",
+      "title": "NZCER SPELLWRITE List 10",
+      "description": "One of six word lists (6 through 10, plus an extension list) transcribed from the NZCER/SPELLWRITE 2005 spelling programme, a published New Zealand spelling resource.",
       "wordCount": 70,
       "path": "list10.json",
       "sampleWords": [
@@ -78,8 +78,8 @@
     },
     {
       "id": "extension1",
-      "title": "Extension List 1",
-      "description": "NZCER/SPELLWRITE 2005 extension word list 1 — harder, less common words.",
+      "title": "NZCER SPELLWRITE Extension List 1",
+      "description": "An extension word list from the NZCER/SPELLWRITE 2005 spelling programme, covering harder, less common words beyond the numbered lists 6–10.",
       "wordCount": 100,
       "path": "extension1.json",
       "sampleWords": [

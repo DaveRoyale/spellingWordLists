@@ -1,7 +1,7 @@
 {
   "id": "extension1",
-  "title": "Extension List 1",
-  "description": "NZCER/SPELLWRITE 2005 extension word list 1 — harder, less common words.",
+  "title": "NZCER SPELLWRITE Extension List 1",
+  "description": "An extension word list from the NZCER/SPELLWRITE 2005 spelling programme, covering harder, less common words beyond the numbered lists 6–10.",
   "words": [
     {
       "word": "acceptance",
