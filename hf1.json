@@ -1,9 +1,16 @@
 {
   "id": "hf1",
   "title": "High Frequency Words 1",
-  "description": "List 1 of the High Frequency Words series (v1): the 250 most frequent words from CYP-LEX (1,200 UK children's books), after dropping proper nouns, the 500 most common words, rare/name-like forms, and plain inflections — ranked most frequent first.",
-  "approachVersion": 1,
+  "description": "List 1 of the High Frequency Words series (v1.1): the 250 most frequent words from CYP-LEX (1,200 UK children's books), after dropping proper nouns, the 500 most common words, rare/name-like forms, plain inflections, and merging American spellings into their British/Australian equivalent before ranking — ranked most frequent first.",
+  "approachVersion": "1.1",
   "words": [
+    {
+      "word": "nice",
+      "exampleSentences": [
+        "It was very nice of her to share her lunch.",
+        "The weather was nice for a picnic."
+      ]
+    },
     {
       "word": "silence",
       "exampleSentences": [
@@ -156,6 +163,13 @@
       "exampleSentences": [
         "She sent a letter to her friend.",
         "The teacher sent him to the office."
+      ]
+    },
+    {
+      "word": "realised",
+      "exampleSentences": [
+        "She realised she had forgotten her homework.",
+        "He realised the mistake too late."
       ]
     },
     {
@@ -1139,13 +1153,6 @@
       ]
     },
     {
-      "word": "realized",
-      "exampleSentences": [
-        "She realized she had left her bag at home.",
-        "He realized the mistake too late."
-      ]
-    },
-    {
       "word": "sign",
       "exampleSentences": [
         "Follow the sign to the exit.",
@@ -1402,13 +1409,6 @@
       "exampleSentences": [
         "He grabbed his bag and ran for the bus.",
         "She grabbed the last seat on the bus."
-      ]
-    },
-    {
-      "word": "grey",
-      "exampleSentences": [
-        "The sky turned grey before the storm.",
-        "He wore a grey jumper to school."
       ]
     },
     {
