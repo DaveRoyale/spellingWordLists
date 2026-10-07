@@ -94,16 +94,31 @@
     {
       "id": "hf1",
       "title": "High Frequency Words 1",
-      "description": "List 1 of the High Frequency Words series (v1): the 250 most frequent words from CYP-LEX (1,200 UK children's books), after dropping proper nouns, the 500 most common words, rare/name-like forms, and plain inflections — ranked most frequent first.",
+      "description": "List 1 of the High Frequency Words series (v1.2): the 250 most frequent words from CYP-LEX (1,200 UK children's books), after dropping proper nouns, the 250 most common words, rare/name-like forms, plain inflections, and merging American spellings into their British/Australian equivalent before ranking — ranked most frequent first.",
       "wordCount": 250,
       "path": "hf1.json",
       "sampleWords": [
-        "sign",
-        "hall",
-        "quiet",
-        "suppose",
-        "sight",
-        "foot"
+        "one",
+        "coming",
+        "course",
+        "today",
+        "sorry",
+        "woman"
+      ]
+    },
+    {
+      "id": "hf2",
+      "title": "High Frequency Words 2",
+      "description": "List 2 of the High Frequency Words series (v1.2): the next 250 most frequent words from CYP-LEX (1,200 UK children's books), after dropping proper nouns, the 250 most common words, rare/name-like forms, plain inflections, and merging American spellings into their British/Australian equivalent before ranking — ranked most frequent first.",
+      "wordCount": 250,
+      "path": "hf2.json",
+      "sampleWords": [
+        "aunt",
+        "met",
+        "rain",
+        "afraid",
+        "loved",
+        "threw"
       ]
     }
   ]
