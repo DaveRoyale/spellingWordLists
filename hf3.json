@@ -1,0 +1,1758 @@
+{
+  "id": "hf3",
+  "title": "High Frequency Words 3",
+  "description": "List 3 of the High Frequency Words series (v1.2): the 3rd 250 most frequent words from CYP-LEX (1,200 UK children's books), after dropping proper nouns, the 250 most common words, rare/name-like forms, plain inflections, and merging American spellings into their British/Australian equivalent before ranking — ranked most frequent first.",
+  "approachVersion": "1.2",
+  "words": [
+    {
+      "word": "whose",
+      "exampleSentences": [
+        "Whose jacket is this on the floor?",
+        "I don't know whose turn it is next."
+      ]
+    },
+    {
+      "word": "ball",
+      "exampleSentences": [
+        "The dog chased the ball across the garden.",
+        "She kicked the ball over the fence."
+      ]
+    },
+    {
+      "word": "clock",
+      "exampleSentences": [
+        "The clock on the wall says three o'clock.",
+        "He set his alarm clock for seven."
+      ]
+    },
+    {
+      "word": "send",
+      "exampleSentences": [
+        "Can you send this letter to grandma?",
+        "I will send you a photo later."
+      ]
+    },
+    {
+      "word": "summer",
+      "exampleSentences": [
+        "We go swimming every summer.",
+        "The flowers bloom in the summer heat."
+      ]
+    },
+    {
+      "word": "smoke",
+      "exampleSentences": [
+        "Grey smoke rose from the chimney.",
+        "The firefighters cleared the smoke from the hall."
+      ]
+    },
+    {
+      "word": "nor",
+      "exampleSentences": [
+        "He had neither a coat nor an umbrella.",
+        "She wanted nor the cake nor the biscuit."
+      ]
+    },
+    {
+      "word": "guard",
+      "exampleSentences": [
+        "A guard stood by the castle gate.",
+        "The dog likes to guard the front door."
+      ]
+    },
+    {
+      "word": "especially",
+      "exampleSentences": [
+        "I love fruit, especially strawberries.",
+        "She was especially happy on her birthday."
+      ]
+    },
+    {
+      "word": "trust",
+      "exampleSentences": [
+        "You can trust me with your secret.",
+        "The team learned to trust each other."
+      ]
+    },
+    {
+      "word": "promise",
+      "exampleSentences": [
+        "I promise to tidy my room tomorrow.",
+        "She kept her promise to call every week."
+      ]
+    },
+    {
+      "word": "daughter",
+      "exampleSentences": [
+        "Their daughter plays the violin beautifully.",
+        "The king's daughter lived in a tall tower."
+      ]
+    },
+    {
+      "word": "age",
+      "exampleSentences": [
+        "What age do you start school here?",
+        "The old tree showed its age in its thick trunk."
+      ]
+    },
+    {
+      "word": "moon",
+      "exampleSentences": [
+        "The moon glowed brightly over the lake.",
+        "Astronauts first walked on the moon long ago."
+      ]
+    },
+    {
+      "word": "cool",
+      "exampleSentences": [
+        "The breeze felt cool after the hot walk.",
+        "She kept the juice cool in the fridge."
+      ]
+    },
+    {
+      "word": "castle",
+      "exampleSentences": [
+        "The castle had tall stone walls.",
+        "We visited an old castle on holiday."
+      ]
+    },
+    {
+      "word": "violet",
+      "exampleSentences": [
+        "She painted the sky a deep violet.",
+        "A violet ribbon tied up her hair."
+      ]
+    },
+    {
+      "word": "smiling",
+      "exampleSentences": [
+        "He walked in smiling from ear to ear.",
+        "The baby kept smiling at the puppy."
+      ]
+    },
+    {
+      "word": "simply",
+      "exampleSentences": [
+        "The answer was simply to ask for help.",
+        "She simply loved reading before bed."
+      ]
+    },
+    {
+      "word": "leg",
+      "exampleSentences": [
+        "He hurt his leg jumping off the wall.",
+        "The table has one wobbly leg."
+      ]
+    },
+    {
+      "word": "leaves",
+      "exampleSentences": [
+        "The leaves turned orange in autumn.",
+        "We raked the leaves into a big pile."
+      ]
+    },
+    {
+      "word": "hung",
+      "exampleSentences": [
+        "She hung her coat on the hook.",
+        "The picture hung crookedly on the wall."
+      ]
+    },
+    {
+      "word": "fish",
+      "exampleSentences": [
+        "We caught three fish in the lake.",
+        "The cat watched the fish swim in the tank."
+      ]
+    },
+    {
+      "word": "centre",
+      "exampleSentences": [
+        "The fountain stood in the centre of the square.",
+        "She placed the vase in the centre of the table."
+      ]
+    },
+    {
+      "word": "yellow",
+      "exampleSentences": [
+        "The bus was painted bright yellow.",
+        "Sunflowers turn their yellow faces to the sun."
+      ]
+    },
+    {
+      "word": "tight",
+      "exampleSentences": [
+        "The lid was too tight to open.",
+        "He tied a tight knot in the rope."
+      ]
+    },
+    {
+      "word": "drew",
+      "exampleSentences": [
+        "She drew a picture of her dog.",
+        "He drew the curtains to block the sun."
+      ]
+    },
+    {
+      "word": "hide",
+      "exampleSentences": [
+        "The children like to hide behind the sofa.",
+        "Squirrels hide nuts for the winter."
+      ]
+    },
+    {
+      "word": "agreed",
+      "exampleSentences": [
+        "They agreed to meet at noon.",
+        "She agreed that the plan was a good one."
+      ]
+    },
+    {
+      "word": "doubt",
+      "exampleSentences": [
+        "I doubt it will rain today.",
+        "There was no doubt he had won the race."
+      ]
+    },
+    {
+      "word": "asleep",
+      "exampleSentences": [
+        "The baby fell asleep in the car.",
+        "He was fast asleep before the film ended."
+      ]
+    },
+    {
+      "word": "pick",
+      "exampleSentences": [
+        "Please pick a book from the shelf.",
+        "We went to pick apples at the farm."
+      ]
+    },
+    {
+      "word": "doctor",
+      "exampleSentences": [
+        "The doctor checked her sore throat.",
+        "He wants to be a doctor when he grows up."
+      ]
+    },
+    {
+      "word": "kid",
+      "exampleSentences": [
+        "Every kid in the class got a sticker.",
+        "The young goat was called a kid."
+      ]
+    },
+    {
+      "word": "spot",
+      "exampleSentences": [
+        "The dog had a brown spot on its ear.",
+        "We found a quiet spot to have our picnic."
+      ]
+    },
+    {
+      "word": "camp",
+      "exampleSentences": [
+        "We pitched our tent at the camp.",
+        "The children sang songs around the camp fire."
+      ]
+    },
+    {
+      "word": "wooden",
+      "exampleSentences": [
+        "He built a wooden bridge over the stream.",
+        "The toy train was made of wooden blocks."
+      ]
+    },
+    {
+      "word": "lives",
+      "exampleSentences": [
+        "Firefighters work hard to save lives.",
+        "She lives next door to the school."
+      ]
+    },
+    {
+      "word": "fun",
+      "exampleSentences": [
+        "We had so much fun at the fair.",
+        "We had so much fun at the fair."
+      ]
+    },
+    {
+      "word": "entire",
+      "exampleSentences": [
+        "She read the entire book in one day.",
+        "The entire class went on the school trip."
+      ]
+    },
+    {
+      "word": "slow",
+      "exampleSentences": [
+        "The tortoise moved at a slow pace.",
+        "His slow walk made us late for the bus."
+      ]
+    },
+    {
+      "word": "managed",
+      "exampleSentences": [
+        "She managed to finish the race.",
+        "He managed to fix the broken bike."
+      ]
+    },
+    {
+      "word": "drink",
+      "exampleSentences": [
+        "Can I have a drink of water?",
+        "The horse stopped to drink from the stream."
+      ]
+    },
+    {
+      "word": "sweet",
+      "exampleSentences": [
+        "The cake tasted very sweet.",
+        "She gave her brother a sweet from the bag."
+      ]
+    },
+    {
+      "word": "ring",
+      "exampleSentences": [
+        "The phone began to ring loudly.",
+        "She wore a silver ring on her finger."
+      ]
+    },
+    {
+      "word": "frank",
+      "exampleSentences": [
+        "She gave a frank answer to the question.",
+        "He was frank about how nervous he felt."
+      ]
+    },
+    {
+      "word": "special",
+      "exampleSentences": [
+        "Today is a special day for grandpa.",
+        "She kept the letter in a special box."
+      ]
+    },
+    {
+      "word": "wet",
+      "exampleSentences": [
+        "My shoes got wet in the puddle.",
+        "The dog shook off its wet fur."
+      ]
+    },
+    {
+      "word": "two",
+      "exampleSentences": [
+        "She has two cats and a dog.",
+        "We waited two hours for the bus."
+      ]
+    },
+    {
+      "word": "stick",
+      "exampleSentences": [
+        "The dog fetched a stick from the garden.",
+        "He used a stick to draw in the sand."
+      ]
+    },
+    {
+      "word": "third",
+      "exampleSentences": [
+        "She came third in the running race.",
+        "This is the third time he has asked."
+      ]
+    },
+    {
+      "word": "ah",
+      "exampleSentences": [
+        "Ah, that's exactly what I needed.",
+        "Ah, I finally found my missing shoe."
+      ]
+    },
+    {
+      "word": "write",
+      "exampleSentences": [
+        "Please write your name at the top.",
+        "She likes to write stories after school."
+      ]
+    },
+    {
+      "word": "flat",
+      "exampleSentences": [
+        "The field was completely flat.",
+        "They live in a small flat near the park."
+      ]
+    },
+    {
+      "word": "learn",
+      "exampleSentences": [
+        "We learn new words every day at school.",
+        "He wants to learn how to swim."
+      ]
+    },
+    {
+      "word": "beginning",
+      "exampleSentences": [
+        "The story starts at the very beginning.",
+        "It rained at the beginning of the match."
+      ]
+    },
+    {
+      "word": "pay",
+      "exampleSentences": [
+        "Did you pay for the tickets yet?",
+        "She saved up to pay for a new bike."
+      ]
+    },
+    {
+      "word": "clean",
+      "exampleSentences": [
+        "Please clean your room before dinner.",
+        "He wiped the table until it was clean."
+      ]
+    },
+    {
+      "word": "problem",
+      "exampleSentences": [
+        "She solved the maths problem quickly.",
+        "There was a small problem with the plan."
+      ]
+    },
+    {
+      "word": "gaze",
+      "exampleSentences": [
+        "He fixed his gaze on the horizon.",
+        "Her gaze wandered around the busy room."
+      ]
+    },
+    {
+      "word": "fly",
+      "exampleSentences": [
+        "Birds fly south for the winter.",
+        "He watched the kite fly high in the sky."
+      ]
+    },
+    {
+      "word": "mad",
+      "exampleSentences": [
+        "She was mad when her toy broke.",
+        "He went a little mad with excitement."
+      ]
+    },
+    {
+      "word": "giant",
+      "exampleSentences": [
+        "The story told of a friendly giant.",
+        "A giant oak tree stood in the park."
+      ]
+    },
+    {
+      "word": "funny",
+      "exampleSentences": [
+        "He told a very funny joke.",
+        "The clown made a funny face at the crowd."
+      ]
+    },
+    {
+      "word": "team",
+      "exampleSentences": [
+        "Our team won the football match.",
+        "She joined the swimming team this year."
+      ]
+    },
+    {
+      "word": "colour",
+      "exampleSentences": [
+        "What colour is your bedroom?",
+        "She mixed red and blue to make a new colour."
+      ]
+    },
+    {
+      "word": "realise",
+      "exampleSentences": [
+        "She didn't realise how late it was.",
+        "He began to realise his mistake."
+      ]
+    },
+    {
+      "word": "neither",
+      "exampleSentences": [
+        "Neither of the twins liked spinach.",
+        "She had neither a pen nor a pencil."
+      ]
+    },
+    {
+      "word": "hat",
+      "exampleSentences": [
+        "He wore a straw hat in the sun.",
+        "The magician pulled a rabbit from his hat."
+      ]
+    },
+    {
+      "word": "hate",
+      "exampleSentences": [
+        "I hate getting up early in winter.",
+        "She doesn't hate vegetables as much now."
+      ]
+    },
+    {
+      "word": "coat",
+      "exampleSentences": [
+        "Put on your coat before you go outside.",
+        "She hung her coat by the front door."
+      ]
+    },
+    {
+      "word": "knife",
+      "exampleSentences": [
+        "Be careful with that sharp knife.",
+        "Be careful with that sharp knife."
+      ]
+    },
+    {
+      "word": "bird",
+      "exampleSentences": [
+        "A tiny bird landed on the fence.",
+        "The bird built its nest in the tree."
+      ]
+    },
+    {
+      "word": "gun",
+      "exampleSentences": [
+        "The toy gun fired foam darts.",
+        "The starting gun signalled the race to begin."
+      ]
+    },
+    {
+      "word": "hell",
+      "exampleSentences": [
+        "The old story described hell as a dark place.",
+        "He said the exam was absolute hell."
+      ]
+    },
+    {
+      "word": "north",
+      "exampleSentences": [
+        "We drove north towards the mountains.",
+        "The compass needle pointed to the north."
+      ]
+    },
+    {
+      "word": "song",
+      "exampleSentences": [
+        "She sang her favourite song at the concert.",
+        "The bird's song woke us up at dawn."
+      ]
+    },
+    {
+      "word": "mama",
+      "exampleSentences": [
+        "The little girl called out for her mama.",
+        "Mama packed a snack for the trip."
+      ]
+    },
+    {
+      "word": "golden",
+      "exampleSentences": [
+        "The field was covered in golden wheat.",
+        "She found a golden coin in the sand."
+      ]
+    },
+    {
+      "word": "field",
+      "exampleSentences": [
+        "The sheep grazed in the field.",
+        "The cows grazed in the green field."
+      ]
+    },
+    {
+      "word": "force",
+      "exampleSentences": [
+        "The wind blew with great force.",
+        "She had to force the stuck door open."
+      ]
+    },
+    {
+      "word": "gently",
+      "exampleSentences": [
+        "He gently patted the puppy's head.",
+        "She gently closed the squeaky door."
+      ]
+    },
+    {
+      "word": "usual",
+      "exampleSentences": [
+        "He arrived at his usual time.",
+        "This was not her usual quiet self."
+      ]
+    },
+    {
+      "word": "pair",
+      "exampleSentences": [
+        "She bought a new pair of shoes.",
+        "They make a great pair of friends."
+      ]
+    },
+    {
+      "word": "dangerous",
+      "exampleSentences": [
+        "Swimming in that river can be dangerous.",
+        "The sign warned of a dangerous cliff edge."
+      ]
+    },
+    {
+      "word": "roof",
+      "exampleSentences": [
+        "Snow covered the roof of the house.",
+        "A bird landed on the roof of the shed."
+      ]
+    },
+    {
+      "word": "south",
+      "exampleSentences": [
+        "Swallows fly south for the winter.",
+        "Our new house is south of the river."
+      ]
+    },
+    {
+      "word": "conversation",
+      "exampleSentences": [
+        "They had a long conversation about the trip.",
+        "I overheard an interesting conversation on the bus."
+      ]
+    },
+    {
+      "word": "using",
+      "exampleSentences": [
+        "She is using a ruler to draw the line.",
+        "He finished the puzzle using only clues."
+      ]
+    },
+    {
+      "word": "hidden",
+      "exampleSentences": [
+        "Treasure was hidden beneath the old oak.",
+        "A small door was hidden behind the bookcase."
+      ]
+    },
+    {
+      "word": "escape",
+      "exampleSentences": [
+        "The mouse managed to escape the trap.",
+        "They planned their escape from the maze."
+      ]
+    },
+    {
+      "word": "chapter",
+      "exampleSentences": [
+        "This chapter ends with a big surprise.",
+        "She read one chapter before bedtime."
+      ]
+    },
+    {
+      "word": "clearly",
+      "exampleSentences": [
+        "Please speak clearly into the microphone.",
+        "The instructions were written very clearly."
+      ]
+    },
+    {
+      "word": "wolf",
+      "exampleSentences": [
+        "A lone wolf howled at the moon.",
+        "The story was about a wolf and three pigs."
+      ]
+    },
+    {
+      "word": "gate",
+      "exampleSentences": [
+        "She opened the garden gate carefully.",
+        "The sheep escaped through the broken gate."
+      ]
+    },
+    {
+      "word": "sad",
+      "exampleSentences": [
+        "She felt sad when her friend moved away.",
+        "The sad film made everyone cry."
+      ]
+    },
+    {
+      "word": "bedroom",
+      "exampleSentences": [
+        "He tidied his bedroom before guests arrived.",
+        "Her bedroom window looked out over the garden."
+      ]
+    },
+    {
+      "word": "brain",
+      "exampleSentences": [
+        "The human brain is incredibly complex.",
+        "She used her brain to solve the riddle."
+      ]
+    },
+    {
+      "word": "village",
+      "exampleSentences": [
+        "The village had one small bakery.",
+        "They cycled through a quiet village."
+      ]
+    },
+    {
+      "word": "state",
+      "exampleSentences": [
+        "Texas is a large state in America.",
+        "He described the state of the broken bike."
+      ]
+    },
+    {
+      "word": "shop",
+      "exampleSentences": [
+        "She bought bread from the corner shop.",
+        "We window-shopped at the toy shop."
+      ]
+    },
+    {
+      "word": "dry",
+      "exampleSentences": [
+        "The towel was dry by the afternoon.",
+        "The desert stays dry for most of the year."
+      ]
+    },
+    {
+      "word": "beach",
+      "exampleSentences": [
+        "We built sandcastles on the beach.",
+        "The beach was covered in smooth pebbles."
+      ]
+    },
+    {
+      "word": "calm",
+      "exampleSentences": [
+        "She stayed calm during the thunderstorm.",
+        "The sea was calm and still that morning."
+      ]
+    },
+    {
+      "word": "impossible",
+      "exampleSentences": [
+        "It seemed impossible to finish on time.",
+        "The maze looked impossible to solve."
+      ]
+    },
+    {
+      "word": "usually",
+      "exampleSentences": [
+        "She usually walks to school.",
+        "We usually have pasta on Fridays."
+      ]
+    },
+    {
+      "word": "fair",
+      "exampleSentences": [
+        "It wasn't fair that he got two turns.",
+        "We rode the Ferris wheel at the fair."
+      ]
+    },
+    {
+      "word": "slightly",
+      "exampleSentences": [
+        "The cake was slightly burnt at the edges.",
+        "She tilted her head slightly to listen."
+      ]
+    },
+    {
+      "word": "snapped",
+      "exampleSentences": [
+        "The twig snapped under his foot.",
+        "She snapped a photo of the sunset."
+      ]
+    },
+    {
+      "word": "burst",
+      "exampleSentences": [
+        "The balloon burst with a loud pop.",
+        "He burst through the door, out of breath."
+      ]
+    },
+    {
+      "word": "forgotten",
+      "exampleSentences": [
+        "He had forgotten his lunch at home.",
+        "The old toy lay forgotten in the attic."
+      ]
+    },
+    {
+      "word": "stories",
+      "exampleSentences": [
+        "Grandpa tells the best bedtime stories.",
+        "The library had shelves of adventure stories."
+      ]
+    },
+    {
+      "word": "grown",
+      "exampleSentences": [
+        "The plant had grown twice its size.",
+        "She has grown taller than her sister."
+      ]
+    },
+    {
+      "word": "breakfast",
+      "exampleSentences": [
+        "We had toast and eggs for breakfast.",
+        "He skipped breakfast and felt hungry by ten."
+      ]
+    },
+    {
+      "word": "explain",
+      "exampleSentences": [
+        "Can you explain how this game works?",
+        "The teacher tried to explain the sum again."
+      ]
+    },
+    {
+      "word": "apart",
+      "exampleSentences": [
+        "The two houses stood far apart.",
+        "They took the clock apart to fix it."
+      ]
+    },
+    {
+      "word": "busy",
+      "exampleSentences": [
+        "The market was busy on Saturday morning.",
+        "She stayed busy painting all afternoon."
+      ]
+    },
+    {
+      "word": "wore",
+      "exampleSentences": [
+        "She wore a red scarf in winter.",
+        "He wore his best shoes to the party."
+      ]
+    },
+    {
+      "word": "putting",
+      "exampleSentences": [
+        "She is putting the toys away now.",
+        "He kept putting off his homework."
+      ]
+    },
+    {
+      "word": "present",
+      "exampleSentences": [
+        "She opened her birthday present carefully.",
+        "He was present at every football practice."
+      ]
+    },
+    {
+      "word": "drive",
+      "exampleSentences": [
+        "It takes an hour to drive to the coast.",
+        "My uncle will drive us to the airport."
+      ]
+    },
+    {
+      "word": "mountain",
+      "exampleSentences": [
+        "They hiked to the top of the mountain.",
+        "Snow covered the mountain all winter."
+      ]
+    },
+    {
+      "word": "born",
+      "exampleSentences": [
+        "Her baby brother was born in May.",
+        "He was born in a small village."
+      ]
+    },
+    {
+      "word": "flew",
+      "exampleSentences": [
+        "The plane flew high above the clouds.",
+        "A sparrow flew in through the open window."
+      ]
+    },
+    {
+      "word": "difficult",
+      "exampleSentences": [
+        "The exam questions were quite difficult.",
+        "Climbing the steep hill was difficult."
+      ]
+    },
+    {
+      "word": "shrugged",
+      "exampleSentences": [
+        "She shrugged when asked where he went.",
+        "He shrugged and said he didn't mind."
+      ]
+    },
+    {
+      "word": "drop",
+      "exampleSentences": [
+        "Be careful not to drop the plate.",
+        "A single drop of rain hit the window."
+      ]
+    },
+    {
+      "word": "twenty",
+      "exampleSentences": [
+        "She counted twenty birds in the field.",
+        "It took twenty minutes to walk home."
+      ]
+    },
+    {
+      "word": "glance",
+      "exampleSentences": [
+        "She took a quick glance at the clock.",
+        "One glance told him something was wrong."
+      ]
+    },
+    {
+      "word": "view",
+      "exampleSentences": [
+        "The hilltop had a beautiful view.",
+        "From her window she had a view of the sea."
+      ]
+    },
+    {
+      "word": "whom",
+      "exampleSentences": [
+        "To whom should I address this letter?",
+        "To whom should I address this letter?"
+      ]
+    },
+    {
+      "word": "history",
+      "exampleSentences": [
+        "We learned about ancient history today.",
+        "The museum told the history of the town."
+      ]
+    },
+    {
+      "word": "sudden",
+      "exampleSentences": [
+        "There was a sudden crash from the kitchen.",
+        "A sudden gust of wind knocked over the vase."
+      ]
+    },
+    {
+      "word": "wrote",
+      "exampleSentences": [
+        "She wrote a letter to her pen pal.",
+        "He wrote his name on every page."
+      ]
+    },
+    {
+      "word": "carry",
+      "exampleSentences": [
+        "Can you help me carry these bags?",
+        "Ants can carry objects much bigger than themselves."
+      ]
+    },
+    {
+      "word": "iron",
+      "exampleSentences": [
+        "The gate was made of heavy iron.",
+        "She used the iron to smooth the shirt."
+      ]
+    },
+    {
+      "word": "memory",
+      "exampleSentences": [
+        "He has a great memory for faces.",
+        "That holiday is a happy memory for her."
+      ]
+    },
+    {
+      "word": "note",
+      "exampleSentences": [
+        "She left a note on the fridge.",
+        "He played a wrong note on the piano."
+      ]
+    },
+    {
+      "word": "strength",
+      "exampleSentences": [
+        "It took all his strength to lift the box.",
+        "She found strength in her friends' support."
+      ]
+    },
+    {
+      "word": "station",
+      "exampleSentences": [
+        "We waited at the train station.",
+        "The fire station is near the school."
+      ]
+    },
+    {
+      "word": "form",
+      "exampleSentences": [
+        "Please fill in the form with your name.",
+        "Clouds form when warm air rises and cools."
+      ]
+    },
+    {
+      "word": "slipped",
+      "exampleSentences": [
+        "He slipped on the icy path.",
+        "The note slipped out of her pocket."
+      ]
+    },
+    {
+      "word": "pink",
+      "exampleSentences": [
+        "Her bedroom walls were painted pink.",
+        "The sunset turned the clouds a soft pink."
+      ]
+    },
+    {
+      "word": "written",
+      "exampleSentences": [
+        "The story was written by a young author.",
+        "Her name was written at the top of the list."
+      ]
+    },
+    {
+      "word": "company",
+      "exampleSentences": [
+        "I enjoy her company on long walks.",
+        "He started his own toy company."
+      ]
+    },
+    {
+      "word": "beat",
+      "exampleSentences": [
+        "Her heart began to beat faster.",
+        "They managed to beat the other team."
+      ]
+    },
+    {
+      "word": "hill",
+      "exampleSentences": [
+        "They rolled down the grassy hill.",
+        "The old windmill stood on top of the hill."
+      ]
+    },
+    {
+      "word": "lose",
+      "exampleSentences": [
+        "Try not to lose your library card.",
+        "It's okay to lose sometimes in games."
+      ]
+    },
+    {
+      "word": "crazy",
+      "exampleSentences": [
+        "The puppy went crazy chasing its tail.",
+        "It was a crazy idea, but it worked."
+      ]
+    },
+    {
+      "word": "normal",
+      "exampleSentences": [
+        "Everything felt normal again after the holidays.",
+        "Everything felt normal again after the storm."
+      ]
+    },
+    {
+      "word": "easily",
+      "exampleSentences": [
+        "She easily solved the tricky puzzle.",
+        "He could easily carry the heavy box."
+      ]
+    },
+    {
+      "word": "win",
+      "exampleSentences": [
+        "Our team hopes to win the final.",
+        "You don't always need to win to have fun."
+      ]
+    },
+    {
+      "word": "prince",
+      "exampleSentences": [
+        "The prince lived in a tall castle.",
+        "In the story, a prince rescued the dragon."
+      ]
+    },
+    {
+      "word": "hoped",
+      "exampleSentences": [
+        "She hoped it wouldn't rain for the picnic.",
+        "He hoped to see his friends at the party."
+      ]
+    },
+    {
+      "word": "serious",
+      "exampleSentences": [
+        "He gave a serious answer to the question.",
+        "He had a serious look on his face."
+      ]
+    },
+    {
+      "word": "paused",
+      "exampleSentences": [
+        "She paused before answering the question.",
+        "He paused the film to get a snack."
+      ]
+    },
+    {
+      "word": "spread",
+      "exampleSentences": [
+        "She spread jam on her toast.",
+        "The news spread quickly around the school."
+      ]
+    },
+    {
+      "word": "lead",
+      "exampleSentences": [
+        "The coach will lead the team onto the field.",
+        "She took the lead in the final lap."
+      ]
+    },
+    {
+      "word": "fresh",
+      "exampleSentences": [
+        "We bought fresh bread from the bakery.",
+        "The fresh air felt good after the rain."
+      ]
+    },
+    {
+      "word": "tongue",
+      "exampleSentences": [
+        "The dog's tongue hung out after the run.",
+        "She bit her tongue by accident."
+      ]
+    },
+    {
+      "word": "visit",
+      "exampleSentences": [
+        "We will visit grandma this weekend.",
+        "They plan to visit the museum on Friday."
+      ]
+    },
+    {
+      "word": "army",
+      "exampleSentences": [
+        "The toy soldiers stood like a tiny army.",
+        "The ants marched like a tiny army."
+      ]
+    },
+    {
+      "word": "future",
+      "exampleSentences": [
+        "She dreams of being a vet in the future.",
+        "No one knows exactly what the future holds."
+      ]
+    },
+    {
+      "word": "worth",
+      "exampleSentences": [
+        "The old coin is worth a lot of money.",
+        "It was worth waiting for the fireworks."
+      ]
+    },
+    {
+      "word": "mark",
+      "exampleSentences": [
+        "She got a high mark on her spelling test.",
+        "There was a muddy mark on the carpet."
+      ]
+    },
+    {
+      "word": "act",
+      "exampleSentences": [
+        "She wants to act in the school play.",
+        "It was kind of him to act so quickly."
+      ]
+    },
+    {
+      "word": "kiss",
+      "exampleSentences": [
+        "She gave her mum a goodnight kiss.",
+        "The frog turned into a prince after a kiss."
+      ]
+    },
+    {
+      "word": "storm",
+      "exampleSentences": [
+        "A storm knocked down the old fence.",
+        "We watched the storm from the window."
+      ]
+    },
+    {
+      "word": "dust",
+      "exampleSentences": [
+        "Dust covered the old books on the shelf.",
+        "She wiped the dust off the table."
+      ]
+    },
+    {
+      "word": "cover",
+      "exampleSentences": [
+        "Please cover the food before it goes cold.",
+        "The book had a bright blue cover."
+      ]
+    },
+    {
+      "word": "cross",
+      "exampleSentences": [
+        "Please look both ways before you cross.",
+        "She was cross about losing her favourite pen."
+      ]
+    },
+    {
+      "word": "relief",
+      "exampleSentences": [
+        "She sighed with relief when the test ended.",
+        "It was a relief to find the lost keys."
+      ]
+    },
+    {
+      "word": "ride",
+      "exampleSentences": [
+        "Can I have a ride on your bike?",
+        "They went for a ride along the river path."
+      ]
+    },
+    {
+      "word": "begin",
+      "exampleSentences": [
+        "Let's begin the lesson with a quick quiz.",
+        "The race will begin at ten o'clock."
+      ]
+    },
+    {
+      "word": "anger",
+      "exampleSentences": [
+        "He tried to control his anger.",
+        "Her face showed a flash of anger."
+      ]
+    },
+    {
+      "word": "hiding",
+      "exampleSentences": [
+        "The cat was hiding under the bed.",
+        "He was hiding behind the curtains."
+      ]
+    },
+    {
+      "word": "expect",
+      "exampleSentences": [
+        "I expect it will rain later today.",
+        "We didn't expect such a big surprise."
+      ]
+    },
+    {
+      "word": "wake",
+      "exampleSentences": [
+        "Please wake me up at seven.",
+        "The loud thunder made the baby wake."
+      ]
+    },
+    {
+      "word": "softly",
+      "exampleSentences": [
+        "She spoke softly so as not to wake the baby.",
+        "Snow fell softly on the quiet street."
+      ]
+    },
+    {
+      "word": "join",
+      "exampleSentences": [
+        "Would you like to join our team?",
+        "The two roads join just past the bridge."
+      ]
+    },
+    {
+      "word": "familiar",
+      "exampleSentences": [
+        "The song sounded familiar to her.",
+        "He felt at home in the familiar street."
+      ]
+    },
+    {
+      "word": "hoping",
+      "exampleSentences": [
+        "She was hoping for sunny weather.",
+        "He kept hoping his team would win."
+      ]
+    },
+    {
+      "word": "check",
+      "exampleSentences": [
+        "Please check your answers before handing it in.",
+        "He went to check if the door was locked."
+      ]
+    },
+    {
+      "word": "forced",
+      "exampleSentences": [
+        "The rain forced them to stay indoors.",
+        "She forced a smile despite feeling sad."
+      ]
+    },
+    {
+      "word": "animal",
+      "exampleSentences": [
+        "Her favourite animal is the elephant.",
+        "The vet looked after the injured animal."
+      ]
+    },
+    {
+      "word": "size",
+      "exampleSentences": [
+        "The shoes were the wrong size.",
+        "What size is this box of cereal?"
+      ]
+    },
+    {
+      "word": "careful",
+      "exampleSentences": [
+        "Be careful on the slippery steps.",
+        "She was careful not to spill the juice."
+      ]
+    },
+    {
+      "word": "key",
+      "exampleSentences": [
+        "He lost the key to the front door.",
+        "The key to success is practice."
+      ]
+    },
+    {
+      "word": "cup",
+      "exampleSentences": [
+        "She filled the cup with warm milk.",
+        "He won a small cup at the race."
+      ]
+    },
+    {
+      "word": "page",
+      "exampleSentences": [
+        "Turn to the next page of the book.",
+        "She drew a flower on the last page."
+      ]
+    },
+    {
+      "word": "fallen",
+      "exampleSentences": [
+        "Leaves had fallen all over the path.",
+        "Leaves had fallen all over the path."
+      ]
+    },
+    {
+      "word": "machine",
+      "exampleSentences": [
+        "The washing machine hummed in the kitchen.",
+        "He built a small machine out of gears."
+      ]
+    },
+    {
+      "word": "besides",
+      "exampleSentences": [
+        "Besides maths, she also loves art.",
+        "There was no one else there besides us."
+      ]
+    },
+    {
+      "word": "west",
+      "exampleSentences": [
+        "The sun sets in the west.",
+        "They travelled west towards the coast."
+      ]
+    },
+    {
+      "word": "battle",
+      "exampleSentences": [
+        "The knights fought a great battle.",
+        "She felt like she'd won a small battle."
+      ]
+    },
+    {
+      "word": "tail",
+      "exampleSentences": [
+        "The dog wagged its tail happily.",
+        "The kite had a long, colourful tail."
+      ]
+    },
+    {
+      "word": "message",
+      "exampleSentences": [
+        "She left a message on the answering machine.",
+        "He sent a quick message to his friend."
+      ]
+    },
+    {
+      "word": "shape",
+      "exampleSentences": [
+        "The clouds formed a strange shape.",
+        "She cut the paper into a star shape."
+      ]
+    },
+    {
+      "word": "wrapped",
+      "exampleSentences": [
+        "She wrapped the present in blue paper.",
+        "He wrapped a scarf around his neck."
+      ]
+    },
+    {
+      "word": "main",
+      "exampleSentences": [
+        "The main road was busy with traffic.",
+        "The main character in the book is a fox."
+      ]
+    },
+    {
+      "word": "creature",
+      "exampleSentences": [
+        "A strange creature lived under the bridge.",
+        "The tiny creature scurried into its hole."
+      ]
+    },
+    {
+      "word": "placed",
+      "exampleSentences": [
+        "She placed the vase on the windowsill.",
+        "He placed his bag by the front door."
+      ]
+    },
+    {
+      "word": "cave",
+      "exampleSentences": [
+        "They explored a dark cave by the sea.",
+        "Bats slept in the cool cave all day."
+      ]
+    },
+    {
+      "word": "choice",
+      "exampleSentences": [
+        "You have the choice of cake or fruit.",
+        "It was a hard choice to make."
+      ]
+    },
+    {
+      "word": "laid",
+      "exampleSentences": [
+        "The hen laid an egg this morning.",
+        "She laid the blanket out on the grass."
+      ]
+    },
+    {
+      "word": "lit",
+      "exampleSentences": [
+        "She lit the candles on the cake.",
+        "The street lamps lit up the dark road."
+      ]
+    },
+    {
+      "word": "dance",
+      "exampleSentences": [
+        "They learned a new dance for the show.",
+        "She loves to dance around the kitchen."
+      ]
+    },
+    {
+      "word": "danger",
+      "exampleSentences": [
+        "The sign warned of danger ahead.",
+        "He was in no danger once the fire was out."
+      ]
+    },
+    {
+      "word": "writing",
+      "exampleSentences": [
+        "Her writing was neat and easy to read.",
+        "He spent the afternoon writing his story."
+      ]
+    },
+    {
+      "word": "unless",
+      "exampleSentences": [
+        "We won't go out unless it stops raining.",
+        "She won't eat it unless it's cold."
+      ]
+    },
+    {
+      "word": "count",
+      "exampleSentences": [
+        "Can you count to one hundred?",
+        "She began to count the sheep in the field."
+      ]
+    },
+    {
+      "word": "believed",
+      "exampleSentences": [
+        "She believed in trying her best.",
+        "He believed every word of the story."
+      ]
+    },
+    {
+      "word": "buy",
+      "exampleSentences": [
+        "We need to buy milk and eggs.",
+        "She saved her pocket money to buy a kite."
+      ]
+    },
+    {
+      "word": "bottle",
+      "exampleSentences": [
+        "He filled his bottle with cold water.",
+        "The message was sealed inside a bottle."
+      ]
+    },
+    {
+      "word": "understood",
+      "exampleSentences": [
+        "She finally understood the maths problem.",
+        "He understood why his friend was upset."
+      ]
+    },
+    {
+      "word": "surface",
+      "exampleSentences": [
+        "Bubbles rose to the surface of the pond.",
+        "The surface of the lake was like glass."
+      ]
+    },
+    {
+      "word": "despite",
+      "exampleSentences": [
+        "Despite the rain, they still went for a walk.",
+        "She smiled despite feeling nervous."
+      ]
+    },
+    {
+      "word": "weird",
+      "exampleSentences": [
+        "It felt weird wearing shoes on the wrong feet.",
+        "A weird noise came from the attic."
+      ]
+    },
+    {
+      "word": "hungry",
+      "exampleSentences": [
+        "The puppy looked hungry after its walk.",
+        "She felt hungry after swimming all morning."
+      ]
+    },
+    {
+      "word": "aside",
+      "exampleSentences": [
+        "He stepped aside to let her pass.",
+        "She put her homework aside for later."
+      ]
+    },
+    {
+      "word": "throw",
+      "exampleSentences": [
+        "Can you throw the ball to me?",
+        "He likes to throw stones into the lake."
+      ]
+    },
+    {
+      "word": "weight",
+      "exampleSentences": [
+        "The box was too heavy for its weight.",
+        "She felt the weight of the backpack on her shoulders."
+      ]
+    },
+    {
+      "word": "favourite",
+      "exampleSentences": [
+        "Blue is my favourite colour.",
+        "Reading is her favourite thing to do."
+      ]
+    },
+    {
+      "word": "yours",
+      "exampleSentences": [
+        "Is this red jumper yours?",
+        "The choice is entirely yours to make."
+      ]
+    },
+    {
+      "word": "library",
+      "exampleSentences": [
+        "She borrowed three books from the library.",
+        "The library was quiet and full of books."
+      ]
+    },
+    {
+      "word": "hospital",
+      "exampleSentences": [
+        "He visited his grandad in hospital.",
+        "The hospital was close to their house."
+      ]
+    },
+    {
+      "word": "winter",
+      "exampleSentences": [
+        "It snows a lot here in winter.",
+        "They wore thick coats all winter."
+      ]
+    },
+    {
+      "word": "breathing",
+      "exampleSentences": [
+        "She could hear the puppy's soft breathing.",
+        "He paused to catch his breathing after the run."
+      ]
+    },
+    {
+      "word": "struck",
+      "exampleSentences": [
+        "Lightning struck the old oak tree.",
+        "She was struck by how tall he had grown."
+      ]
+    },
+    {
+      "word": "pleased",
+      "exampleSentences": [
+        "He was pleased with his test results.",
+        "She looked pleased with her new drawing."
+      ]
+    },
+    {
+      "word": "shake",
+      "exampleSentences": [
+        "Please shake the bottle before opening it.",
+        "He gave her hand a friendly shake."
+      ]
+    },
+    {
+      "word": "square",
+      "exampleSentences": [
+        "They met in the town square.",
+        "She drew a square around the correct answer."
+      ]
+    },
+    {
+      "word": "heat",
+      "exampleSentences": [
+        "The heat from the fire warmed the room.",
+        "They stayed indoors during the midday heat."
+      ]
+    },
+    {
+      "word": "lunch",
+      "exampleSentences": [
+        "We ate sandwiches for lunch.",
+        "She packed a banana in her lunch bag."
+      ]
+    },
+    {
+      "word": "general",
+      "exampleSentences": [
+        "In general, she enjoys sunny weather.",
+        "The general led the toy soldiers into battle."
+      ]
+    },
+    {
+      "word": "church",
+      "exampleSentences": [
+        "The old church had a tall steeple.",
+        "They walked past the church on their way home."
+      ]
+    },
+    {
+      "word": "park",
+      "exampleSentences": [
+        "We flew kites in the park.",
+        "The dog loves running around the park."
+      ]
+    },
+    {
+      "word": "twice",
+      "exampleSentences": [
+        "She read the letter twice to be sure.",
+        "He checked the lock twice before leaving."
+      ]
+    },
+    {
+      "word": "wear",
+      "exampleSentences": [
+        "What will you wear to the party?",
+        "She likes to wear her hair in a plait."
+      ]
+    },
+    {
+      "word": "teacher",
+      "exampleSentences": [
+        "Our teacher read us a story today.",
+        "The teacher praised her neat handwriting."
+      ]
+    },
+    {
+      "word": "court",
+      "exampleSentences": [
+        "They played tennis on the school court.",
+        "The king held meetings in his royal court."
+      ]
+    },
+    {
+      "word": "built",
+      "exampleSentences": [
+        "He built a treehouse with his dad.",
+        "The nest was built high in the branches."
+      ]
+    },
+    {
+      "word": "sand",
+      "exampleSentences": [
+        "She buried her feet in the warm sand.",
+        "The wind blew sand across the beach."
+      ]
+    },
+    {
+      "word": "whisper",
+      "exampleSentences": [
+        "She could barely hear his quiet whisper.",
+        "He began to whisper so no one else would hear."
+      ]
+    },
+    {
+      "word": "tower",
+      "exampleSentences": [
+        "The clock tower chimed every hour.",
+        "They climbed to the top of the tower."
+      ]
+    },
+    {
+      "word": "screen",
+      "exampleSentences": [
+        "The film played on a big screen.",
+        "He wiped a smudge off the phone screen."
+      ]
+    },
+    {
+      "word": "attack",
+      "exampleSentences": [
+        "The knights prepared for the enemy's attack.",
+        "The dog began to bark at the sudden attack of rain."
+      ]
+    },
+    {
+      "word": "forehead",
+      "exampleSentences": [
+        "She wiped the sweat from her forehead.",
+        "He had a small scar on his forehead."
+      ]
+    },
+    {
+      "word": "stare",
+      "exampleSentences": [
+        "It's rude to stare at strangers.",
+        "The cat gave a long stare at the fish tank."
+      ]
+    },
+    {
+      "word": "lucky",
+      "exampleSentences": [
+        "She felt lucky to find her lost ring.",
+        "It was a lucky guess that turned out right."
+      ]
+    }
+  ]
+}

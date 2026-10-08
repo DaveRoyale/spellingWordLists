@@ -120,6 +120,21 @@
         "loved",
         "threw"
       ]
+    },
+    {
+      "id": "hf3",
+      "title": "High Frequency Words 3",
+      "description": "List 3 of the High Frequency Words series (v1.2): the 3rd 250 most frequent words from CYP-LEX (1,200 UK children's books), after dropping proper nouns, the 250 most common words, rare/name-like forms, plain inflections, and merging American spellings into their British/Australian equivalent before ranking — ranked most frequent first.",
+      "wordCount": 250,
+      "path": "hf3.json",
+      "sampleWords": [
+        "castle",
+        "summer",
+        "library",
+        "mountain",
+        "escape",
+        "dangerous"
+      ]
     }
   ]
 }
