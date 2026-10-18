@@ -1,0 +1,331 @@
+{
+  "id": "ch2",
+  "title": "學華語向前走 2A — Lesson 2",
+  "description": "Vocabulary from lesson 2 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "外公",
+      "pinyin": "wàigōng",
+      "definition": "maternal grandfather",
+      "exampleSentences": [
+        {
+          "hanzi": "我的外公很高。",
+          "pinyin": "wǒ de wàigōng hěn gāo.",
+          "english": "My maternal grandfather is very tall."
+        },
+        {
+          "hanzi": "這是我的外公。",
+          "pinyin": "zhè shì wǒ de wàigōng.",
+          "english": "This is my maternal grandfather."
+        },
+        {
+          "hanzi": "週末我跟外公一起去公園。",
+          "pinyin": "zhōumò wǒ gēn wàigōng yìqǐ qù gōngyuán.",
+          "english": "On the weekend, Grandpa (Mum's dad) and I go to the park together."
+        },
+        {
+          "hanzi": "外公教我寫字。",
+          "pinyin": "wàigōng jiāo wǒ xiě zì.",
+          "english": "Grandpa (Mum's dad) teaches me to write characters."
+        }
+      ]
+    },
+    {
+      "hanzi": "以前",
+      "pinyin": "yǐqián",
+      "definition": "before, previously",
+      "exampleSentences": [
+        {
+          "hanzi": "以前我不會寫字。",
+          "pinyin": "yǐqián wǒ bù huì xiě zì.",
+          "english": "Before, I couldn't write characters."
+        },
+        {
+          "hanzi": "這個玩具以前是我的。",
+          "pinyin": "zhège wánjù yǐqián shì wǒ de.",
+          "english": "This toy used to be mine."
+        },
+        {
+          "hanzi": "以前我不敢下水，現在敢了。",
+          "pinyin": "yǐqián wǒ bù gǎn xiàshuǐ, xiànzài gǎn le.",
+          "english": "I used to be scared to go into the water, but now I'm not."
+        },
+        {
+          "hanzi": "以前我的書包很重，現在輕多了。",
+          "pinyin": "yǐqián wǒ de shūbāo hěn zhòng, xiànzài qīng duō le.",
+          "english": "My school bag used to be very heavy, but now it's much lighter."
+        }
+      ]
+    },
+    {
+      "hanzi": "外婆",
+      "pinyin": "wàipó",
+      "definition": "maternal grandmother",
+      "exampleSentences": [
+        {
+          "hanzi": "這是我的外婆。",
+          "pinyin": "zhè shì wǒ de wàipó.",
+          "english": "This is my maternal grandmother."
+        },
+        {
+          "hanzi": "外婆做的菜很好吃。",
+          "pinyin": "wàipó zuò de cài hěn hǎochī.",
+          "english": "Grandma's cooking is very delicious."
+        },
+        {
+          "hanzi": "週末我去外婆家吃飯。",
+          "pinyin": "zhōumò wǒ qù wàipó jiā chīfàn.",
+          "english": "On the weekend I go to Grandma's house for dinner."
+        },
+        {
+          "hanzi": "週末外婆陪我去海灘玩。",
+          "pinyin": "zhōumò wàipó péi wǒ qù hǎitān wán.",
+          "english": "On the weekend Grandma takes me to the beach to play."
+        }
+      ]
+    },
+    {
+      "hanzi": "做生意",
+      "pinyin": "zuòshēngyì",
+      "definition": "to do business",
+      "exampleSentences": [
+        {
+          "hanzi": "爸爸在做生意。",
+          "pinyin": "bàba zài zuòshēngyì.",
+          "english": "Dad is doing business."
+        },
+        {
+          "hanzi": "外公以前做生意。",
+          "pinyin": "wàigōng yǐqián zuòshēngyì.",
+          "english": "Grandpa used to be in business."
+        },
+        {
+          "hanzi": "我長大以後想做生意，賣冰淇淋。",
+          "pinyin": "wǒ zhǎngdà yǐhòu xiǎng zuòshēngyì, mài bīngqílín.",
+          "english": "When I grow up I want to do business and sell ice cream."
+        },
+        {
+          "hanzi": "叔叔做生意，賣水果。",
+          "pinyin": "shūshu zuòshēngyì, mài shuǐguǒ.",
+          "english": "Uncle is in business, selling fruit."
+        }
+      ]
+    },
+    {
+      "hanzi": "幫",
+      "pinyin": "bāng",
+      "definition": "to help, to assist",
+      "exampleSentences": [
+        {
+          "hanzi": "你可以幫我嗎？",
+          "pinyin": "nǐ kěyǐ bāng wǒ ma?",
+          "english": "Can you help me?"
+        },
+        {
+          "hanzi": "我幫媽媽洗碗。",
+          "pinyin": "wǒ bāng māma xǐ wǎn.",
+          "english": "I help Mum wash the dishes."
+        },
+        {
+          "hanzi": "我幫爸爸洗車。",
+          "pinyin": "wǒ bāng bàba xǐ chē.",
+          "english": "I help Dad wash the car."
+        },
+        {
+          "hanzi": "你幫我撿球，好不好？",
+          "pinyin": "nǐ bāng wǒ jiǎn qiú, hǎo bu hǎo?",
+          "english": "Can you help me pick up the ball, OK?"
+        }
+      ]
+    },
+    {
+      "hanzi": "醫生",
+      "pinyin": "yīshēng",
+      "definition": "doctor",
+      "exampleSentences": [
+        {
+          "hanzi": "他是醫生。",
+          "pinyin": "tā shì yīshēng.",
+          "english": "He is a doctor."
+        },
+        {
+          "hanzi": "我的阿姨是醫生。",
+          "pinyin": "wǒ de āyí shì yīshēng.",
+          "english": "My aunt is a doctor."
+        },
+        {
+          "hanzi": "我跟玩具熊玩醫生遊戲。",
+          "pinyin": "wǒ gēn wánjùxióng wán yīshēng yóuxì.",
+          "english": "I play doctor with my teddy bear."
+        },
+        {
+          "hanzi": "我感冒了，醫生說要多喝水。",
+          "pinyin": "wǒ gǎnmào le, yīshēng shuō yào duō hē shuǐ.",
+          "english": "I have a cold, and the doctor says to drink lots of water."
+        }
+      ]
+    },
+    {
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "definition": "to work, job, task",
+      "exampleSentences": [
+        {
+          "hanzi": "你爸爸的工作是什麼？",
+          "pinyin": "nǐ bàba de gōngzuò shì shénme?",
+          "english": "What is your dad's job?"
+        },
+        {
+          "hanzi": "叔叔的工作是開校車。",
+          "pinyin": "shūshu de gōngzuò shì kāi xiàochē.",
+          "english": "Uncle's job is driving the school bus."
+        },
+        {
+          "hanzi": "媽媽工作了一天，很累。",
+          "pinyin": "māma gōngzuò le yì tiān, hěn lèi.",
+          "english": "Mum has worked all day and is very tired."
+        },
+        {
+          "hanzi": "週末爸爸不工作，我們去海灘玩。",
+          "pinyin": "zhōumò bàba bù gōngzuò, wǒmen qù hǎitān wán.",
+          "english": "On the weekend Dad doesn't work, so we go to the beach."
+        }
+      ]
+    },
+    {
+      "hanzi": "銀行",
+      "pinyin": "yínháng",
+      "definition": "bank",
+      "exampleSentences": [
+        {
+          "hanzi": "銀行在哪裡？",
+          "pinyin": "yínháng zài nǎlǐ?",
+          "english": "Where is the bank?"
+        },
+        {
+          "hanzi": "我們去銀行。",
+          "pinyin": "wǒmen qù yínháng.",
+          "english": "We go to the bank."
+        },
+        {
+          "hanzi": "我把零用錢存在銀行。",
+          "pinyin": "wǒ bǎ língyòngqián cún zài yínháng.",
+          "english": "I save my pocket money in the bank."
+        },
+        {
+          "hanzi": "校車經過銀行。",
+          "pinyin": "xiàochē jīngguò yínháng.",
+          "english": "The school bus goes past the bank."
+        }
+      ]
+    },
+    {
+      "hanzi": "一樣",
+      "pinyin": "yíyàng",
+      "definition": "same, like, the same as, just like",
+      "exampleSentences": [
+        {
+          "hanzi": "我的書包跟你的一樣。",
+          "pinyin": "wǒ de shūbāo gēn nǐ de yíyàng.",
+          "english": "My school bag is the same as yours."
+        },
+        {
+          "hanzi": "我跟你一樣高。",
+          "pinyin": "wǒ gēn nǐ yíyàng gāo.",
+          "english": "I am as tall as you."
+        },
+        {
+          "hanzi": "我跟你一樣喜歡踢足球。",
+          "pinyin": "wǒ gēn nǐ yíyàng xǐhuan tī zúqiú.",
+          "english": "I like playing soccer just like you."
+        },
+        {
+          "hanzi": "我的帽子跟妹妹的一樣。",
+          "pinyin": "wǒ de màozi gēn mèimei de yíyàng.",
+          "english": "My hat is the same as my little sister's."
+        }
+      ]
+    },
+    {
+      "hanzi": "電腦公司",
+      "pinyin": "diànnǎogōngsī",
+      "definition": "computer company",
+      "exampleSentences": [
+        {
+          "hanzi": "他在電腦公司工作。",
+          "pinyin": "tā zài diànnǎogōngsī gōngzuò.",
+          "english": "He works at a computer company."
+        },
+        {
+          "hanzi": "電腦公司在那棟大樓裡。",
+          "pinyin": "diànnǎogōngsī zài nà dòng dàlóu lǐ.",
+          "english": "The computer company is in that big building."
+        },
+        {
+          "hanzi": "我想去爸爸的電腦公司看看。",
+          "pinyin": "wǒ xiǎng qù bàba de diànnǎogōngsī kànkan.",
+          "english": "I want to go and have a look at Dad's computer company."
+        },
+        {
+          "hanzi": "爸爸的朋友在一家電腦公司工作。",
+          "pinyin": "bàba de péngyou zài yì jiā diànnǎogōngsī gōngzuò.",
+          "english": "Dad's friend works at a computer company."
+        }
+      ]
+    },
+    {
+      "hanzi": "上班",
+      "pinyin": "shàngbān",
+      "definition": "to go to work, to start work",
+      "exampleSentences": [
+        {
+          "hanzi": "爸爸每天早上七點上班。",
+          "pinyin": "bàba měitiān zǎoshang qī diǎn shàngbān.",
+          "english": "Dad goes to work at seven every morning."
+        },
+        {
+          "hanzi": "媽媽今天不上班。",
+          "pinyin": "māma jīntiān bú shàngbān.",
+          "english": "Mum doesn't go to work today."
+        },
+        {
+          "hanzi": "爸爸上班，我去上學。",
+          "pinyin": "bàba shàngbān, wǒ qù shàngxué.",
+          "english": "Dad goes to work and I go to school."
+        },
+        {
+          "hanzi": "週六爸爸不上班，我們去踢足球。",
+          "pinyin": "zhōuliù bàba bú shàngbān, wǒmen qù tī zúqiú.",
+          "english": "On Saturday Dad doesn't go to work, so we go and play soccer."
+        }
+      ]
+    },
+    {
+      "hanzi": "以後",
+      "pinyin": "yǐhòu",
+      "definition": "in the future",
+      "exampleSentences": [
+        {
+          "hanzi": "以後上課要認真聽。",
+          "pinyin": "yǐhòu shàngkè yào rènzhēn tīng.",
+          "english": "From now on, listen carefully in class."
+        },
+        {
+          "hanzi": "我們以後再一起去公園吧。",
+          "pinyin": "wǒmen yǐhòu zài yìqǐ qù gōngyuán ba.",
+          "english": "Let's go to the park together another time."
+        },
+        {
+          "hanzi": "吃完晚飯以後，我們去公園玩。",
+          "pinyin": "chīwán wǎnfàn yǐhòu, wǒmen qù gōngyuán wán.",
+          "english": "After dinner, we go and play at the park."
+        },
+        {
+          "hanzi": "以後我坐校車回家。",
+          "pinyin": "yǐhòu wǒ zuò xiàochē huí jiā.",
+          "english": "From now on I will take the school bus home."
+        }
+      ]
+    }
+  ]
+}

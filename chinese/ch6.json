@@ -1,0 +1,493 @@
+{
+  "id": "ch6",
+  "title": "學華語向前走 2A — Lesson 6",
+  "description": "Vocabulary from lesson 6 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "農曆",
+      "pinyin": "nónglì",
+      "definition": "lunar calendar",
+      "exampleSentences": [
+        {
+          "hanzi": "農曆新年在一月或二月。",
+          "pinyin": "nónglì xīnnián zài yīyuè huò èryuè.",
+          "english": "The Lunar New Year is in January or February."
+        },
+        {
+          "hanzi": "很多華人過節都用農曆。",
+          "pinyin": "hěn duō huárén guòjié dōu yòng nónglì.",
+          "english": "Many Chinese people use the lunar calendar for festivals."
+        },
+        {
+          "hanzi": "爺爺翻開農曆，告訴我過年的日子。",
+          "pinyin": "yéye fān kāi nónglì, gàosu wǒ guònián de rìzi.",
+          "english": "Grandpa opens the lunar calendar and tells me the New Year date."
+        },
+        {
+          "hanzi": "中文學校的老師拿出農曆，教我們認識月份。",
+          "pinyin": "zhōngwén xuéxiào de lǎoshī ná chū nónglì, jiāo wǒmen rènshi yuèfèn.",
+          "english": "The Chinese school teacher shows us the lunar calendar and teaches us the months."
+        }
+      ]
+    },
+    {
+      "hanzi": "說",
+      "pinyin": "shuō",
+      "definition": "to speak, to say",
+      "exampleSentences": [
+        {
+          "hanzi": "老師說，大家要安靜。",
+          "pinyin": "lǎoshī shuō, dàjiā yào ānjìng.",
+          "english": "The teacher says everyone must be quiet."
+        },
+        {
+          "hanzi": "我在家說中文。",
+          "pinyin": "wǒ zài jiā shuō zhōngwén.",
+          "english": "I speak Chinese at home."
+        },
+        {
+          "hanzi": "我跟媽媽說，我想吃草莓。",
+          "pinyin": "wǒ gēn māma shuō, wǒ xiǎng chī cǎoméi.",
+          "english": "I tell Mum I want to eat strawberries."
+        },
+        {
+          "hanzi": "校車司機叔叔跟我說早安。",
+          "pinyin": "xiàochē sījī shūshu gēn wǒ shuō zǎo'ān.",
+          "english": "The school bus driver says good morning to me."
+        }
+      ]
+    },
+    {
+      "hanzi": "新年",
+      "pinyin": "xīnnián",
+      "definition": "New Year",
+      "exampleSentences": [
+        {
+          "hanzi": "新年快樂！",
+          "pinyin": "xīnnián kuàilè!",
+          "english": "Happy New Year!"
+        },
+        {
+          "hanzi": "新年是一個很重要的節日。",
+          "pinyin": "xīnnián shì yí ge hěn zhòngyào de jiérì.",
+          "english": "New Year is a very important festival."
+        },
+        {
+          "hanzi": "新年的時候，我們去奶奶家吃飯。",
+          "pinyin": "xīnnián de shíhou, wǒmen qù nǎinai jiā chī fàn.",
+          "english": "At New Year we go to Grandma's house for dinner."
+        },
+        {
+          "hanzi": "新年的晚上，我們去海港看煙火。",
+          "pinyin": "xīnnián de wǎnshang, wǒmen qù hǎigǎng kàn yānhuǒ.",
+          "english": "On New Year's night we go to the harbour to watch the fireworks."
+        }
+      ]
+    },
+    {
+      "hanzi": "華人",
+      "pinyin": "huárén",
+      "definition": "Ethnic Chinese (person, people)",
+      "exampleSentences": [
+        {
+          "hanzi": "他是華人。",
+          "pinyin": "tā shì huárén.",
+          "english": "He is ethnic Chinese."
+        },
+        {
+          "hanzi": "世界各地都有華人。",
+          "pinyin": "shìjiè gèdì dōu yǒu huárén.",
+          "english": "There are Chinese people all over the world."
+        },
+        {
+          "hanzi": "爺爺是華人，他在家都說華語。",
+          "pinyin": "yéye shì huárén, tā zài jiā dōu shuō huáyǔ.",
+          "english": "Grandpa is ethnic Chinese, and he speaks Mandarin at home."
+        },
+        {
+          "hanzi": "我的好朋友一家人都是華人，週末我們一起去公園。",
+          "pinyin": "wǒ de hǎo péngyou yì jiārén dōu shì huárén, zhōumò wǒmen yìqǐ qù gōngyuán.",
+          "english": "My best friend's whole family is ethnic Chinese, and on the weekend we go to the park together."
+        }
+      ]
+    },
+    {
+      "hanzi": "下",
+      "pinyin": "xià",
+      "definition": "next (week, etc.), down, below",
+      "exampleSentences": [
+        {
+          "hanzi": "下個星期我們去看爺爺。",
+          "pinyin": "xià ge xīngqī wǒmen qù kàn yéye.",
+          "english": "Next week we are going to visit Grandpa (Dad's dad)."
+        },
+        {
+          "hanzi": "下一課我們學寫字。",
+          "pinyin": "xià yí kè wǒmen xué xiě zì.",
+          "english": "In the next lesson we learn to write characters."
+        },
+        {
+          "hanzi": "下個星期六，我們去外婆家吃午飯。",
+          "pinyin": "xià ge xīngqīliù, wǒmen qù wàipó jiā chī wǔfàn.",
+          "english": "Next Saturday we go to Grandma's house (Mum's mum) for lunch."
+        },
+        {
+          "hanzi": "下次我們一起踢足球吧。",
+          "pinyin": "xià cì wǒmen yìqǐ tī zúqiú ba.",
+          "english": "Next time, let's play soccer together."
+        }
+      ]
+    },
+    {
+      "hanzi": "星期",
+      "pinyin": "xīngqī",
+      "definition": "week",
+      "exampleSentences": [
+        {
+          "hanzi": "今天是星期一。",
+          "pinyin": "jīntiān shì xīngqīyī.",
+          "english": "Today is Monday."
+        },
+        {
+          "hanzi": "一個星期有七天。",
+          "pinyin": "yí ge xīngqī yǒu qī tiān.",
+          "english": "A week has seven days."
+        },
+        {
+          "hanzi": "星期六的早上，我跟爸爸去踢足球。",
+          "pinyin": "xīngqīliù de zǎoshang, wǒ gēn bàba qù tī zúqiú.",
+          "english": "On Saturday morning Dad and I go and play soccer."
+        },
+        {
+          "hanzi": "星期五放學後，我坐校車回家。",
+          "pinyin": "xīngqīwǔ fàngxué hòu, wǒ zuò xiàochē huíjiā.",
+          "english": "On Friday after school I take the school bus home."
+        }
+      ]
+    },
+    {
+      "hanzi": "會",
+      "pinyin": "huì",
+      "definition": "shall, will",
+      "exampleSentences": [
+        {
+          "hanzi": "明天會下雨。",
+          "pinyin": "míngtiān huì xià yǔ.",
+          "english": "It will rain tomorrow."
+        },
+        {
+          "hanzi": "我會乖乖坐好。",
+          "pinyin": "wǒ huì guāiguāi zuò hǎo.",
+          "english": "I will sit nicely."
+        },
+        {
+          "hanzi": "下午我們會去海灘玩水。",
+          "pinyin": "xiàwǔ wǒmen huì qù hǎitān wán shuǐ.",
+          "english": "In the afternoon we will go to the beach to play in the water."
+        },
+        {
+          "hanzi": "吃完飯以後，我們會去散步。",
+          "pinyin": "chī wán fàn yǐhòu, wǒmen huì qù sànbù.",
+          "english": "After dinner, we will go for a walk."
+        }
+      ]
+    },
+    {
+      "hanzi": "年糕",
+      "pinyin": "niángāo",
+      "definition": "New Year cake made of steamed glutinous rice, sticky cakes",
+      "exampleSentences": [
+        {
+          "hanzi": "這是年糕。",
+          "pinyin": "zhè shì niángāo.",
+          "english": "This is New Year cake."
+        },
+        {
+          "hanzi": "年糕是過年吃的。",
+          "pinyin": "niángāo shì guònián chī de.",
+          "english": "New Year cake is eaten at New Year."
+        },
+        {
+          "hanzi": "奶奶做了一盤年糕，我和弟弟都吃了一塊。",
+          "pinyin": "nǎinai zuò le yì pán niángāo, wǒ hé dìdi dōu chī le yí kuài.",
+          "english": "Grandma (Dad's mum) made a plate of New Year cake, and my little brother and I each ate a piece."
+        },
+        {
+          "hanzi": "外公家的年糕很好吃，我吃了三塊。",
+          "pinyin": "wàigōng jiā de niángāo hěn hǎochī, wǒ chī le sān kuài.",
+          "english": "Grandpa's (Mum's dad) New Year cake is delicious, and I ate three pieces."
+        }
+      ]
+    },
+    {
+      "hanzi": "那天",
+      "pinyin": "nàtiān",
+      "definition": "that day, the other day",
+      "exampleSentences": [
+        {
+          "hanzi": "那天我很高興。",
+          "pinyin": "nàtiān wǒ hěn gāoxìng.",
+          "english": "I was very happy that day."
+        },
+        {
+          "hanzi": "那天下雨了。",
+          "pinyin": "nàtiān xià yǔ le.",
+          "english": "It rained that day."
+        },
+        {
+          "hanzi": "那天我踢足球，進了一個球。",
+          "pinyin": "nàtiān wǒ tī zúqiú, jìn le yí ge qiú.",
+          "english": "That day I played soccer and scored a goal."
+        },
+        {
+          "hanzi": "那天是過年，我們吃了很多餃子。",
+          "pinyin": "nàtiān shì guònián, wǒmen chī le hěn duō jiǎozi.",
+          "english": "That day was New Year, and we ate lots of dumplings."
+        }
+      ]
+    },
+    {
+      "hanzi": "給",
+      "pinyin": "gěi",
+      "definition": "to give, to, for",
+      "exampleSentences": [
+        {
+          "hanzi": "給我一枝筆。",
+          "pinyin": "gěi wǒ yì zhī bǐ.",
+          "english": "Give me a pen."
+        },
+        {
+          "hanzi": "我給媽媽一杯水。",
+          "pinyin": "wǒ gěi māma yì bēi shuǐ.",
+          "english": "I give Mum a cup of water."
+        },
+        {
+          "hanzi": "比賽完了，爸爸給我一瓶水。",
+          "pinyin": "bǐsài wán le, bàba gěi wǒ yì píng shuǐ.",
+          "english": "After the game, Dad gave me a bottle of water."
+        },
+        {
+          "hanzi": "我畫了一張圖，給媽媽看。",
+          "pinyin": "wǒ huà le yì zhāng tú, gěi māma kàn.",
+          "english": "I drew a picture and showed it to Mum."
+        }
+      ]
+    },
+    {
+      "hanzi": "拜年",
+      "pinyin": "bàinián",
+      "definition": "to visit somebody during the Lunar New Year holiday",
+      "exampleSentences": [
+        {
+          "hanzi": "我們去給爺爺奶奶拜年。",
+          "pinyin": "wǒmen qù gěi yéye nǎinai bàinián.",
+          "english": "We go to visit Grandpa and Grandma to wish them a happy New Year."
+        },
+        {
+          "hanzi": "拜年的時候，要說新年快樂。",
+          "pinyin": "bàinián de shíhou, yào shuō xīnnián kuàilè.",
+          "english": "When you visit for New Year, say Happy New Year."
+        },
+        {
+          "hanzi": "我們去外公家拜年，表哥和我一起玩。",
+          "pinyin": "wǒmen qù wàigōng jiā bàinián, biǎogē hé wǒ yìqǐ wán.",
+          "english": "We visit Grandpa's house for New Year, and my older cousin and I play together."
+        },
+        {
+          "hanzi": "我們去唐人街，看到很多人在拜年。",
+          "pinyin": "wǒmen qù Tángrénjiē, kàndào hěn duō rén zài bàinián.",
+          "english": "We went to Chinatown and saw lots of people wishing each other a happy New Year."
+        }
+      ]
+    },
+    {
+      "hanzi": "臺灣",
+      "pinyin": "Táiwān",
+      "definition": "Taiwan",
+      "exampleSentences": [
+        {
+          "hanzi": "臺灣在亞洲。",
+          "pinyin": "Táiwān zài Yàzhōu.",
+          "english": "Taiwan is in Asia."
+        },
+        {
+          "hanzi": "臺灣的首都是臺北。",
+          "pinyin": "Táiwān de shǒudū shì Táiběi.",
+          "english": "The capital of Taiwan is Taipei."
+        },
+        {
+          "hanzi": "我的外婆住在臺灣，每個星期我們打電話聊天。",
+          "pinyin": "wǒ de wàipó zhùzài Táiwān, měi ge xīngqī wǒmen dǎ diànhuà liáotiān.",
+          "english": "My grandma (Mum's mum) lives in Taiwan, and every week we chat on the phone."
+        },
+        {
+          "hanzi": "媽媽買了臺灣的鳳梨酥，我吃了一塊。",
+          "pinyin": "māma mǎi le Táiwān de fènglísū, wǒ chī le yí kuài.",
+          "english": "Mum bought some Taiwanese pineapple cakes, and I ate one."
+        }
+      ]
+    },
+    {
+      "hanzi": "每",
+      "pinyin": "měi",
+      "definition": "each, every",
+      "exampleSentences": [
+        {
+          "hanzi": "我每天上學。",
+          "pinyin": "wǒ měitiān shàngxué.",
+          "english": "I go to school every day."
+        },
+        {
+          "hanzi": "每個人都有一本書。",
+          "pinyin": "měi ge rén dōu yǒu yì běn shū.",
+          "english": "Everyone has a book."
+        },
+        {
+          "hanzi": "每個星期六，我都去踢足球。",
+          "pinyin": "měi ge xīngqīliù, wǒ dōu qù tī zúqiú.",
+          "english": "Every Saturday I go and play soccer."
+        },
+        {
+          "hanzi": "每次放學，媽媽都在校門口等我。",
+          "pinyin": "měi cì fàngxué, māma dōu zài xiàomén kǒu děng wǒ.",
+          "english": "Every time school finishes, Mum waits for me at the school gate."
+        }
+      ]
+    },
+    {
+      "hanzi": "紅包",
+      "pinyin": "hóngbāo",
+      "definition": "money in a red envelope given as a gift, especially during the Lunar New Year",
+      "exampleSentences": [
+        {
+          "hanzi": "紅包是紅色的。",
+          "pinyin": "hóngbāo shì hóngsè de.",
+          "english": "Red envelopes are red."
+        },
+        {
+          "hanzi": "我今天收到一個紅包。",
+          "pinyin": "wǒ jīntiān shōudào yí ge hóngbāo.",
+          "english": "Today I received a red envelope."
+        },
+        {
+          "hanzi": "紅包裡有錢，我把錢放進我的存錢罐。",
+          "pinyin": "hóngbāo lǐ yǒu qián, wǒ bǎ qián fàng jìn wǒ de cúnqiángguàn.",
+          "english": "A red envelope has money in it, and I put the money into my piggy bank."
+        },
+        {
+          "hanzi": "奶奶給我一個紅包，我說謝謝奶奶。",
+          "pinyin": "nǎinai gěi wǒ yí ge hóngbāo, wǒ shuō xièxie nǎinai.",
+          "english": "Grandma (Dad's mum) gave me a red envelope, and I said thank you, Grandma."
+        }
+      ]
+    },
+    {
+      "hanzi": "如果",
+      "pinyin": "rúguǒ",
+      "definition": "if",
+      "exampleSentences": [
+        {
+          "hanzi": "如果你累了，就休息一下。",
+          "pinyin": "rúguǒ nǐ lèi le, jiù xiūxi yíxià.",
+          "english": "If you are tired, then have a rest."
+        },
+        {
+          "hanzi": "如果你吃完飯，就可以吃水果。",
+          "pinyin": "rúguǒ nǐ chī wán fàn, jiù kěyǐ chī shuǐguǒ.",
+          "english": "If you finish your dinner, then you can have some fruit."
+        },
+        {
+          "hanzi": "如果週末不下雨，我們就在公園玩滑梯。",
+          "pinyin": "rúguǒ zhōumò bú xià yǔ, wǒmen jiù zài gōngyuán wán huátī.",
+          "english": "If it doesn't rain on the weekend, we'll play on the slide at the park."
+        },
+        {
+          "hanzi": "如果校車遲到了，我們就在校門口等。",
+          "pinyin": "rúguǒ xiàochē chídào le, wǒmen jiù zài xiàomén kǒu děng.",
+          "english": "If the school bus is late, we will wait at the school gate."
+        }
+      ]
+    },
+    {
+      "hanzi": "放鞭炮",
+      "pinyin": "fàngbiānpào",
+      "definition": "to set off firecrackers",
+      "exampleSentences": [
+        {
+          "hanzi": "人們在新年放鞭炮。",
+          "pinyin": "rénmen zài xīnnián fàngbiānpào.",
+          "english": "People set off firecrackers at New Year."
+        },
+        {
+          "hanzi": "我們不可以自己放鞭炮。",
+          "pinyin": "wǒmen bù kěyǐ zìjǐ fàngbiānpào.",
+          "english": "We must not set off firecrackers by ourselves."
+        },
+        {
+          "hanzi": "晚上，我們在窗邊聽到遠處有人放鞭炮。",
+          "pinyin": "wǎnshang, wǒmen zài chuāngbiān tīngdào yuǎnchù yǒu rén fàngbiānpào.",
+          "english": "At night, by the window, we heard people setting off firecrackers far away."
+        },
+        {
+          "hanzi": "我們站在遠一點的地方，看大人放鞭炮。",
+          "pinyin": "wǒmen zhàn zài yuǎn yìdiǎn de dìfang, kàn dàrén fàngbiānpào.",
+          "english": "We stood a little way off and watched the grown-ups set off firecrackers."
+        }
+      ]
+    },
+    {
+      "hanzi": "貼春聯",
+      "pinyin": "tiēchūnlián",
+      "definition": "to stick / paste / put up spring festival couplets",
+      "exampleSentences": [
+        {
+          "hanzi": "過年前，我們貼春聯。",
+          "pinyin": "guònián qián, wǒmen tiēchūnlián.",
+          "english": "Before New Year we put up couplets."
+        },
+        {
+          "hanzi": "貼春聯的時候，我們要小心。",
+          "pinyin": "tiēchūnlián de shíhou, wǒmen yào xiǎoxīn.",
+          "english": "When we put up couplets, we must be careful."
+        },
+        {
+          "hanzi": "週末，我跟爸爸一起貼春聯，門口很漂亮。",
+          "pinyin": "zhōumò, wǒ gēn bàba yìqǐ tiēchūnlián, ménkǒu hěn piàoliàng.",
+          "english": "On the weekend, Dad and I put up the couplets together, and the front door looks lovely."
+        },
+        {
+          "hanzi": "奶奶家每年都在門上貼春聯，我最喜歡看。",
+          "pinyin": "nǎinai jiā měi nián dōu zài ménshang tiēchūnlián, wǒ zuì xǐhuan kàn.",
+          "english": "Grandma's house puts up couplets on the door every year, and I love looking at them."
+        }
+      ]
+    },
+    {
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "definition": "tomorrow",
+      "exampleSentences": [
+        {
+          "hanzi": "明天我要早點起床。",
+          "pinyin": "míngtiān wǒ yào zǎo diǎn qǐchuáng.",
+          "english": "Tomorrow I need to get up early."
+        },
+        {
+          "hanzi": "明天是星期六。",
+          "pinyin": "míngtiān shì xīngqīliù.",
+          "english": "Tomorrow is Saturday."
+        },
+        {
+          "hanzi": "明天我們去公園踢足球。",
+          "pinyin": "míngtiān wǒmen qù gōngyuán tī zúqiú.",
+          "english": "Tomorrow we are going to the park to play soccer."
+        },
+        {
+          "hanzi": "明天我們要去海灘，我要帶泳衣。",
+          "pinyin": "míngtiān wǒmen yào qù hǎitān, wǒ yào dài yǒngyī.",
+          "english": "Tomorrow we are going to the beach, so I need to bring my swimsuit."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "id": "ch1",
+  "title": "學華語向前走 2A — Lesson 1",
+  "description": "Vocabulary from lesson 1 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "新",
+      "pinyin": "xīn",
+      "definition": "new",
+      "exampleSentences": [
+        {
+          "hanzi": "這是新書。",
+          "pinyin": "zhè shì xīn shū.",
+          "english": "This is a new book."
+        },
+        {
+          "hanzi": "我有新的筆。",
+          "pinyin": "wǒ yǒu xīn de bǐ.",
+          "english": "I have a new pen."
+        },
+        {
+          "hanzi": "我的新書包很漂亮。",
+          "pinyin": "wǒ de xīn shūbāo hěn piàoliang.",
+          "english": "My new school bag is very pretty."
+        },
+        {
+          "hanzi": "我想要一雙新的足球鞋。",
+          "pinyin": "wǒ xiǎng yào yì shuāng xīn de zúqiúxié.",
+          "english": "I want a new pair of soccer boots."
+        }
+      ]
+    },
+    {
+      "hanzi": "現在",
+      "pinyin": "xiànzài",
+      "definition": "now, at the moment",
+      "exampleSentences": [
+        {
+          "hanzi": "現在我們上課。",
+          "pinyin": "xiànzài wǒmen shàngkè.",
+          "english": "Now we are going to have class."
+        },
+        {
+          "hanzi": "現在是幾點？",
+          "pinyin": "xiànzài shì jǐ diǎn?",
+          "english": "What time is it now?"
+        },
+        {
+          "hanzi": "現在下雨了，我們回家吧。",
+          "pinyin": "xiànzài xià yǔ le, wǒmen huí jiā ba.",
+          "english": "It's raining now, let's go home."
+        },
+        {
+          "hanzi": "爸爸，現在可以去公園嗎？",
+          "pinyin": "bàba, xiànzài kěyǐ qù gōngyuán ma?",
+          "english": "Dad, can we go to the park now?"
+        }
+      ]
+    },
+    {
+      "hanzi": "介紹",
+      "pinyin": "jièshào",
+      "definition": "to introduce",
+      "exampleSentences": [
+        {
+          "hanzi": "我來介紹一下。",
+          "pinyin": "wǒ lái jièshào yíxià.",
+          "english": "Let me introduce (someone)."
+        },
+        {
+          "hanzi": "請你介紹一下你的朋友。",
+          "pinyin": "qǐng nǐ jièshào yíxià nǐ de péngyou.",
+          "english": "Please introduce your friend."
+        },
+        {
+          "hanzi": "媽媽介紹她的朋友給我。",
+          "pinyin": "māma jièshào tā de péngyou gěi wǒ.",
+          "english": "Mum introduced her friend to me."
+        },
+        {
+          "hanzi": "在公園，我介紹我的朋友給爸爸。",
+          "pinyin": "zài gōngyuán, wǒ jièshào wǒ de péngyou gěi bàba.",
+          "english": "At the park, I introduced my friend to Dad."
+        }
+      ]
+    },
+    {
+      "hanzi": "自己",
+      "pinyin": "zìjǐ",
+      "definition": "oneself, one's own",
+      "exampleSentences": [
+        {
+          "hanzi": "我可以自己寫名字。",
+          "pinyin": "wǒ kěyǐ zìjǐ xiě míngzi.",
+          "english": "I can write my name by myself."
+        },
+        {
+          "hanzi": "請大家介紹自己。",
+          "pinyin": "qǐng dàjiā jièshào zìjǐ.",
+          "english": "Please, everyone, introduce yourselves."
+        },
+        {
+          "hanzi": "我自己在沙灘上堆沙堡。",
+          "pinyin": "wǒ zìjǐ zài shātān shang duī shābǎo.",
+          "english": "I build a sandcastle on the beach by myself."
+        },
+        {
+          "hanzi": "我自己背書包去上學。",
+          "pinyin": "wǒ zìjǐ bēi shūbāo qù shàngxué.",
+          "english": "I carry my school bag to school by myself."
+        }
+      ]
+    },
+    {
+      "hanzi": "大家",
+      "pinyin": "dàjiā",
+      "definition": "everyone",
+      "exampleSentences": [
+        {
+          "hanzi": "大家好！",
+          "pinyin": "dàjiā hǎo!",
+          "english": "Hello, everyone!"
+        },
+        {
+          "hanzi": "大家一起唱歌吧。",
+          "pinyin": "dàjiā yìqǐ chàng gē ba.",
+          "english": "Let's all sing together."
+        },
+        {
+          "hanzi": "大家一起踢足球！",
+          "pinyin": "dàjiā yìqǐ tī zúqiú!",
+          "english": "Everyone, let's play soccer together!"
+        },
+        {
+          "hanzi": "海邊很多人，大家都在玩沙子。",
+          "pinyin": "hǎibiān hěn duō rén, dàjiā dōu zài wán shāzi.",
+          "english": "There are lots of people at the beach, and everyone is playing in the sand."
+        }
+      ]
+    },
+    {
+      "hanzi": "今年",
+      "pinyin": "jīnnián",
+      "definition": "this year",
+      "exampleSentences": [
+        {
+          "hanzi": "你今年幾歲？",
+          "pinyin": "nǐ jīnnián jǐ suì?",
+          "english": "How old are you this year?"
+        },
+        {
+          "hanzi": "我今年七歲。",
+          "pinyin": "wǒ jīnnián qī suì.",
+          "english": "I am seven years old this year."
+        },
+        {
+          "hanzi": "我今年生日想要一個足球。",
+          "pinyin": "wǒ jīnnián shēngrì xiǎng yào yí ge zúqiú.",
+          "english": "For my birthday this year, I want a soccer ball."
+        },
+        {
+          "hanzi": "我今年上二年級，每天坐校車。",
+          "pinyin": "wǒ jīnnián shàng èr niánjí, měi tiān zuò xiàochē.",
+          "english": "I'm in Year 2 this year, and I take the school bus every day."
+        }
+      ]
+    },
+    {
+      "hanzi": "跟",
+      "pinyin": "gēn",
+      "definition": "with",
+      "exampleSentences": [
+        {
+          "hanzi": "我跟你一起去。",
+          "pinyin": "wǒ gēn nǐ yìqǐ qù.",
+          "english": "I'll go with you."
+        },
+        {
+          "hanzi": "你跟誰一起玩？",
+          "pinyin": "nǐ gēn shéi yìqǐ wán?",
+          "english": "Who are you playing with?"
+        },
+        {
+          "hanzi": "我跟爸爸一起踢足球。",
+          "pinyin": "wǒ gēn bàba yìqǐ tī zúqiú.",
+          "english": "I play soccer with Dad."
+        },
+        {
+          "hanzi": "我跟同學一起坐校車。",
+          "pinyin": "wǒ gēn tóngxué yìqǐ zuò xiàochē.",
+          "english": "I ride the school bus with my classmates."
+        }
+      ]
+    },
+    {
+      "hanzi": "游泳",
+      "pinyin": "yóuyǒng",
+      "definition": "to swim, swimming",
+      "exampleSentences": [
+        {
+          "hanzi": "我會游泳。",
+          "pinyin": "wǒ huì yóuyǒng.",
+          "english": "I can swim."
+        },
+        {
+          "hanzi": "你會游泳嗎？",
+          "pinyin": "nǐ huì yóuyǒng ma?",
+          "english": "Can you swim?"
+        },
+        {
+          "hanzi": "我們去海邊游泳吧！",
+          "pinyin": "wǒmen qù hǎibiān yóuyǒng ba!",
+          "english": "Let's go swimming at the beach!"
+        },
+        {
+          "hanzi": "媽媽說，游泳以後要洗澡。",
+          "pinyin": "māma shuō, yóuyǒng yǐhòu yào xǐzǎo.",
+          "english": "Mum says you have to have a shower after swimming."
+        }
+      ]
+    },
+    {
+      "hanzi": "比較",
+      "pinyin": "bǐjiào",
+      "definition": "comparatively, to compare, relatively",
+      "exampleSentences": [
+        {
+          "hanzi": "這本書比較厚。",
+          "pinyin": "zhè běn shū bǐjiào hòu.",
+          "english": "This book is rather thick."
+        },
+        {
+          "hanzi": "我的字比較好看。",
+          "pinyin": "wǒ de zì bǐjiào hǎokàn.",
+          "english": "My handwriting is quite neat."
+        },
+        {
+          "hanzi": "今天比較熱，我們去海邊吧。",
+          "pinyin": "jīntiān bǐjiào rè, wǒmen qù hǎibiān ba.",
+          "english": "It's rather hot today, let's go to the beach."
+        },
+        {
+          "hanzi": "公園裡的滑梯比較高。",
+          "pinyin": "gōngyuán lǐ de huátī bǐjiào gāo.",
+          "english": "The slide in the park is quite high."
+        }
+      ]
+    },
+    {
+      "hanzi": "看書",
+      "pinyin": "kànshū",
+      "definition": "to read, to study",
+      "exampleSentences": [
+        {
+          "hanzi": "我在看書。",
+          "pinyin": "wǒ zài kànshū.",
+          "english": "I'm reading a book."
+        },
+        {
+          "hanzi": "你喜歡看書嗎？",
+          "pinyin": "nǐ xǐhuan kànshū ma?",
+          "english": "Do you like reading?"
+        },
+        {
+          "hanzi": "睡覺前，我看書。",
+          "pinyin": "shuìjiào qián, wǒ kànshū.",
+          "english": "Before bed, I read a book."
+        },
+        {
+          "hanzi": "下雨天，我在家看書。",
+          "pinyin": "xiàyǔtiān, wǒ zài jiā kànshū.",
+          "english": "On rainy days, I read at home."
+        }
+      ]
+    },
+    {
+      "hanzi": "高興",
+      "pinyin": "gāoxìng",
+      "definition": "happy, glad",
+      "exampleSentences": [
+        {
+          "hanzi": "我很高興。",
+          "pinyin": "wǒ hěn gāoxìng.",
+          "english": "I'm happy."
+        },
+        {
+          "hanzi": "我很高興見到你。",
+          "pinyin": "wǒ hěn gāoxìng jiàndào nǐ.",
+          "english": "I'm glad to see you."
+        },
+        {
+          "hanzi": "爸爸回家了，我很高興！",
+          "pinyin": "bàba huí jiā le, wǒ hěn gāoxìng!",
+          "english": "Dad is home, I'm so happy!"
+        },
+        {
+          "hanzi": "我進球了，好高興！",
+          "pinyin": "wǒ jìnqiú le, hǎo gāoxìng!",
+          "english": "I scored a goal, I'm so happy!"
+        }
+      ]
+    },
+    {
+      "hanzi": "認識",
+      "pinyin": "rènshì",
+      "definition": "to know, to recognize",
+      "exampleSentences": [
+        {
+          "hanzi": "我認識這個字。",
+          "pinyin": "wǒ rènshì zhè ge zì.",
+          "english": "I know this character."
+        },
+        {
+          "hanzi": "你認識我的朋友嗎？",
+          "pinyin": "nǐ rènshì wǒ de péngyou ma?",
+          "english": "Do you know my friend?"
+        },
+        {
+          "hanzi": "我認識校車的司機叔叔。",
+          "pinyin": "wǒ rènshì xiàochē de sījī shūshu.",
+          "english": "I know the school bus driver."
+        },
+        {
+          "hanzi": "我認識公園裡的那隻小狗。",
+          "pinyin": "wǒ rènshì gōngyuán lǐ de nà zhī xiǎogǒu.",
+          "english": "I know the little dog in the park."
+        }
+      ]
+    },
+    {
+      "hanzi": "歡迎",
+      "pinyin": "huānyíng",
+      "definition": "welcome, to welcome",
+      "exampleSentences": [
+        {
+          "hanzi": "歡迎你！",
+          "pinyin": "huānyíng nǐ!",
+          "english": "Welcome!"
+        },
+        {
+          "hanzi": "歡迎大家來我們學校。",
+          "pinyin": "huānyíng dàjiā lái wǒmen xuéxiào.",
+          "english": "Welcome, everyone, to our school."
+        },
+        {
+          "hanzi": "歡迎你來我的生日派對！",
+          "pinyin": "huānyíng nǐ lái wǒ de shēngrì pàiduì!",
+          "english": "Welcome to my birthday party!"
+        },
+        {
+          "hanzi": "歡迎你來我家玩！",
+          "pinyin": "huānyíng nǐ lái wǒ jiā wán!",
+          "english": "You're welcome to come and play at my house!"
+        }
+      ]
+    },
+    {
+      "hanzi": "華語",
+      "pinyin": "huáyǔ",
+      "definition": "Mandarin",
+      "exampleSentences": [
+        {
+          "hanzi": "我學華語。",
+          "pinyin": "wǒ xué huáyǔ.",
+          "english": "I learn Mandarin."
+        },
+        {
+          "hanzi": "你會說華語嗎？",
+          "pinyin": "nǐ huì shuō huáyǔ ma?",
+          "english": "Can you speak Mandarin?"
+        },
+        {
+          "hanzi": "我的華語課本在書包裡。",
+          "pinyin": "wǒ de huáyǔ kèběn zài shūbāo lǐ.",
+          "english": "My Mandarin textbook is in my school bag."
+        },
+        {
+          "hanzi": "星期六我去華語學校上課。",
+          "pinyin": "xīngqīliù wǒ qù huáyǔ xuéxiào shàngkè.",
+          "english": "On Saturday I go to Mandarin school."
+        }
+      ]
+    },
+    {
+      "hanzi": "學",
+      "pinyin": "xué",
+      "definition": "to learn, to study",
+      "exampleSentences": [
+        {
+          "hanzi": "我們學寫字。",
+          "pinyin": "wǒmen xué xiě zì.",
+          "english": "We are learning to write characters."
+        },
+        {
+          "hanzi": "你在學什麼？",
+          "pinyin": "nǐ zài xué shénme?",
+          "english": "What are you learning?"
+        },
+        {
+          "hanzi": "我想學踢足球。",
+          "pinyin": "wǒ xiǎng xué tī zúqiú.",
+          "english": "I want to learn how to play soccer."
+        },
+        {
+          "hanzi": "我在公園學騎腳踏車。",
+          "pinyin": "wǒ zài gōngyuán xué qí jiǎotàchē.",
+          "english": "I'm learning to ride a bike in the park."
+        }
+      ]
+    },
+    {
+      "hanzi": "最",
+      "pinyin": "zuì",
+      "definition": "the most",
+      "exampleSentences": [
+        {
+          "hanzi": "我最喜歡紅色。",
+          "pinyin": "wǒ zuì xǐhuan hóngsè.",
+          "english": "I like red the most."
+        },
+        {
+          "hanzi": "你最喜歡什麼？",
+          "pinyin": "nǐ zuì xǐhuan shénme?",
+          "english": "What do you like the most?"
+        },
+        {
+          "hanzi": "我最喜歡踢足球。",
+          "pinyin": "wǒ zuì xǐhuan tī zúqiú.",
+          "english": "I like playing soccer the most."
+        },
+        {
+          "hanzi": "我最喜歡爸爸做的飯。",
+          "pinyin": "wǒ zuì xǐhuan bàba zuò de fàn.",
+          "english": "I like the food Dad cooks the most."
+        }
+      ]
+    }
+  ]
+}

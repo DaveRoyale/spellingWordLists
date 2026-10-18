@@ -1,0 +1,385 @@
+{
+  "id": "ch3",
+  "title": "學華語向前走 2A — Lesson 3",
+  "description": "Vocabulary from lesson 3 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "要",
+      "pinyin": "yào",
+      "definition": "to want",
+      "exampleSentences": [
+        {
+          "hanzi": "老師，我要喝水。",
+          "pinyin": "lǎoshī, wǒ yào hē shuǐ.",
+          "english": "Teacher, I want to drink some water."
+        },
+        {
+          "hanzi": "你要坐這裡嗎？",
+          "pinyin": "nǐ yào zuò zhèlǐ ma?",
+          "english": "Do you want to sit here?"
+        },
+        {
+          "hanzi": "放學後，我要去公園玩。",
+          "pinyin": "fàngxué hòu, wǒ yào qù gōngyuán wán.",
+          "english": "After school, I want to go to the park to play."
+        },
+        {
+          "hanzi": "媽媽，我要吃香蕉。",
+          "pinyin": "māma, wǒ yào chī xiāngjiāo.",
+          "english": "Mum, I want to eat a banana."
+        }
+      ]
+    },
+    {
+      "hanzi": "附近",
+      "pinyin": "fùjìn",
+      "definition": "nearby, next to",
+      "exampleSentences": [
+        {
+          "hanzi": "學校附近有一個公園。",
+          "pinyin": "xuéxiào fùjìn yǒu yí ge gōngyuán.",
+          "english": "There is a park near the school."
+        },
+        {
+          "hanzi": "我的座位在黑板附近。",
+          "pinyin": "wǒ de zuòwèi zài hēibǎn fùjìn.",
+          "english": "My seat is near the blackboard."
+        },
+        {
+          "hanzi": "海灘附近有很多小朋友在堆沙堡。",
+          "pinyin": "hǎitān fùjìn yǒu hěn duō xiǎopéngyou zài duī shābǎo.",
+          "english": "Lots of kids are building sandcastles near the beach."
+        },
+        {
+          "hanzi": "媽媽在校門附近等我。",
+          "pinyin": "māma zài xiàomén fùjìn děng wǒ.",
+          "english": "Mum waits for me near the school gate."
+        }
+      ]
+    },
+    {
+      "hanzi": "超級市場",
+      "pinyin": "chāojíshìchǎng",
+      "definition": "supermarket",
+      "exampleSentences": [
+        {
+          "hanzi": "超級市場很大。",
+          "pinyin": "chāojíshìchǎng hěn dà.",
+          "english": "The supermarket is very big."
+        },
+        {
+          "hanzi": "超級市場在哪裡？",
+          "pinyin": "chāojíshìchǎng zài nǎlǐ?",
+          "english": "Where is the supermarket?"
+        },
+        {
+          "hanzi": "週末媽媽開車帶我去超級市場買菜。",
+          "pinyin": "zhōumò māma kāichē dài wǒ qù chāojíshìchǎng mǎicài.",
+          "english": "On the weekend, Mum drives me to the big supermarket to buy vegetables."
+        },
+        {
+          "hanzi": "超級市場的購物車好大，我幫爸爸推。",
+          "pinyin": "chāojíshìchǎng de gòuwùchē hǎo dà, wǒ bāng bàba tuī.",
+          "english": "The supermarket trolley is so big, and I help Dad push it."
+        }
+      ]
+    },
+    {
+      "hanzi": "超市",
+      "pinyin": "chāoshì",
+      "definition": "supermarket (short form)",
+      "exampleSentences": [
+        {
+          "hanzi": "超市離我家很近。",
+          "pinyin": "chāoshì lí wǒ jiā hěn jìn.",
+          "english": "The supermarket is very close to my house."
+        },
+        {
+          "hanzi": "超市裡有很多水果。",
+          "pinyin": "chāoshì lǐ yǒu hěn duō shuǐguǒ.",
+          "english": "There is a lot of fruit in the supermarket."
+        },
+        {
+          "hanzi": "我跟爸爸騎腳踏車去超市，買一袋麵包。",
+          "pinyin": "wǒ gēn bàba qí jiǎotàchē qù chāoshì, mǎi yí dài miànbāo.",
+          "english": "Dad and I ride our bikes to the little supermarket to buy a bag of bread."
+        },
+        {
+          "hanzi": "超市的蘋果很紅，我要選一個最大的。",
+          "pinyin": "chāoshì de píngguǒ hěn hóng, wǒ yào xuǎn yí ge zuì dà de.",
+          "english": "The apples at the supermarket are so red, I want to pick the biggest one."
+        }
+      ]
+    },
+    {
+      "hanzi": "東西",
+      "pinyin": "dōngxi",
+      "definition": "thing(s), stuff",
+      "exampleSentences": [
+        {
+          "hanzi": "請把東西放好。",
+          "pinyin": "qǐng bǎ dōngxi fàng hǎo.",
+          "english": "Please put your things away."
+        },
+        {
+          "hanzi": "媽媽買了很多東西。",
+          "pinyin": "māma mǎi le hěn duō dōngxi.",
+          "english": "Mum bought lots of things."
+        },
+        {
+          "hanzi": "好吃的東西我都想吃。",
+          "pinyin": "hǎochī de dōngxi wǒ dōu xiǎng chī.",
+          "english": "I want to eat all the yummy things."
+        },
+        {
+          "hanzi": "書包裡裝了好多東西，好重啊！",
+          "pinyin": "shūbāo lǐ zhuāng le hǎo duō dōngxi, hǎo zhòng a!",
+          "english": "My school bag is full of stuff, so heavy!"
+        }
+      ]
+    },
+    {
+      "hanzi": "巧克力",
+      "pinyin": "qiǎokèlì",
+      "definition": "chocolate",
+      "exampleSentences": [
+        {
+          "hanzi": "巧克力是甜的。",
+          "pinyin": "qiǎokèlì shì tián de.",
+          "english": "Chocolate is sweet."
+        },
+        {
+          "hanzi": "我喜歡吃巧克力。",
+          "pinyin": "wǒ xǐhuan chī qiǎokèlì.",
+          "english": "I like to eat chocolate."
+        },
+        {
+          "hanzi": "踢完足球，我吃了一塊巧克力。",
+          "pinyin": "tī wán zúqiú, wǒ chī le yí kuài qiǎokèlì.",
+          "english": "After soccer, I ate a piece of chocolate."
+        },
+        {
+          "hanzi": "爸爸說，吃太多巧克力會蛀牙。",
+          "pinyin": "bàba shuō, chī tài duō qiǎokèlì huì zhùyá.",
+          "english": "Dad says eating too much chocolate gives you cavities."
+        }
+      ]
+    },
+    {
+      "hanzi": "冰淇淋",
+      "pinyin": "bīngqílín",
+      "definition": "ice cream",
+      "exampleSentences": [
+        {
+          "hanzi": "我最喜歡草莓冰淇淋。",
+          "pinyin": "wǒ zuì xǐhuan cǎoméi bīngqílín.",
+          "english": "My favourite is strawberry ice cream."
+        },
+        {
+          "hanzi": "天氣很熱，我想吃冰淇淋。",
+          "pinyin": "tiānqì hěn rè, wǒ xiǎng chī bīngqílín.",
+          "english": "It's hot, so I want to eat ice cream."
+        },
+        {
+          "hanzi": "冰淇淋車來了，我們快跑！",
+          "pinyin": "bīngqílín chē lái le, wǒmen kuài pǎo!",
+          "english": "The ice-cream van is here, let's run!"
+        },
+        {
+          "hanzi": "我和弟弟一人一個冰淇淋。",
+          "pinyin": "wǒ hé dìdi yí rén yí ge bīngqílín.",
+          "english": "My little brother and I each have one ice cream."
+        }
+      ]
+    },
+    {
+      "hanzi": "買",
+      "pinyin": "mǎi",
+      "definition": "to buy",
+      "exampleSentences": [
+        {
+          "hanzi": "我買了一枝鉛筆。",
+          "pinyin": "wǒ mǎi le yì zhī qiānbǐ.",
+          "english": "I bought a pencil."
+        },
+        {
+          "hanzi": "你買了什麼？",
+          "pinyin": "nǐ mǎi le shénme?",
+          "english": "What did you buy?"
+        },
+        {
+          "hanzi": "我們去買一個新的足球。",
+          "pinyin": "wǒmen qù mǎi yí ge xīn de zúqiú.",
+          "english": "We're going to buy a new soccer ball."
+        },
+        {
+          "hanzi": "這個書包是媽媽買的，我很喜歡。",
+          "pinyin": "zhège shūbāo shì māma mǎi de, wǒ hěn xǐhuan.",
+          "english": "Mum bought this school bag, and I really like it."
+        }
+      ]
+    },
+    {
+      "hanzi": "牛肉",
+      "pinyin": "niúròu",
+      "definition": "beef",
+      "exampleSentences": [
+        {
+          "hanzi": "牛肉是一種肉。",
+          "pinyin": "niúròu shì yì zhǒng ròu.",
+          "english": "Beef is a kind of meat."
+        },
+        {
+          "hanzi": "媽媽今天煮牛肉。",
+          "pinyin": "māma jīntiān zhǔ niúròu.",
+          "english": "Mum is cooking beef today."
+        },
+        {
+          "hanzi": "爸爸炒的牛肉很香，我吃了兩碗飯。",
+          "pinyin": "bàba chǎo de niúròu hěn xiāng, wǒ chī le liǎng wǎn fàn.",
+          "english": "Dad's stir-fried beef smells so good, I had two bowls of rice."
+        },
+        {
+          "hanzi": "我的午餐盒裡有牛肉，我很開心。",
+          "pinyin": "wǒ de wǔcānhé lǐ yǒu niúròu, wǒ hěn kāixīn.",
+          "english": "There is beef in my lunch box, and I'm happy."
+        }
+      ]
+    },
+    {
+      "hanzi": "青菜",
+      "pinyin": "qīngcài",
+      "definition": "vegetables, green vegetables",
+      "exampleSentences": [
+        {
+          "hanzi": "我每天吃青菜。",
+          "pinyin": "wǒ měitiān chī qīngcài.",
+          "english": "I eat green vegetables every day."
+        },
+        {
+          "hanzi": "青菜對身體好。",
+          "pinyin": "qīngcài duì shēntǐ hǎo.",
+          "english": "Vegetables are good for your body."
+        },
+        {
+          "hanzi": "我們家的花園裡種了青菜。",
+          "pinyin": "wǒmen jiā de huāyuán lǐ zhòng le qīngcài.",
+          "english": "We planted green vegetables in our garden."
+        },
+        {
+          "hanzi": "我不喜歡吃青菜，但媽媽說要多吃一點。",
+          "pinyin": "wǒ bù xǐhuan chī qīngcài, dàn māma shuō yào duō chī yìdiǎn.",
+          "english": "I don't like green vegetables, but Mum says I should eat a bit more."
+        }
+      ]
+    },
+    {
+      "hanzi": "米",
+      "pinyin": "mǐ",
+      "definition": "uncooked rice",
+      "exampleSentences": [
+        {
+          "hanzi": "一包米很重。",
+          "pinyin": "yì bāo mǐ hěn zhòng.",
+          "english": "A bag of uncooked rice is heavy."
+        },
+        {
+          "hanzi": "媽媽先洗米，再煮飯。",
+          "pinyin": "māma xiān xǐ mǐ, zài zhǔ fàn.",
+          "english": "Mum washes the uncooked rice first, then cooks it."
+        },
+        {
+          "hanzi": "我幫媽媽把一袋米搬到廚房。",
+          "pinyin": "wǒ bāng māma bǎ yí dài mǐ bān dào chúfáng.",
+          "english": "I help Mum carry a bag of uncooked rice to the kitchen."
+        },
+        {
+          "hanzi": "媽媽用量杯量米，我來按電鍋。",
+          "pinyin": "māma yòng liàngbēi liáng mǐ, wǒ lái àn diànguō.",
+          "english": "Mum measures the uncooked rice with a cup, and I press the rice cooker button."
+        }
+      ]
+    },
+    {
+      "hanzi": "可以",
+      "pinyin": "kěyǐ",
+      "definition": "can, may, possible, be able to",
+      "exampleSentences": [
+        {
+          "hanzi": "老師說，我們可以出去玩了。",
+          "pinyin": "lǎoshī shuō, wǒmen kěyǐ chūqù wán le.",
+          "english": "The teacher says we can go out and play now."
+        },
+        {
+          "hanzi": "我可以借這本書嗎？",
+          "pinyin": "wǒ kěyǐ jiè zhè běn shū ma?",
+          "english": "Can I borrow this book?"
+        },
+        {
+          "hanzi": "爸爸，我可以帶足球去公園嗎？",
+          "pinyin": "bàba, wǒ kěyǐ dài zúqiú qù gōngyuán ma?",
+          "english": "Dad, can I take my soccer ball to the park?"
+        },
+        {
+          "hanzi": "下雨了，不可以在外面踢球。",
+          "pinyin": "xiàyǔ le, bù kěyǐ zài wàimiàn tī qiú.",
+          "english": "It's raining, so we're not allowed to kick the ball outside."
+        }
+      ]
+    },
+    {
+      "hanzi": "糖果",
+      "pinyin": "tángguǒ",
+      "definition": "candy",
+      "exampleSentences": [
+        {
+          "hanzi": "糖果很甜。",
+          "pinyin": "tángguǒ hěn tián.",
+          "english": "Candy is very sweet."
+        },
+        {
+          "hanzi": "老師說，上課的時候不要吃糖果。",
+          "pinyin": "lǎoshī shuō, shàngkè de shíhou bú yào chī tángguǒ.",
+          "english": "The teacher says not to eat candy during class."
+        },
+        {
+          "hanzi": "奶奶給我一顆糖果，我好高興。",
+          "pinyin": "nǎinai gěi wǒ yì kē tángguǒ, wǒ hǎo gāoxìng.",
+          "english": "Grandma gave me a candy, and I'm so happy."
+        },
+        {
+          "hanzi": "生日派對上，朋友送我一包糖果。",
+          "pinyin": "shēngrì pàiduì shàng, péngyou sòng wǒ yì bāo tángguǒ.",
+          "english": "At my birthday party, a friend gave me a bag of candy."
+        }
+      ]
+    },
+    {
+      "hanzi": "魚",
+      "pinyin": "yú",
+      "definition": "fish",
+      "exampleSentences": [
+        {
+          "hanzi": "我家的魚缸裡有一條魚。",
+          "pinyin": "wǒ jiā de yúgāng lǐ yǒu yì tiáo yú.",
+          "english": "There is a fish in our fish tank."
+        },
+        {
+          "hanzi": "小魚在水裡游。",
+          "pinyin": "xiǎo yú zài shuǐ lǐ yóu.",
+          "english": "The little fish swims in the water."
+        },
+        {
+          "hanzi": "我跟哥哥在海邊釣魚，釣到一條魚。",
+          "pinyin": "wǒ gēn gēge zài hǎibiān diàoyú, diàodào yì tiáo yú.",
+          "english": "My brother and I go fishing at the beach and catch a fish."
+        },
+        {
+          "hanzi": "爸爸今晚煮了一條魚，很好吃。",
+          "pinyin": "bàba jīnwǎn zhǔ le yì tiáo yú, hěn hǎochī.",
+          "english": "Dad cooked a fish tonight, and it's delicious."
+        }
+      ]
+    }
+  ]
+}

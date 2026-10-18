@@ -2,6 +2,96 @@
   "version": 1,
   "lists": [
     {
+      "id": "ch1",
+      "title": "學華語向前走 2A — Lesson 1",
+      "description": "Vocabulary from lesson 1 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+      "wordCount": 16,
+      "path": "ch1.json",
+      "sampleWords": [
+        "大家",
+        "看書",
+        "華語",
+        "歡迎",
+        "現在",
+        "最"
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "學華語向前走 2A — Lesson 2",
+      "description": "Vocabulary from lesson 2 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+      "wordCount": 12,
+      "path": "ch2.json",
+      "sampleWords": [
+        "外公",
+        "以前",
+        "上班",
+        "醫生",
+        "外婆",
+        "一樣"
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "學華語向前走 2A — Lesson 3",
+      "description": "Vocabulary from lesson 3 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+      "wordCount": 14,
+      "path": "ch3.json",
+      "sampleWords": [
+        "超市",
+        "青菜",
+        "牛肉",
+        "超級市場",
+        "巧克力",
+        "買"
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "學華語向前走 2A — Lesson 4",
+      "description": "Vocabulary from lesson 4 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+      "wordCount": 16,
+      "path": "ch4.json",
+      "sampleWords": [
+        "晚飯",
+        "先",
+        "漢堡",
+        "湯",
+        "晚餐",
+        "快點"
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "學華語向前走 2A — Lesson 5",
+      "description": "Vocabulary from lesson 5 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+      "wordCount": 17,
+      "path": "ch5.json",
+      "sampleWords": [
+        "春天",
+        "時候",
+        "花",
+        "白色",
+        "院子",
+        "顏色"
+      ]
+    },
+    {
+      "id": "ch6",
+      "title": "學華語向前走 2A — Lesson 6",
+      "description": "Vocabulary from lesson 6 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+      "wordCount": 18,
+      "path": "ch6.json",
+      "sampleWords": [
+        "新年",
+        "放鞭炮",
+        "那天",
+        "農曆",
+        "如果",
+        "明天"
+      ]
+    },
+    {
       "id": "ch7",
       "title": "學華語向前走 2B — Lesson 7",
       "description": "Vocabulary from lesson 7 of the textbook 學華語向前走 (Let's Learn Mandarin) 2B, with original example sentences written for young beginners (Traditional characters).",

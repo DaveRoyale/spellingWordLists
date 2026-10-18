@@ -1,0 +1,466 @@
+{
+  "id": "ch5",
+  "title": "學華語向前走 2A — Lesson 5",
+  "description": "Vocabulary from lesson 5 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "秋天",
+      "pinyin": "qiūtiān",
+      "definition": "autumn, fall",
+      "exampleSentences": [
+        {
+          "hanzi": "現在是秋天。",
+          "pinyin": "xiànzài shì qiūtiān.",
+          "english": "It is autumn now."
+        },
+        {
+          "hanzi": "秋天的樹葉是黃色的。",
+          "pinyin": "qiūtiān de shùyè shì huángsè de.",
+          "english": "In autumn, the leaves are yellow."
+        },
+        {
+          "hanzi": "秋天的早上很涼，我要穿外套上學。",
+          "pinyin": "qiūtiān de zǎoshang hěn liáng, wǒ yào chuān wàitào shàngxué.",
+          "english": "On autumn mornings it is cold, so I wear a jacket to school."
+        },
+        {
+          "hanzi": "秋天，媽媽煮了熱湯給我們喝。",
+          "pinyin": "qiūtiān, māma zhǔ le rè tāng gěi wǒmen hē.",
+          "english": "In autumn, Mum makes hot soup for us to drink."
+        }
+      ]
+    },
+    {
+      "hanzi": "樹葉",
+      "pinyin": "shùyè",
+      "definition": "leaf, leaves",
+      "exampleSentences": [
+        {
+          "hanzi": "這是一片樹葉。",
+          "pinyin": "zhè shì yí piàn shùyè.",
+          "english": "This is a leaf."
+        },
+        {
+          "hanzi": "樹葉在地上。",
+          "pinyin": "shùyè zài dìshang.",
+          "english": "The leaves are on the ground."
+        },
+        {
+          "hanzi": "我在公園撿到一片很大的樹葉，送給媽媽。",
+          "pinyin": "wǒ zài gōngyuán jiǎndào yí piàn hěn dà de shùyè, sòng gěi māma.",
+          "english": "I found a very big leaf in the park and gave it to Mum."
+        },
+        {
+          "hanzi": "樹葉落在我的書包上。",
+          "pinyin": "shùyè luò zài wǒ de shūbāo shàng.",
+          "english": "A leaf fell onto my school bag."
+        }
+      ]
+    },
+    {
+      "hanzi": "變",
+      "pinyin": "biàn",
+      "definition": "to change",
+      "exampleSentences": [
+        {
+          "hanzi": "天氣變冷了。",
+          "pinyin": "tiānqì biàn lěng le.",
+          "english": "The weather has turned cold."
+        },
+        {
+          "hanzi": "葉子變黃了。",
+          "pinyin": "yèzi biàn huáng le.",
+          "english": "The leaves have turned yellow."
+        },
+        {
+          "hanzi": "我的足球鞋變髒了，要洗乾淨。",
+          "pinyin": "wǒ de zúqiúxié biàn zāng le, yào xǐ gānjìng.",
+          "english": "My soccer boots got dirty, so I have to wash them clean."
+        },
+        {
+          "hanzi": "看！我的積木變成了一座城堡。",
+          "pinyin": "kàn! wǒ de jīmù biàn chéng le yí zuò chéngbǎo.",
+          "english": "Look! My blocks have turned into a castle."
+        }
+      ]
+    },
+    {
+      "hanzi": "黃",
+      "pinyin": "huáng",
+      "definition": "yellow",
+      "exampleSentences": [
+        {
+          "hanzi": "香蕉是黃的。",
+          "pinyin": "xiāngjiāo shì huáng de.",
+          "english": "Bananas are yellow."
+        },
+        {
+          "hanzi": "你的書包是黃的嗎？",
+          "pinyin": "nǐ de shūbāo shì huáng de ma?",
+          "english": "Is your school bag yellow?"
+        },
+        {
+          "hanzi": "我在黃色的校車上睡著了。",
+          "pinyin": "wǒ zài huángsè de xiàochē shàng shuìzháo le.",
+          "english": "I fell asleep on the yellow school bus."
+        },
+        {
+          "hanzi": "下雨天，我穿黃色的雨衣踩水坑。",
+          "pinyin": "xiàyǔtiān, wǒ chuān huángsè de yǔyī cǎi shuǐkēng.",
+          "english": "On a rainy day I wear my yellow raincoat and stomp in puddles."
+        }
+      ]
+    },
+    {
+      "hanzi": "草",
+      "pinyin": "cǎo",
+      "definition": "grass",
+      "exampleSentences": [
+        {
+          "hanzi": "草是綠色的。",
+          "pinyin": "cǎo shì lǜsè de.",
+          "english": "Grass is green."
+        },
+        {
+          "hanzi": "這裡有很多草。",
+          "pinyin": "zhèlǐ yǒu hěn duō cǎo.",
+          "english": "There is a lot of grass here."
+        },
+        {
+          "hanzi": "我們在草地上玩捉迷藏。",
+          "pinyin": "wǒmen zài cǎodì shàng wán zhuōmícáng.",
+          "english": "We play hide-and-seek on the grass."
+        },
+        {
+          "hanzi": "小狗在草上跑來跑去。",
+          "pinyin": "xiǎogǒu zài cǎo shàng pǎo lái pǎo qù.",
+          "english": "The puppy runs back and forth on the grass."
+        }
+      ]
+    },
+    {
+      "hanzi": "綠色",
+      "pinyin": "lǜsè",
+      "definition": "green",
+      "exampleSentences": [
+        {
+          "hanzi": "你喜歡綠色嗎？",
+          "pinyin": "nǐ xǐhuan lǜsè ma?",
+          "english": "Do you like green?"
+        },
+        {
+          "hanzi": "我的水杯是綠色的。",
+          "pinyin": "wǒ de shuǐbēi shì lǜsè de.",
+          "english": "My water bottle is green."
+        },
+        {
+          "hanzi": "我們的足球隊穿綠色的球衣。",
+          "pinyin": "wǒmen de zúqiúduì chuān lǜsè de qiúyī.",
+          "english": "Our soccer team wears green jerseys."
+        },
+        {
+          "hanzi": "公園的湖邊有一隻綠色的青蛙。",
+          "pinyin": "gōngyuán de húbiān yǒu yì zhī lǜsè de qīngwā.",
+          "english": "There is a green frog by the lake in the park."
+        }
+      ]
+    },
+    {
+      "hanzi": "天氣",
+      "pinyin": "tiānqì",
+      "definition": "weather",
+      "exampleSentences": [
+        {
+          "hanzi": "今天的天氣很好。",
+          "pinyin": "jīntiān de tiānqì hěn hǎo.",
+          "english": "The weather is nice today."
+        },
+        {
+          "hanzi": "你喜歡什麼樣的天氣？",
+          "pinyin": "nǐ xǐhuan shénme yàng de tiānqì?",
+          "english": "What kind of weather do you like?"
+        },
+        {
+          "hanzi": "天氣很熱，我們去海灘玩水。",
+          "pinyin": "tiānqì hěn rè, wǒmen qù hǎitān wán shuǐ.",
+          "english": "It is very hot, so we go to the beach to play in the water."
+        },
+        {
+          "hanzi": "爸爸看天氣預報，說明天會下雨。",
+          "pinyin": "bàba kàn tiānqì yùbào, shuō míngtiān huì xiàyǔ.",
+          "english": "Dad checks the weather forecast and says it will rain tomorrow."
+        }
+      ]
+    },
+    {
+      "hanzi": "舒服",
+      "pinyin": "shūfu",
+      "definition": "comfortable",
+      "exampleSentences": [
+        {
+          "hanzi": "這張椅子很舒服。",
+          "pinyin": "zhè zhāng yǐzi hěn shūfu.",
+          "english": "This chair is very comfortable."
+        },
+        {
+          "hanzi": "我肚子不舒服。",
+          "pinyin": "wǒ dùzi bù shūfu.",
+          "english": "My tummy doesn't feel good."
+        },
+        {
+          "hanzi": "媽媽幫我蓋好被子，我睡得很舒服。",
+          "pinyin": "māma bāng wǒ gàihǎo bèizi, wǒ shuì de hěn shūfu.",
+          "english": "Mum tucks my blanket in, and I sleep very comfortably."
+        },
+        {
+          "hanzi": "跑完步，我坐在沙發上休息，很舒服。",
+          "pinyin": "pǎo wán bù, wǒ zuò zài shāfā shàng xiūxi, hěn shūfu.",
+          "english": "After a run, I rest on the sofa, and it feels really nice."
+        }
+      ]
+    },
+    {
+      "hanzi": "春天",
+      "pinyin": "chūntiān",
+      "definition": "spring",
+      "exampleSentences": [
+        {
+          "hanzi": "在澳洲，春天是九月到十一月。",
+          "pinyin": "zài Àozhōu, chūntiān shì jiǔyuè dào shíyīyuè.",
+          "english": "In Australia, spring is from September to November."
+        },
+        {
+          "hanzi": "春天，花開了。",
+          "pinyin": "chūntiān, huā kāi le.",
+          "english": "In spring, the flowers have bloomed."
+        },
+        {
+          "hanzi": "春天的下午，我和爸爸去公園放風箏。",
+          "pinyin": "chūntiān de xiàwǔ, wǒ hé bàba qù gōngyuán fàng fēngzheng.",
+          "english": "On spring afternoons, Dad and I fly kites in the park."
+        },
+        {
+          "hanzi": "春天到了，窗外有很多小鳥在唱歌。",
+          "pinyin": "chūntiān dào le, chuāng wài yǒu hěn duō xiǎoniǎo zài chànggē.",
+          "english": "Spring has arrived, and lots of little birds are singing outside the window."
+        }
+      ]
+    },
+    {
+      "hanzi": "不錯",
+      "pinyin": "búcuò",
+      "definition": "not bad, pretty good",
+      "exampleSentences": [
+        {
+          "hanzi": "這張畫不錯。",
+          "pinyin": "zhè zhāng huà búcuò.",
+          "english": "This drawing is pretty good."
+        },
+        {
+          "hanzi": "你的字寫得不錯。",
+          "pinyin": "nǐ de zì xiě de búcuò.",
+          "english": "Your handwriting is pretty good."
+        },
+        {
+          "hanzi": "媽媽說我做的餅乾味道不錯。",
+          "pinyin": "māma shuō wǒ zuò de bǐnggān wèidao búcuò.",
+          "english": "Mum said the biscuits I made taste pretty good."
+        },
+        {
+          "hanzi": "這場足球賽我踢得不錯。",
+          "pinyin": "zhè chǎng zúqiúsài wǒ tī de búcuò.",
+          "english": "I played pretty well in this soccer match."
+        }
+      ]
+    },
+    {
+      "hanzi": "顏色",
+      "pinyin": "yánsè",
+      "definition": "color",
+      "exampleSentences": [
+        {
+          "hanzi": "你喜歡什麼顏色？",
+          "pinyin": "nǐ xǐhuan shénme yánsè?",
+          "english": "What colour do you like?"
+        },
+        {
+          "hanzi": "今天我們學習不同的顏色。",
+          "pinyin": "jīntiān wǒmen xuéxí bùtóng de yánsè.",
+          "english": "Today we are learning different colours."
+        },
+        {
+          "hanzi": "我的蠟筆有十二種顏色。",
+          "pinyin": "wǒ de làbǐ yǒu shí'èr zhǒng yánsè.",
+          "english": "My crayon box has twelve colours."
+        },
+        {
+          "hanzi": "媽媽讓我挑一個喜歡的顏色。",
+          "pinyin": "māma ràng wǒ tiāo yí ge xǐhuan de yánsè.",
+          "english": "Mum lets me pick a colour I like."
+        }
+      ]
+    },
+    {
+      "hanzi": "時候",
+      "pinyin": "shíhou",
+      "definition": "time, when",
+      "exampleSentences": [
+        {
+          "hanzi": "你什麼時候吃午飯？",
+          "pinyin": "nǐ shénme shíhou chī wǔfàn?",
+          "english": "When do you eat lunch?"
+        },
+        {
+          "hanzi": "上課的時候要坐好。",
+          "pinyin": "shàngkè de shíhou yào zuòhǎo.",
+          "english": "Sit up properly when you are in class."
+        },
+        {
+          "hanzi": "我踢足球的時候，爸爸在旁邊看。",
+          "pinyin": "wǒ tī zúqiú de shíhou, bàba zài pángbiān kàn.",
+          "english": "When I play soccer, Dad watches from the side."
+        },
+        {
+          "hanzi": "爸爸什麼時候來接我？",
+          "pinyin": "bàba shénme shíhou lái jiē wǒ?",
+          "english": "When is Dad coming to pick me up?"
+        }
+      ]
+    },
+    {
+      "hanzi": "花",
+      "pinyin": "huā",
+      "definition": "flower(s)",
+      "exampleSentences": [
+        {
+          "hanzi": "這是一朵花。",
+          "pinyin": "zhè shì yì duǒ huā.",
+          "english": "This is a flower."
+        },
+        {
+          "hanzi": "花園裡有很多花。",
+          "pinyin": "huāyuán lǐ yǒu hěn duō huā.",
+          "english": "There are lots of flowers in the garden."
+        },
+        {
+          "hanzi": "我送媽媽一束花。",
+          "pinyin": "wǒ sòng māma yí shù huā.",
+          "english": "I give Mum a bunch of flowers."
+        },
+        {
+          "hanzi": "媽媽在家門口澆花。",
+          "pinyin": "māma zài jiāménkǒu jiāo huā.",
+          "english": "Mum waters the flowers by the front door."
+        }
+      ]
+    },
+    {
+      "hanzi": "院子",
+      "pinyin": "yuànzi",
+      "definition": "yard",
+      "exampleSentences": [
+        {
+          "hanzi": "我家有一個院子。",
+          "pinyin": "wǒ jiā yǒu yí ge yuànzi.",
+          "english": "We have a yard at home."
+        },
+        {
+          "hanzi": "院子裡有一棵大樹。",
+          "pinyin": "yuànzi lǐ yǒu yì kē dà shù.",
+          "english": "There is a big tree in the yard."
+        },
+        {
+          "hanzi": "爸爸在院子裡烤肉。",
+          "pinyin": "bàba zài yuànzi lǐ kǎo ròu.",
+          "english": "Dad is barbecuing in the yard."
+        },
+        {
+          "hanzi": "我的球滾進了鄰居的院子裡。",
+          "pinyin": "wǒ de qiú gǔn jìn le línjū de yuànzi lǐ.",
+          "english": "My ball rolled into the neighbour's yard."
+        }
+      ]
+    },
+    {
+      "hanzi": "紅色",
+      "pinyin": "hóngsè",
+      "definition": "red",
+      "exampleSentences": [
+        {
+          "hanzi": "這是紅色的氣球。",
+          "pinyin": "zhè shì hóngsè de qìqiú.",
+          "english": "This is a red balloon."
+        },
+        {
+          "hanzi": "草莓是紅色的。",
+          "pinyin": "cǎoméi shì hóngsè de.",
+          "english": "Strawberries are red."
+        },
+        {
+          "hanzi": "我戴了一頂紅色的帽子去踢球。",
+          "pinyin": "wǒ dài le yì dǐng hóngsè de màozi qù tī qiú.",
+          "english": "I wore a red hat to go and play soccer."
+        },
+        {
+          "hanzi": "我的書包裡有一枝紅色的筆。",
+          "pinyin": "wǒ de shūbāo lǐ yǒu yì zhī hóngsè de bǐ.",
+          "english": "There is a red pen in my school bag."
+        }
+      ]
+    },
+    {
+      "hanzi": "白色",
+      "pinyin": "báisè",
+      "definition": "white",
+      "exampleSentences": [
+        {
+          "hanzi": "天上的雲是白色的。",
+          "pinyin": "tiānshàng de yún shì báisè de.",
+          "english": "The clouds in the sky are white."
+        },
+        {
+          "hanzi": "請拿一張白色的紙。",
+          "pinyin": "qǐng ná yì zhāng báisè de zhǐ.",
+          "english": "Please take one sheet of white paper."
+        },
+        {
+          "hanzi": "我抱著一隻白色的小貓。",
+          "pinyin": "wǒ bào zhe yì zhī báisè de xiǎomāo.",
+          "english": "I am holding a white kitten."
+        },
+        {
+          "hanzi": "海灘上有很多白色的貝殼。",
+          "pinyin": "hǎitān shàng yǒu hěn duō báisè de bèiké.",
+          "english": "There are lots of white shells on the beach."
+        }
+      ]
+    },
+    {
+      "hanzi": "漂亮",
+      "pinyin": "piàoliàng",
+      "definition": "pretty, beautiful",
+      "exampleSentences": [
+        {
+          "hanzi": "你的新裙子很漂亮。",
+          "pinyin": "nǐ de xīn qúnzi hěn piàoliàng.",
+          "english": "Your new dress is very pretty."
+        },
+        {
+          "hanzi": "老師今天穿了一件漂亮的衣服。",
+          "pinyin": "lǎoshī jīntiān chuān le yí jiàn piàoliàng de yīfu.",
+          "english": "The teacher is wearing a pretty outfit today."
+        },
+        {
+          "hanzi": "我的生日蛋糕好漂亮！",
+          "pinyin": "wǒ de shēngrì dàngāo hǎo piàoliàng!",
+          "english": "My birthday cake is so pretty!"
+        },
+        {
+          "hanzi": "公園的鸚鵡飛來飛去，很漂亮。",
+          "pinyin": "gōngyuán de yīngwǔ fēi lái fēi qù, hěn piàoliàng.",
+          "english": "The parrots flying around the park are very pretty."
+        }
+      ]
+    }
+  ]
+}

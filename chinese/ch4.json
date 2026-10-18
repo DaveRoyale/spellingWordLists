@@ -1,0 +1,439 @@
+{
+  "id": "ch4",
+  "title": "學華語向前走 2A — Lesson 4",
+  "description": "Vocabulary from lesson 4 of the textbook 學華語向前走 (Let's Learn Mandarin) 2A, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "週末",
+      "pinyin": "zhōumò",
+      "definition": "weekend",
+      "exampleSentences": [
+        {
+          "hanzi": "你週末做什麼？",
+          "pinyin": "nǐ zhōumò zuò shénme?",
+          "english": "What do you do on the weekend?"
+        },
+        {
+          "hanzi": "今天是週末，我們不上學。",
+          "pinyin": "jīntiān shì zhōumò, wǒmen bú shàngxué.",
+          "english": "Today is the weekend, so we don't go to school."
+        },
+        {
+          "hanzi": "週末媽媽帶我去公園散步，我們看到很多鴨子。",
+          "pinyin": "zhōumò māma dài wǒ qù gōngyuán sànbù, wǒmen kàndào hěn duō yāzi.",
+          "english": "On the weekend Mum takes me for a walk in the park, and we see lots of ducks."
+        },
+        {
+          "hanzi": "週末我跟朋友一起踢足球。",
+          "pinyin": "zhōumò wǒ gēn péngyou yìqǐ tī zúqiú.",
+          "english": "On the weekend I play soccer with my friends."
+        }
+      ]
+    },
+    {
+      "hanzi": "漢堡",
+      "pinyin": "hànbǎo",
+      "definition": "hamburger",
+      "exampleSentences": [
+        {
+          "hanzi": "我喜歡吃漢堡。",
+          "pinyin": "wǒ xǐhuan chī hànbǎo.",
+          "english": "I like eating hamburgers."
+        },
+        {
+          "hanzi": "漢堡要用兩隻手拿。",
+          "pinyin": "hànbǎo yào yòng liǎng zhī shǒu ná.",
+          "english": "You hold a hamburger with two hands."
+        },
+        {
+          "hanzi": "生日派對上有很多漢堡。",
+          "pinyin": "shēngrì pàiduì shàng yǒu hěn duō hànbǎo.",
+          "english": "There are lots of hamburgers at the birthday party."
+        },
+        {
+          "hanzi": "爸爸下班時買了漢堡回家。",
+          "pinyin": "bàba xiàbān shí mǎi le hànbǎo huí jiā.",
+          "english": "Dad bought some hamburgers on his way home from work."
+        }
+      ]
+    },
+    {
+      "hanzi": "薯條",
+      "pinyin": "shǔtiáo",
+      "definition": "french fries",
+      "exampleSentences": [
+        {
+          "hanzi": "這是薯條。",
+          "pinyin": "zhè shì shǔtiáo.",
+          "english": "These are french fries."
+        },
+        {
+          "hanzi": "薯條要趁熱吃。",
+          "pinyin": "shǔtiáo yào chèn rè chī.",
+          "english": "French fries should be eaten while they are hot."
+        },
+        {
+          "hanzi": "我和妹妹分一份薯條吃。",
+          "pinyin": "wǒ hé mèimei fēn yí fèn shǔtiáo chī.",
+          "english": "My sister and I share one serving of french fries."
+        },
+        {
+          "hanzi": "薯條上面可以加番茄醬。",
+          "pinyin": "shǔtiáo shàngmiàn kěyǐ jiā fānqiéjiàng.",
+          "english": "You can put tomato sauce on the french fries."
+        }
+      ]
+    },
+    {
+      "hanzi": "出去",
+      "pinyin": "chūqù",
+      "definition": "to go out",
+      "exampleSentences": [
+        {
+          "hanzi": "我想出去。",
+          "pinyin": "wǒ xiǎng chūqù.",
+          "english": "I want to go out."
+        },
+        {
+          "hanzi": "爸爸出去了。",
+          "pinyin": "bàba chūqù le.",
+          "english": "Dad has gone out."
+        },
+        {
+          "hanzi": "外面下雨，我們不要出去。",
+          "pinyin": "wàimiàn xiàyǔ, wǒmen bú yào chūqù.",
+          "english": "It is raining outside, so we are not going out."
+        },
+        {
+          "hanzi": "今天天氣很好，我們出去騎腳踏車。",
+          "pinyin": "jīntiān tiānqì hěn hǎo, wǒmen chūqù qí jiǎotàchē.",
+          "english": "The weather is nice today, so we go out for a bike ride."
+        }
+      ]
+    },
+    {
+      "hanzi": "先",
+      "pinyin": "xiān",
+      "definition": "first, early",
+      "exampleSentences": [
+        {
+          "hanzi": "請先寫名字。",
+          "pinyin": "qǐng xiān xiě míngzi.",
+          "english": "Please write your name first."
+        },
+        {
+          "hanzi": "我先來。",
+          "pinyin": "wǒ xiān lái.",
+          "english": "I will go first."
+        },
+        {
+          "hanzi": "我們先洗手，再吃飯。",
+          "pinyin": "wǒmen xiān xǐshǒu, zài chīfàn.",
+          "english": "We wash our hands first, then we eat."
+        },
+        {
+          "hanzi": "出門前，先穿好鞋子。",
+          "pinyin": "chūmén qián, xiān chuān hǎo xiézi.",
+          "english": "Before going out, put your shoes on first."
+        }
+      ]
+    },
+    {
+      "hanzi": "蛋炒飯",
+      "pinyin": "dànchǎofàn",
+      "definition": "egg fried rice",
+      "exampleSentences": [
+        {
+          "hanzi": "我要吃蛋炒飯。",
+          "pinyin": "wǒ yào chī dànchǎofàn.",
+          "english": "I want to eat egg fried rice."
+        },
+        {
+          "hanzi": "蛋炒飯裡有雞蛋和蔥。",
+          "pinyin": "dànchǎofàn lǐ yǒu jīdàn hé cōng.",
+          "english": "Egg fried rice has eggs and spring onion in it."
+        },
+        {
+          "hanzi": "媽媽做蛋炒飯，我幫她打蛋。",
+          "pinyin": "māma zuò dànchǎofàn, wǒ bāng tā dǎ dàn.",
+          "english": "Mum makes egg fried rice, and I help her crack the eggs."
+        },
+        {
+          "hanzi": "今天學校午餐吃蛋炒飯，我吃得很飽。",
+          "pinyin": "jīntiān xuéxiào wǔcān chī dànchǎofàn, wǒ chī de hěn bǎo.",
+          "english": "Today's school lunch was egg fried rice, and I ate until I was full."
+        }
+      ]
+    },
+    {
+      "hanzi": "晚餐",
+      "pinyin": "wǎncān",
+      "definition": "dinner, supper",
+      "exampleSentences": [
+        {
+          "hanzi": "我們晚上六點吃晚餐。",
+          "pinyin": "wǒmen wǎnshang liù diǎn chī wǎncān.",
+          "english": "We have dinner at six o'clock in the evening."
+        },
+        {
+          "hanzi": "爸爸，晚餐好了嗎？",
+          "pinyin": "bàba, wǎncān hǎo le ma?",
+          "english": "Dad, is dinner ready?"
+        },
+        {
+          "hanzi": "全家人在餐廳一起吃晚餐，我很開心。",
+          "pinyin": "quánjiārén zài cāntīng yìqǐ chī wǎncān, wǒ hěn kāixīn.",
+          "english": "The whole family has dinner together at a restaurant, and I am happy."
+        },
+        {
+          "hanzi": "爺爺奶奶來我們家，晚餐很熱鬧。",
+          "pinyin": "yéye nǎinai lái wǒmen jiā, wǎncān hěn rènao.",
+          "english": "Grandpa and Grandma came to our house, and dinner was lively."
+        }
+      ]
+    },
+    {
+      "hanzi": "晚飯",
+      "pinyin": "wǎnfàn",
+      "definition": "dinner, supper (alternative)",
+      "exampleSentences": [
+        {
+          "hanzi": "你吃晚飯了嗎？",
+          "pinyin": "nǐ chī wǎnfàn le ma?",
+          "english": "Have you had dinner yet?"
+        },
+        {
+          "hanzi": "今天晚飯吃什麼？",
+          "pinyin": "jīntiān wǎnfàn chī shénme?",
+          "english": "What are we having for dinner tonight?"
+        },
+        {
+          "hanzi": "我玩了很久，媽媽叫我回家吃晚飯。",
+          "pinyin": "wǒ wán le hěn jiǔ, māma jiào wǒ huí jiā chī wǎnfàn.",
+          "english": "I played for a long time, and Mum called me home to eat dinner."
+        },
+        {
+          "hanzi": "晚飯後，我和弟弟一起洗碗。",
+          "pinyin": "wǎnfàn hòu, wǒ hé dìdi yìqǐ xǐ wǎn.",
+          "english": "After dinner, my brother and I wash the bowls together."
+        }
+      ]
+    },
+    {
+      "hanzi": "再",
+      "pinyin": "zài",
+      "definition": "then",
+      "exampleSentences": [
+        {
+          "hanzi": "下課後，我們再去找你。",
+          "pinyin": "xiàkè hòu, wǒmen zài qù zhǎo nǐ.",
+          "english": "After class, we will come and find you."
+        },
+        {
+          "hanzi": "我們吃完飯再玩，好嗎？",
+          "pinyin": "wǒmen chī wán fàn zài wán, hǎo ma?",
+          "english": "Let's play after we finish eating, OK?"
+        },
+        {
+          "hanzi": "等爸爸回家，我們再去超市。",
+          "pinyin": "děng bàba huí jiā, wǒmen zài qù chāoshì.",
+          "english": "Once Dad gets home, we will go to the supermarket."
+        },
+        {
+          "hanzi": "午餐後，我們去操場，再踢足球。",
+          "pinyin": "wǔcān hòu, wǒmen qù cāochǎng, zài tī zúqiú.",
+          "english": "After lunch we go to the school field and then play soccer."
+        }
+      ]
+    },
+    {
+      "hanzi": "麵",
+      "pinyin": "miàn",
+      "definition": "noodles",
+      "exampleSentences": [
+        {
+          "hanzi": "你要吃麵嗎？",
+          "pinyin": "nǐ yào chī miàn ma?",
+          "english": "Do you want to eat noodles?"
+        },
+        {
+          "hanzi": "這碗麵裡放了很多青菜。",
+          "pinyin": "zhè wǎn miàn lǐ fàng le hěn duō qīngcài.",
+          "english": "This bowl of noodles has lots of greens in it."
+        },
+        {
+          "hanzi": "我生病的時候，媽媽會煮麵給我吃。",
+          "pinyin": "wǒ shēngbìng de shíhou, māma huì zhǔ miàn gěi wǒ chī.",
+          "english": "When I am sick, Mum cooks noodles for me to eat."
+        },
+        {
+          "hanzi": "週六中午，爸爸帶我去吃麵。",
+          "pinyin": "zhōuliù zhōngwǔ, bàba dài wǒ qù chī miàn.",
+          "english": "On Saturday at lunchtime, Dad takes me out for noodles."
+        }
+      ]
+    },
+    {
+      "hanzi": "了",
+      "pinyin": "le",
+      "definition": "completed action marker; also situational change (a new state)",
+      "exampleSentences": [
+        {
+          "hanzi": "我吃了一個漢堡。",
+          "pinyin": "wǒ chī le yí ge hànbǎo.",
+          "english": "I ate a hamburger."
+        },
+        {
+          "hanzi": "老師寫了三個字。",
+          "pinyin": "lǎoshī xiě le sān ge zì.",
+          "english": "The teacher wrote three characters."
+        },
+        {
+          "hanzi": "我寫完了字，就去玩。",
+          "pinyin": "wǒ xiě wán le zì, jiù qù wán.",
+          "english": "I finished my writing, then I went to play."
+        },
+        {
+          "hanzi": "昨天下午，爸爸修好了我的腳踏車。",
+          "pinyin": "zuótiān xiàwǔ, bàba xiū hǎo le wǒ de jiǎotàchē.",
+          "english": "Yesterday afternoon Dad fixed my bike."
+        }
+      ]
+    },
+    {
+      "hanzi": "湯",
+      "pinyin": "tāng",
+      "definition": "soup",
+      "exampleSentences": [
+        {
+          "hanzi": "我要一碗湯。",
+          "pinyin": "wǒ yào yì wǎn tāng.",
+          "english": "I would like a bowl of soup."
+        },
+        {
+          "hanzi": "湯很燙，要慢慢喝。",
+          "pinyin": "tāng hěn tàng, yào mànmàn hē.",
+          "english": "The soup is very hot, so drink it slowly."
+        },
+        {
+          "hanzi": "冬天在家，我最喜歡喝番茄湯。",
+          "pinyin": "dōngtiān zài jiā, wǒ zuì xǐhuan hē fānqié tāng.",
+          "english": "In winter at home, I love drinking tomato soup the most."
+        },
+        {
+          "hanzi": "爺爺煮的湯，大家都說好喝。",
+          "pinyin": "yéye zhǔ de tāng, dàjiā dōu shuō hǎohē.",
+          "english": "Everyone says Grandpa's soup is delicious."
+        }
+      ]
+    },
+    {
+      "hanzi": "玉米",
+      "pinyin": "yùmǐ",
+      "definition": "corn",
+      "exampleSentences": [
+        {
+          "hanzi": "這根玉米很甜。",
+          "pinyin": "zhè gēn yùmǐ hěn tián.",
+          "english": "This cob of corn is very sweet."
+        },
+        {
+          "hanzi": "玉米可以煮，也可以烤。",
+          "pinyin": "yùmǐ kěyǐ zhǔ, yě kěyǐ kǎo.",
+          "english": "Corn can be boiled or grilled."
+        },
+        {
+          "hanzi": "我在海灘吃烤玉米。",
+          "pinyin": "wǒ zài hǎitān chī kǎo yùmǐ.",
+          "english": "I eat grilled corn at the beach."
+        },
+        {
+          "hanzi": "爸爸把玉米放進購物袋裡。",
+          "pinyin": "bàba bǎ yùmǐ fàng jìn gòuwùdài lǐ.",
+          "english": "Dad puts the corn into the shopping bag."
+        }
+      ]
+    },
+    {
+      "hanzi": "已經",
+      "pinyin": "yǐjīng",
+      "definition": "already",
+      "exampleSentences": [
+        {
+          "hanzi": "我已經吃飽了。",
+          "pinyin": "wǒ yǐjīng chī bǎo le.",
+          "english": "I have already eaten enough."
+        },
+        {
+          "hanzi": "哥哥已經回家了。",
+          "pinyin": "gēge yǐjīng huí jiā le.",
+          "english": "My older brother has already gone home."
+        },
+        {
+          "hanzi": "我已經收好書包了，我們走吧。",
+          "pinyin": "wǒ yǐjīng shōu hǎo shūbāo le, wǒmen zǒu ba.",
+          "english": "I have already packed my school bag, so let's go."
+        },
+        {
+          "hanzi": "雨已經停了，我們去玩吧。",
+          "pinyin": "yǔ yǐjīng tíng le, wǒmen qù wán ba.",
+          "english": "The rain has already stopped, so let's go and play."
+        }
+      ]
+    },
+    {
+      "hanzi": "餓",
+      "pinyin": "è",
+      "definition": "hungry",
+      "exampleSentences": [
+        {
+          "hanzi": "我很餓。",
+          "pinyin": "wǒ hěn è.",
+          "english": "I am hungry."
+        },
+        {
+          "hanzi": "你餓了嗎？",
+          "pinyin": "nǐ è le ma?",
+          "english": "Are you hungry?"
+        },
+        {
+          "hanzi": "足球練完，我餓得不得了。",
+          "pinyin": "zúqiú liàn wán, wǒ è de bùdéliǎo.",
+          "english": "After soccer training, I am starving."
+        },
+        {
+          "hanzi": "放學的時候，我好餓，肚子咕咕叫。",
+          "pinyin": "fàngxué de shíhou, wǒ hǎo è, dùzi gūgū jiào.",
+          "english": "When school finishes, I am so hungry my tummy is rumbling."
+        }
+      ]
+    },
+    {
+      "hanzi": "快點",
+      "pinyin": "kuàidiǎn",
+      "definition": "to do more quickly, earlier, faster",
+      "exampleSentences": [
+        {
+          "hanzi": "快點，我們要遲到了。",
+          "pinyin": "kuàidiǎn, wǒmen yào chídào le.",
+          "english": "Hurry up, we are going to be late."
+        },
+        {
+          "hanzi": "快點吃，飯要涼了！",
+          "pinyin": "kuàidiǎn chī, fàn yào liáng le!",
+          "english": "Hurry up and eat, the food is going cold!"
+        },
+        {
+          "hanzi": "快點把書包背好，我們要去學校了！",
+          "pinyin": "kuàidiǎn bǎ shūbāo bèi hǎo, wǒmen yào qù xuéxiào le!",
+          "english": "Quick, put your school bag on, we are going to school!"
+        },
+        {
+          "hanzi": "我們快點去海灘吧！",
+          "pinyin": "wǒmen kuàidiǎn qù hǎitān ba!",
+          "english": "Let's hurry to the beach!"
+        }
+      ]
+    }
+  ]
+}
