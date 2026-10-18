@@ -1,0 +1,331 @@
+{
+  "id": "ch10",
+  "title": "學華語向前走 2B — Lesson 10",
+  "description": "Vocabulary from lesson 10 of the textbook 學華語向前走 (Let's Learn Mandarin) 2B, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "暑假",
+      "pinyin": "shǔjià",
+      "definition": "summer vacation",
+      "exampleSentences": [
+        {
+          "hanzi": "今天是暑假第一天。",
+          "pinyin": "jīntiān shì shǔjià dì yī tiān.",
+          "english": "Today is the first day of summer vacation."
+        },
+        {
+          "hanzi": "暑假很長，我很開心。",
+          "pinyin": "shǔjià hěn cháng, wǒ hěn kāixīn.",
+          "english": "The summer holiday is long, and I'm very happy."
+        },
+        {
+          "hanzi": "我的暑假作業做完了。",
+          "pinyin": "wǒ de shǔjià zuòyè zuòwán le.",
+          "english": "I've finished my summer holiday homework."
+        },
+        {
+          "hanzi": "暑假我們去海邊玩。",
+          "pinyin": "shǔjià wǒmen qù hǎibiān wán.",
+          "english": "In the summer holidays we go to the beach to play."
+        }
+      ]
+    },
+    {
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "definition": "to visit",
+      "exampleSentences": [
+        {
+          "hanzi": "我去看舅舅。",
+          "pinyin": "wǒ qù kàn jiùjiu.",
+          "english": "I'm going to visit my uncle."
+        },
+        {
+          "hanzi": "你星期六來看我嗎？",
+          "pinyin": "nǐ xīngqīliù lái kàn wǒ ma?",
+          "english": "Will you come to visit me on Saturday?"
+        },
+        {
+          "hanzi": "我們今天去看奶奶。",
+          "pinyin": "wǒmen jīntiān qù kàn nǎinai.",
+          "english": "We're going to visit Grandma today."
+        },
+        {
+          "hanzi": "週末我們去看爺爺。",
+          "pinyin": "zhōumò wǒmen qù kàn yéye.",
+          "english": "On the weekend we go to visit Grandpa."
+        }
+      ]
+    },
+    {
+      "hanzi": "本來",
+      "pinyin": "běnlái",
+      "definition": "originally",
+      "exampleSentences": [
+        {
+          "hanzi": "這本來是我的書。",
+          "pinyin": "zhè běnlái shì wǒ de shū.",
+          "english": "This was originally my book."
+        },
+        {
+          "hanzi": "我本來想去公園，但是下雨了。",
+          "pinyin": "wǒ běnlái xiǎng qù gōngyuán, dànshì xiàyǔ le.",
+          "english": "I was originally going to go to the park, but it rained."
+        },
+        {
+          "hanzi": "我的球本來放在這裡，現在不見了。",
+          "pinyin": "wǒ de qiú běnlái fàng zài zhèlǐ, xiànzài bújiàn le.",
+          "english": "My ball was originally here, but now it's gone."
+        },
+        {
+          "hanzi": "我本來想吃蘋果，現在想吃香蕉。",
+          "pinyin": "wǒ běnlái xiǎng chī píngguǒ, xiànzài xiǎng chī xiāngjiāo.",
+          "english": "At first I wanted an apple, but now I want a banana."
+        }
+      ]
+    },
+    {
+      "hanzi": "住在",
+      "pinyin": "zhùzài",
+      "definition": "to live in / at",
+      "exampleSentences": [
+        {
+          "hanzi": "我住在澳洲。",
+          "pinyin": "wǒ zhùzài Àozhōu.",
+          "english": "I live in Australia."
+        },
+        {
+          "hanzi": "他住在臺北。",
+          "pinyin": "tā zhùzài Táiběi.",
+          "english": "He lives in Taipei."
+        },
+        {
+          "hanzi": "我的朋友住在我家附近。",
+          "pinyin": "wǒ de péngyou zhùzài wǒ jiā fùjìn.",
+          "english": "My friend lives near my house."
+        },
+        {
+          "hanzi": "我們住在有大花園的房子裡。",
+          "pinyin": "wǒmen zhùzài yǒu dà huāyuán de fángzi lǐ.",
+          "english": "We live in a house with a big garden."
+        }
+      ]
+    },
+    {
+      "hanzi": "臺北",
+      "pinyin": "Táiběi",
+      "definition": "Taipei",
+      "exampleSentences": [
+        {
+          "hanzi": "臺北很大。",
+          "pinyin": "Táiběi hěn dà.",
+          "english": "Taipei is big."
+        },
+        {
+          "hanzi": "臺北在臺灣。",
+          "pinyin": "Táiběi zài Táiwān.",
+          "english": "Taipei is in Taiwan."
+        },
+        {
+          "hanzi": "我們去臺北的動物園玩。",
+          "pinyin": "wǒmen qù Táiběi de dòngwùyuán wán.",
+          "english": "We go to the zoo in Taipei to play."
+        },
+        {
+          "hanzi": "爺爺說臺北的夜市很好吃。",
+          "pinyin": "yéye shuō Táiběi de yèshì hěn hǎochī.",
+          "english": "Grandpa says the night markets in Taipei have yummy food."
+        }
+      ]
+    },
+    {
+      "hanzi": "退休",
+      "pinyin": "tuìxiū",
+      "definition": "to retire",
+      "exampleSentences": [
+        {
+          "hanzi": "奶奶退休了。",
+          "pinyin": "nǎinai tuìxiū le.",
+          "english": "Grandma has retired."
+        },
+        {
+          "hanzi": "老師明年退休。",
+          "pinyin": "lǎoshī míngnián tuìxiū.",
+          "english": "The teacher retires next year."
+        },
+        {
+          "hanzi": "爺爺退休以後，每天在公園散步。",
+          "pinyin": "yéye tuìxiū yǐhòu, měitiān zài gōngyuán sànbù.",
+          "english": "After retiring, Grandpa goes for a walk in the park every day."
+        },
+        {
+          "hanzi": "爸爸還沒退休，他每天上班。",
+          "pinyin": "bàba hái méi tuìxiū, tā měitiān shàngbān.",
+          "english": "Dad hasn't retired yet, so he goes to work every day."
+        }
+      ]
+    },
+    {
+      "hanzi": "舅舅",
+      "pinyin": "jiùjiu",
+      "definition": "uncle (maternal)",
+      "exampleSentences": [
+        {
+          "hanzi": "媽媽的弟弟是我的舅舅。",
+          "pinyin": "māma de dìdi shì wǒ de jiùjiu.",
+          "english": "Mum's younger brother is my uncle."
+        },
+        {
+          "hanzi": "舅舅有一隻狗。",
+          "pinyin": "jiùjiu yǒu yì zhī gǒu.",
+          "english": "Uncle has a dog."
+        },
+        {
+          "hanzi": "舅舅週末帶我去游泳。",
+          "pinyin": "jiùjiu zhōumò dài wǒ qù yóuyǒng.",
+          "english": "On weekends Uncle takes me swimming."
+        },
+        {
+          "hanzi": "媽媽說舅舅明天來我家。",
+          "pinyin": "māma shuō jiùjiu míngtiān lái wǒ jiā.",
+          "english": "Mum says Uncle is coming to our house tomorrow."
+        }
+      ]
+    },
+    {
+      "hanzi": "臺南",
+      "pinyin": "Táinán",
+      "definition": "Tainan",
+      "exampleSentences": [
+        {
+          "hanzi": "臺南在臺灣。",
+          "pinyin": "Táinán zài Táiwān.",
+          "english": "Tainan is in Taiwan."
+        },
+        {
+          "hanzi": "臺南在臺北的南方。",
+          "pinyin": "Táinán zài Táiběi de nánfāng.",
+          "english": "Tainan is south of Taipei."
+        },
+        {
+          "hanzi": "暑假我們坐火車去臺南。",
+          "pinyin": "shǔjià wǒmen zuò huǒchē qù Táinán.",
+          "english": "In the summer holidays we take the train to Tainan."
+        },
+        {
+          "hanzi": "我最喜歡吃臺南的芒果。",
+          "pinyin": "wǒ zuì xǐhuan chī Táinán de mángguǒ.",
+          "english": "I love eating Tainan's mangoes."
+        }
+      ]
+    },
+    {
+      "hanzi": "一次",
+      "pinyin": "yícì",
+      "definition": "once",
+      "exampleSentences": [
+        {
+          "hanzi": "我只去過一次動物園。",
+          "pinyin": "wǒ zhǐ qù guo yícì dòngwùyuán.",
+          "english": "I've only been to the zoo once."
+        },
+        {
+          "hanzi": "請再說一次。",
+          "pinyin": "qǐng zài shuō yícì.",
+          "english": "Please say it one more time."
+        },
+        {
+          "hanzi": "我每星期去一次游泳。",
+          "pinyin": "wǒ měi xīngqī qù yícì yóuyǒng.",
+          "english": "I go swimming once a week."
+        },
+        {
+          "hanzi": "一次吃太多糖，牙齒會痛。",
+          "pinyin": "yícì chī tài duō táng, yáchǐ huì tòng.",
+          "english": "Eating too much sugar at once makes your teeth hurt."
+        }
+      ]
+    },
+    {
+      "hanzi": "紐約",
+      "pinyin": "Niǔyuē",
+      "definition": "New York",
+      "exampleSentences": [
+        {
+          "hanzi": "紐約在美國。",
+          "pinyin": "Niǔyuē zài Měiguó.",
+          "english": "New York is in the United States."
+        },
+        {
+          "hanzi": "紐約很遠，我們要坐飛機。",
+          "pinyin": "Niǔyuē hěn yuǎn, wǒmen yào zuò fēijī.",
+          "english": "New York is far away, so we have to take a plane."
+        },
+        {
+          "hanzi": "我的玩具熊是在紐約買的。",
+          "pinyin": "wǒ de wánjùxióng shì zài Niǔyuē mǎi de.",
+          "english": "My teddy bear was bought in New York."
+        },
+        {
+          "hanzi": "阿姨在紐約，她常寄卡片給我。",
+          "pinyin": "āyí zài Niǔyuē, tā cháng jì kǎpiàn gěi wǒ.",
+          "english": "My aunt is in New York, and she often sends me cards."
+        }
+      ]
+    },
+    {
+      "hanzi": "旅行",
+      "pinyin": "lǚxíng",
+      "definition": "to travel, to take a trip",
+      "exampleSentences": [
+        {
+          "hanzi": "我喜歡旅行。",
+          "pinyin": "wǒ xǐhuan lǚxíng.",
+          "english": "I like travelling."
+        },
+        {
+          "hanzi": "爸爸和媽媽去旅行。",
+          "pinyin": "bàba hé māma qù lǚxíng.",
+          "english": "Dad and Mum are going on a trip."
+        },
+        {
+          "hanzi": "這個暑假我們要去旅行。",
+          "pinyin": "zhège shǔjià wǒmen yào qù lǚxíng.",
+          "english": "This summer holiday we're going on a trip."
+        },
+        {
+          "hanzi": "旅行的時候要帶水和帽子。",
+          "pinyin": "lǚxíng de shíhou yào dài shuǐ hé màozi.",
+          "english": "When you go travelling, bring water and a hat."
+        }
+      ]
+    },
+    {
+      "hanzi": "法國",
+      "pinyin": "Fǎguó",
+      "definition": "France",
+      "exampleSentences": [
+        {
+          "hanzi": "法國在歐洲。",
+          "pinyin": "Fǎguó zài Ōuzhōu.",
+          "english": "France is in Europe."
+        },
+        {
+          "hanzi": "我想去法國。",
+          "pinyin": "wǒ xiǎng qù Fǎguó.",
+          "english": "I want to go to France."
+        },
+        {
+          "hanzi": "爸爸從法國帶了禮物給我。",
+          "pinyin": "bàba cóng Fǎguó dài le lǐwù gěi wǒ.",
+          "english": "Dad brought me a present from France."
+        },
+        {
+          "hanzi": "我的同學說他去過法國。",
+          "pinyin": "wǒ de tóngxué shuō tā qù guo Fǎguó.",
+          "english": "My classmate says he has been to France."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "id": "ch12",
+  "title": "學華語向前走 2B — Lesson 12",
+  "description": "Vocabulary from lesson 12 of the textbook 學華語向前走 (Let's Learn Mandarin) 2B, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "網路",
+      "pinyin": "wǎnglù",
+      "definition": "internet",
+      "exampleSentences": [
+        {
+          "hanzi": "我們在教室用網路。",
+          "pinyin": "wǒmen zài jiàoshì yòng wǎnglù.",
+          "english": "We use the internet in the classroom."
+        },
+        {
+          "hanzi": "網路上有很多圖片。",
+          "pinyin": "wǎnglù shàng yǒu hěn duō túpiàn.",
+          "english": "There are lots of pictures on the internet."
+        },
+        {
+          "hanzi": "媽媽說不可以用網路玩太久。",
+          "pinyin": "māma shuō bù kěyǐ yòng wǎnglù wán tài jiǔ.",
+          "english": "Mum says you can't play on the internet for too long."
+        },
+        {
+          "hanzi": "爸爸用網路買了新的書包。",
+          "pinyin": "bàba yòng wǎnglù mǎi le xīn de shūbāo.",
+          "english": "Dad used the internet to buy a new school bag."
+        }
+      ]
+    },
+    {
+      "hanzi": "電話",
+      "pinyin": "diànhuà",
+      "definition": "telephone",
+      "exampleSentences": [
+        {
+          "hanzi": "我打電話給媽媽。",
+          "pinyin": "wǒ dǎ diànhuà gěi māma.",
+          "english": "I'm calling Mum on the phone."
+        },
+        {
+          "hanzi": "電話在哪裡？",
+          "pinyin": "diànhuà zài nǎlǐ?",
+          "english": "Where is the telephone?"
+        },
+        {
+          "hanzi": "電話響了，媽媽去接。",
+          "pinyin": "diànhuà xiǎng le, māma qù jiē.",
+          "english": "The phone rang, and Mum went to answer it."
+        },
+        {
+          "hanzi": "外婆每星期打電話給我。",
+          "pinyin": "wàipó měi xīngqī dǎ diànhuà gěi wǒ.",
+          "english": "Grandma calls me on the phone every week."
+        }
+      ]
+    },
+    {
+      "hanzi": "很久",
+      "pinyin": "hěnjiǔ",
+      "definition": "a long time, a while",
+      "exampleSentences": [
+        {
+          "hanzi": "我們等了很久。",
+          "pinyin": "wǒmen děng le hěnjiǔ.",
+          "english": "We waited a long time."
+        },
+        {
+          "hanzi": "我們很久沒去公園了。",
+          "pinyin": "wǒmen hěnjiǔ méi qù gōngyuán le.",
+          "english": "We haven't been to the park for a long time."
+        },
+        {
+          "hanzi": "我很久沒見到表哥了。",
+          "pinyin": "wǒ hěnjiǔ méi jiàndào biǎogē le.",
+          "english": "I haven't seen my cousin for a long time."
+        },
+        {
+          "hanzi": "你已經玩了很久了，該睡覺了。",
+          "pinyin": "nǐ yǐjīng wán le hěnjiǔ le, gāi shuìjiào le.",
+          "english": "You've been playing for ages, it's time for bed."
+        }
+      ]
+    },
+    {
+      "hanzi": "說話",
+      "pinyin": "shuōhuà",
+      "definition": "to speak, to say, to talk",
+      "exampleSentences": [
+        {
+          "hanzi": "上課的時候不要說話。",
+          "pinyin": "shàngkè de shíhou bú yào shuōhuà.",
+          "english": "Don't talk during class."
+        },
+        {
+          "hanzi": "他在和老師說話。",
+          "pinyin": "tā zài hé lǎoshī shuōhuà.",
+          "english": "He is talking to the teacher."
+        },
+        {
+          "hanzi": "我和外婆用中文說話。",
+          "pinyin": "wǒ hé wàipó yòng Zhōngwén shuōhuà.",
+          "english": "I speak Chinese with Grandma."
+        },
+        {
+          "hanzi": "吃飯的時候不要邊吃邊說話。",
+          "pinyin": "chīfàn de shíhou bú yào biān chī biān shuōhuà.",
+          "english": "Don't talk with your mouth full at dinner."
+        }
+      ]
+    },
+    {
+      "hanzi": "影像",
+      "pinyin": "yǐngxiàng",
+      "definition": "image",
+      "exampleSentences": [
+        {
+          "hanzi": "這個影像很清楚。",
+          "pinyin": "zhège yǐngxiàng hěn qīngchu.",
+          "english": "This image is very clear."
+        },
+        {
+          "hanzi": "這個影像是我拍的。",
+          "pinyin": "zhège yǐngxiàng shì wǒ pāi de.",
+          "english": "I took this picture (video)."
+        },
+        {
+          "hanzi": "電視壞了，沒有影像。",
+          "pinyin": "diànshì huài le, méiyǒu yǐngxiàng.",
+          "english": "The TV broke, so there's no picture."
+        },
+        {
+          "hanzi": "這個遊戲的影像很漂亮。",
+          "pinyin": "zhège yóuxì de yǐngxiàng hěn piàoliang.",
+          "english": "The pictures in this game are really pretty."
+        }
+      ]
+    },
+    {
+      "hanzi": "過來",
+      "pinyin": "guòlái",
+      "definition": "to come over",
+      "exampleSentences": [
+        {
+          "hanzi": "小朋友，請你過來。",
+          "pinyin": "xiǎopéngyou, qǐng nǐ guòlái.",
+          "english": "Children, please come over here."
+        },
+        {
+          "hanzi": "你過來看這個字。",
+          "pinyin": "nǐ guòlái kàn zhège zì.",
+          "english": "Come over and look at this character."
+        },
+        {
+          "hanzi": "媽媽叫你過來吃飯。",
+          "pinyin": "māma jiào nǐ guòlái chīfàn.",
+          "english": "Mum is calling you to come and eat."
+        },
+        {
+          "hanzi": "小狗跑過來，搖著尾巴。",
+          "pinyin": "xiǎogǒu pǎo guòlái, yáozhe wěiba.",
+          "english": "The puppy runs over, wagging its tail."
+        }
+      ]
+    },
+    {
+      "hanzi": "長高",
+      "pinyin": "zhǎnggāo",
+      "definition": "to grow tall",
+      "exampleSentences": [
+        {
+          "hanzi": "你長高了很多。",
+          "pinyin": "nǐ zhǎnggāo le hěn duō.",
+          "english": "You've grown a lot taller."
+        },
+        {
+          "hanzi": "這棵樹長高了。",
+          "pinyin": "zhè kē shù zhǎnggāo le.",
+          "english": "This tree has grown taller."
+        },
+        {
+          "hanzi": "我每年都長高一點。",
+          "pinyin": "wǒ měi nián dōu zhǎnggāo yìdiǎn.",
+          "english": "I grow a little taller every year."
+        },
+        {
+          "hanzi": "媽媽說，多吃飯才能長高。",
+          "pinyin": "māma shuō, duō chī fàn cái néng zhǎnggāo.",
+          "english": "Mum says you need to eat more to grow tall."
+        }
+      ]
+    },
+    {
+      "hanzi": "看起來",
+      "pinyin": "kànqǐlái",
+      "definition": "look, look like",
+      "exampleSentences": [
+        {
+          "hanzi": "這個字看起來很難。",
+          "pinyin": "zhège zì kànqǐlái hěn nán.",
+          "english": "This character looks hard."
+        },
+        {
+          "hanzi": "他看起來很高興。",
+          "pinyin": "tā kànqǐlái hěn gāoxìng.",
+          "english": "He looks happy."
+        },
+        {
+          "hanzi": "你看起來好累，要不要睡一下？",
+          "pinyin": "nǐ kànqǐlái hǎo lèi, yào bu yào shuì yíxià?",
+          "english": "You look tired, do you want to have a nap?"
+        },
+        {
+          "hanzi": "這個蛋糕看起來很好吃！",
+          "pinyin": "zhège dàngāo kànqǐlái hěn hǎochī!",
+          "english": "This cake looks delicious!"
+        }
+      ]
+    },
+    {
+      "hanzi": "瘦",
+      "pinyin": "shòu",
+      "definition": "skinny, thin",
+      "exampleSentences": [
+        {
+          "hanzi": "這隻貓很瘦。",
+          "pinyin": "zhè zhī māo hěn shòu.",
+          "english": "This cat is very skinny."
+        },
+        {
+          "hanzi": "小兔子很瘦，要多吃草。",
+          "pinyin": "xiǎo tùzi hěn shòu, yào duō chī cǎo.",
+          "english": "The little rabbit is thin, so it should eat more grass."
+        },
+        {
+          "hanzi": "弟弟很瘦，可是跑得很快。",
+          "pinyin": "dìdi hěn shòu, kěshì pǎo de hěn kuài.",
+          "english": "My little brother is skinny but runs fast."
+        },
+        {
+          "hanzi": "那隻狗太瘦了，要多給牠吃東西。",
+          "pinyin": "nà zhī gǒu tài shòu le, yào duō gěi tā chī dōngxi.",
+          "english": "That dog is too skinny, we need to give it more to eat."
+        }
+      ]
+    },
+    {
+      "hanzi": "啊",
+      "pinyin": "a",
+      "definition": "(sentence-final particle)",
+      "exampleSentences": [
+        {
+          "hanzi": "這是什麼啊？",
+          "pinyin": "zhè shì shénme a?",
+          "english": "What's this?"
+        },
+        {
+          "hanzi": "你的字寫得真好啊！",
+          "pinyin": "nǐ de zì xiě de zhēn hǎo a!",
+          "english": "Your writing is really good!"
+        },
+        {
+          "hanzi": "我們快走啊！",
+          "pinyin": "wǒmen kuài zǒu a!",
+          "english": "Let's hurry and go!"
+        },
+        {
+          "hanzi": "你要吃嗎？好啊！",
+          "pinyin": "nǐ yào chī ma? hǎo a!",
+          "english": "Want some? Sure!"
+        }
+      ]
+    },
+    {
+      "hanzi": "寫",
+      "pinyin": "xiě",
+      "definition": "to write",
+      "exampleSentences": [
+        {
+          "hanzi": "請你寫你的名字。",
+          "pinyin": "qǐng nǐ xiě nǐ de míngzi.",
+          "english": "Please write your name."
+        },
+        {
+          "hanzi": "我們用鉛筆寫字。",
+          "pinyin": "wǒmen yòng qiānbǐ xiě zì.",
+          "english": "We write characters with pencils."
+        },
+        {
+          "hanzi": "我每天晚上寫功課。",
+          "pinyin": "wǒ měi tiān wǎnshang xiě gōngkè.",
+          "english": "I do my homework every night."
+        },
+        {
+          "hanzi": "我在生日卡上寫了一句話。",
+          "pinyin": "wǒ zài shēngrì kǎ shang xiě le yí jù huà.",
+          "english": "I wrote a message in my birthday card."
+        }
+      ]
+    },
+    {
+      "hanzi": "上課",
+      "pinyin": "shàngkè",
+      "definition": "to go to class, to attend class",
+      "exampleSentences": [
+        {
+          "hanzi": "我們九點上課。",
+          "pinyin": "wǒmen jiǔ diǎn shàngkè.",
+          "english": "Our class starts at nine o'clock."
+        },
+        {
+          "hanzi": "上課前要把書拿出來。",
+          "pinyin": "shàngkè qián yào bǎ shū ná chūlái.",
+          "english": "Take your books out before class."
+        },
+        {
+          "hanzi": "我週末要去中文學校上課。",
+          "pinyin": "wǒ zhōumò yào qù Zhōngwén xuéxiào shàngkè.",
+          "english": "On weekends I go to Chinese school to attend class."
+        },
+        {
+          "hanzi": "我今天感冒了，不能去上課。",
+          "pinyin": "wǒ jīntiān gǎnmào le, bù néng qù shàngkè.",
+          "english": "I have a cold today, so I can't go to class."
+        }
+      ]
+    },
+    {
+      "hanzi": "有意思",
+      "pinyin": "yǒuyìsi",
+      "definition": "interesting",
+      "exampleSentences": [
+        {
+          "hanzi": "這本書很有意思。",
+          "pinyin": "zhè běn shū hěn yǒuyìsi.",
+          "english": "This book is very interesting."
+        },
+        {
+          "hanzi": "老師講的故事很有意思。",
+          "pinyin": "lǎoshī jiǎng de gùshi hěn yǒuyìsi.",
+          "english": "The story the teacher told is very interesting."
+        },
+        {
+          "hanzi": "這個遊戲很有意思，我們一起玩吧。",
+          "pinyin": "zhège yóuxì hěn yǒuyìsi, wǒmen yìqǐ wán ba.",
+          "english": "This game is fun, let's play it together."
+        },
+        {
+          "hanzi": "爸爸講的笑話很有意思，我笑了。",
+          "pinyin": "bàba jiǎng de xiàohuà hěn yǒuyìsi, wǒ xiào le.",
+          "english": "Dad's joke was so funny, I laughed."
+        }
+      ]
+    },
+    {
+      "hanzi": "好好",
+      "pinyin": "hǎohāo",
+      "definition": "do a good job of…",
+      "exampleSentences": [
+        {
+          "hanzi": "上課要好好聽老師的話。",
+          "pinyin": "shàngkè yào hǎohāo tīng lǎoshī de huà.",
+          "english": "In class, you must listen well to your teacher."
+        },
+        {
+          "hanzi": "請你好好讀書。",
+          "pinyin": "qǐng nǐ hǎohāo dú shū.",
+          "english": "Please study properly."
+        },
+        {
+          "hanzi": "我要好好吃飯，才能長高。",
+          "pinyin": "wǒ yào hǎohāo chī fàn, cái néng zhǎnggāo.",
+          "english": "I'll eat my meals properly so I can grow tall."
+        },
+        {
+          "hanzi": "你要好好照顧小貓。",
+          "pinyin": "nǐ yào hǎohāo zhàogù xiǎo māo.",
+          "english": "You must look after the kitten well."
+        }
+      ]
+    },
+    {
+      "hanzi": "信",
+      "pinyin": "xìn",
+      "definition": "letter",
+      "exampleSentences": [
+        {
+          "hanzi": "我寫了一封信。",
+          "pinyin": "wǒ xiě le yì fēng xìn.",
+          "english": "I wrote a letter."
+        },
+        {
+          "hanzi": "這封信是給誰的？",
+          "pinyin": "zhè fēng xìn shì gěi shéi de?",
+          "english": "Who is this letter for?"
+        },
+        {
+          "hanzi": "郵差送來一封信。",
+          "pinyin": "yóuchāi sòng lái yì fēng xìn.",
+          "english": "The postie brought a letter."
+        },
+        {
+          "hanzi": "奶奶收到我的信，很開心。",
+          "pinyin": "nǎinai shōudào wǒ de xìn, hěn kāixīn.",
+          "english": "Grandma was happy to get my letter."
+        }
+      ]
+    },
+    {
+      "hanzi": "一定",
+      "pinyin": "yídìng",
+      "definition": "definitely, certainly",
+      "exampleSentences": [
+        {
+          "hanzi": "明天你一定要早點來。",
+          "pinyin": "míngtiān nǐ yídìng yào zǎo diǎn lái.",
+          "english": "You must definitely come early tomorrow."
+        },
+        {
+          "hanzi": "作業一定要寫完。",
+          "pinyin": "zuòyè yídìng yào xiě wán.",
+          "english": "Your homework must be finished."
+        },
+        {
+          "hanzi": "下雨了，你一定要帶傘。",
+          "pinyin": "xiàyǔ le, nǐ yídìng yào dài sǎn.",
+          "english": "It's raining, you must definitely take an umbrella."
+        },
+        {
+          "hanzi": "下次踢足球，我一定會贏！",
+          "pinyin": "xiàcì tī zúqiú, wǒ yídìng huì yíng!",
+          "english": "Next time we play soccer, I'll definitely win!"
+        }
+      ]
+    },
+    {
+      "hanzi": "沒問題",
+      "pinyin": "méiwèntí",
+      "definition": "no problem",
+      "exampleSentences": [
+        {
+          "hanzi": "沒問題，我幫你。",
+          "pinyin": "méiwèntí, wǒ bāng nǐ.",
+          "english": "No problem, I'll help you."
+        },
+        {
+          "hanzi": "明天可以早點來嗎？沒問題。",
+          "pinyin": "míngtiān kěyǐ zǎo diǎn lái ma? méiwèntí.",
+          "english": "Can you come early tomorrow? No problem."
+        },
+        {
+          "hanzi": "我幫媽媽洗碗，沒問題！",
+          "pinyin": "wǒ bāng māma xǐ wǎn, méiwèntí!",
+          "english": "I'll help Mum wash the dishes, no problem!"
+        },
+        {
+          "hanzi": "我們週末去踢球，沒問題吧？",
+          "pinyin": "wǒmen zhōumò qù tī qiú, méiwèntí ba?",
+          "english": "We're going to kick a ball on the weekend, that's fine, right?"
+        }
+      ]
+    }
+  ]
+}

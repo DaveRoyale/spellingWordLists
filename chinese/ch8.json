@@ -1,0 +1,466 @@
+{
+  "id": "ch8",
+  "title": "學華語向前走 2B — Lesson 8",
+  "description": "Vocabulary from lesson 8 of the textbook 學華語向前走 (Let's Learn Mandarin) 2B, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "送給",
+      "pinyin": "sònggěi",
+      "definition": "to give (as a present)",
+      "exampleSentences": [
+        {
+          "hanzi": "我送給你一本書。",
+          "pinyin": "wǒ sònggěi nǐ yì běn shū.",
+          "english": "I'm giving you a book."
+        },
+        {
+          "hanzi": "她送給我一枝筆。",
+          "pinyin": "tā sònggěi wǒ yì zhī bǐ.",
+          "english": "She gives me a pen."
+        },
+        {
+          "hanzi": "我送給奶奶一張畫。",
+          "pinyin": "wǒ sònggěi nǎinai yì zhāng huà.",
+          "english": "I'm giving Grandma a drawing."
+        },
+        {
+          "hanzi": "這個禮物是送給你的。",
+          "pinyin": "zhège lǐwù shì sònggěi nǐ de.",
+          "english": "This present is for you."
+        }
+      ]
+    },
+    {
+      "hanzi": "隻",
+      "pinyin": "zhī",
+      "definition": "(measure word for animals)",
+      "exampleSentences": [
+        {
+          "hanzi": "這是一隻貓。",
+          "pinyin": "zhè shì yì zhī māo.",
+          "english": "This is a cat."
+        },
+        {
+          "hanzi": "那隻貓是白的。",
+          "pinyin": "nà zhī māo shì bái de.",
+          "english": "That cat is white."
+        },
+        {
+          "hanzi": "公園裡有一隻鴨子。",
+          "pinyin": "gōngyuán lǐ yǒu yì zhī yāzi.",
+          "english": "There's a duck in the park."
+        },
+        {
+          "hanzi": "門口有一隻狗在叫。",
+          "pinyin": "ménkǒu yǒu yì zhī gǒu zài jiào.",
+          "english": "There's a dog barking at the door."
+        }
+      ]
+    },
+    {
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "definition": "dog",
+      "exampleSentences": [
+        {
+          "hanzi": "這是我的狗。",
+          "pinyin": "zhè shì wǒ de gǒu.",
+          "english": "This is my dog."
+        },
+        {
+          "hanzi": "狗是動物。",
+          "pinyin": "gǒu shì dòngwù.",
+          "english": "A dog is an animal."
+        },
+        {
+          "hanzi": "我的狗很喜歡玩球。",
+          "pinyin": "wǒ de gǒu hěn xǐhuan wán qiú.",
+          "english": "My dog loves playing with the ball."
+        },
+        {
+          "hanzi": "早上狗在門口等我。",
+          "pinyin": "zǎoshang gǒu zài ménkǒu děng wǒ.",
+          "english": "In the morning, the dog waits for me at the door."
+        }
+      ]
+    },
+    {
+      "hanzi": "寵物",
+      "pinyin": "chǒngwù",
+      "definition": "pet",
+      "exampleSentences": [
+        {
+          "hanzi": "貓和狗都是寵物。",
+          "pinyin": "māo hé gǒu dōu shì chǒngwù.",
+          "english": "Cats and dogs are both pets."
+        },
+        {
+          "hanzi": "你有寵物嗎？",
+          "pinyin": "nǐ yǒu chǒngwù ma?",
+          "english": "Do you have a pet?"
+        },
+        {
+          "hanzi": "我的寵物叫小白。",
+          "pinyin": "wǒ de chǒngwù jiào Xiǎobái.",
+          "english": "My pet is called Xiaobai."
+        },
+        {
+          "hanzi": "寵物店裡有很多小狗。",
+          "pinyin": "chǒngwùdiàn lǐ yǒu hěn duō xiǎogǒu.",
+          "english": "There are lots of puppies in the pet shop."
+        }
+      ]
+    },
+    {
+      "hanzi": "帶",
+      "pinyin": "dài",
+      "definition": "to bring",
+      "exampleSentences": [
+        {
+          "hanzi": "明天請帶書。",
+          "pinyin": "míngtiān qǐng dài shū.",
+          "english": "Please bring a book tomorrow."
+        },
+        {
+          "hanzi": "請你帶筆來上課。",
+          "pinyin": "qǐng nǐ dài bǐ lái shàngkè.",
+          "english": "Please bring a pen to class."
+        },
+        {
+          "hanzi": "去公園要帶水。",
+          "pinyin": "qù gōngyuán yào dài shuǐ.",
+          "english": "When you go to the park, take some water."
+        },
+        {
+          "hanzi": "爸爸帶我去踢足球。",
+          "pinyin": "bàba dài wǒ qù tī zúqiú.",
+          "english": "Dad takes me to play soccer."
+        }
+      ]
+    },
+    {
+      "hanzi": "牠們",
+      "pinyin": "tāmen",
+      "definition": "they / them (used for animals)",
+      "exampleSentences": [
+        {
+          "hanzi": "牠們是兔子。",
+          "pinyin": "tāmen shì tùzi.",
+          "english": "They are rabbits."
+        },
+        {
+          "hanzi": "牠們很可愛。",
+          "pinyin": "tāmen hěn kě'ài.",
+          "english": "They are very cute."
+        },
+        {
+          "hanzi": "那兩隻小狗很餓，牠們在叫。",
+          "pinyin": "nà liǎng zhī xiǎogǒu hěn è,tāmen zài jiào.",
+          "english": "Those two puppies are hungry, they're barking."
+        },
+        {
+          "hanzi": "小鳥在樹上，牠們唱歌。",
+          "pinyin": "xiǎoniǎo zài shù shàng,tāmen chàng gē.",
+          "english": "The birds are in the tree, they're singing."
+        }
+      ]
+    },
+    {
+      "hanzi": "散步",
+      "pinyin": "sànbù",
+      "definition": "to take a walk",
+      "exampleSentences": [
+        {
+          "hanzi": "我們去散步。",
+          "pinyin": "wǒmen qù sànbù.",
+          "english": "We're going for a walk."
+        },
+        {
+          "hanzi": "我每天散步。",
+          "pinyin": "wǒ měitiān sànbù.",
+          "english": "I take a walk every day."
+        },
+        {
+          "hanzi": "我和爸爸去公園散步。",
+          "pinyin": "wǒ hé bàba qù gōngyuán sànbù.",
+          "english": "Dad and I go for a walk in the park."
+        },
+        {
+          "hanzi": "晚飯後，我們帶狗去散步。",
+          "pinyin": "wǎnfàn hòu,wǒmen dài gǒu qù sànbù.",
+          "english": "After dinner, we take the dog for a walk."
+        }
+      ]
+    },
+    {
+      "hanzi": "過",
+      "pinyin": "guo",
+      "definition": "(particle used after a verb to indicate past experience)",
+      "exampleSentences": [
+        {
+          "hanzi": "我去過公園。",
+          "pinyin": "wǒ qù guo gōngyuán.",
+          "english": "I have been to the park."
+        },
+        {
+          "hanzi": "你看過這本書嗎？",
+          "pinyin": "nǐ kàn guo zhè běn shū ma?",
+          "english": "Have you read this book?"
+        },
+        {
+          "hanzi": "我坐過校車。",
+          "pinyin": "wǒ zuò guo xiàochē.",
+          "english": "I have ridden the school bus before."
+        },
+        {
+          "hanzi": "我去過海灘，很好玩。",
+          "pinyin": "wǒ qù guo hǎitān,hěn hǎo wán.",
+          "english": "I've been to the beach, it was lots of fun."
+        }
+      ]
+    },
+    {
+      "hanzi": "去年",
+      "pinyin": "qùnián",
+      "definition": "last year",
+      "exampleSentences": [
+        {
+          "hanzi": "去年我六歲。",
+          "pinyin": "qùnián wǒ liù suì.",
+          "english": "I was six last year."
+        },
+        {
+          "hanzi": "去年我學了一點中文。",
+          "pinyin": "qùnián wǒ xué le yìdiǎn zhōngwén.",
+          "english": "I learnt a little Chinese last year."
+        },
+        {
+          "hanzi": "去年我們去了日本。",
+          "pinyin": "qùnián wǒmen qù le Rìběn.",
+          "english": "We went to Japan last year."
+        },
+        {
+          "hanzi": "這隻狗是去年來我家的。",
+          "pinyin": "zhè zhī gǒu shì qùnián lái wǒ jiā de.",
+          "english": "This dog came to our home last year."
+        }
+      ]
+    },
+    {
+      "hanzi": "貓",
+      "pinyin": "māo",
+      "definition": "cat",
+      "exampleSentences": [
+        {
+          "hanzi": "貓是動物。",
+          "pinyin": "māo shì dòngwù.",
+          "english": "A cat is an animal."
+        },
+        {
+          "hanzi": "貓在哪裡？",
+          "pinyin": "māo zài nǎlǐ?",
+          "english": "Where is the cat?"
+        },
+        {
+          "hanzi": "我的貓叫小花。",
+          "pinyin": "wǒ de māo jiào Xiǎohuā.",
+          "english": "My cat is called Xiaohua."
+        },
+        {
+          "hanzi": "晚飯時貓在吃魚。",
+          "pinyin": "wǎnfàn shí māo zài chī yú.",
+          "english": "At dinnertime the cat is eating fish."
+        }
+      ]
+    },
+    {
+      "hanzi": "上個月",
+      "pinyin": "shàngge yuè",
+      "definition": "last month",
+      "exampleSentences": [
+        {
+          "hanzi": "上個月是三月。",
+          "pinyin": "shàngge yuè shì sān yuè.",
+          "english": "Last month was March."
+        },
+        {
+          "hanzi": "上個月我們學了數字。",
+          "pinyin": "shàngge yuè wǒmen xué le shùzì.",
+          "english": "Last month we learnt numbers."
+        },
+        {
+          "hanzi": "上個月我們去了海邊。",
+          "pinyin": "shàngge yuè wǒmen qù le hǎibiān.",
+          "english": "We went to the beach last month."
+        },
+        {
+          "hanzi": "上個月我的牙齒掉了。",
+          "pinyin": "shàngge yuè wǒ de yáchǐ diào le.",
+          "english": "My tooth fell out last month."
+        }
+      ]
+    },
+    {
+      "hanzi": "養",
+      "pinyin": "yǎng",
+      "definition": "to raise",
+      "exampleSentences": [
+        {
+          "hanzi": "我養了一隻貓。",
+          "pinyin": "wǒ yǎng le yì zhī māo.",
+          "english": "I keep a cat as a pet."
+        },
+        {
+          "hanzi": "你想養什麼寵物？",
+          "pinyin": "nǐ xiǎng yǎng shénme chǒngwù?",
+          "english": "What pet do you want to keep?"
+        },
+        {
+          "hanzi": "我們家養了一條魚。",
+          "pinyin": "wǒmen jiā yǎng le yì tiáo yú.",
+          "english": "Our family keeps a fish."
+        },
+        {
+          "hanzi": "我長大後想養狗。",
+          "pinyin": "wǒ zhǎngdà hòu xiǎng yǎng gǒu.",
+          "english": "When I grow up I want to keep a dog."
+        }
+      ]
+    },
+    {
+      "hanzi": "不見了",
+      "pinyin": "bújiàn le",
+      "definition": "(something) disappeared",
+      "exampleSentences": [
+        {
+          "hanzi": "我的書不見了。",
+          "pinyin": "wǒ de shū bújiàn le.",
+          "english": "My book is missing."
+        },
+        {
+          "hanzi": "我的筆不見了，在哪裡？",
+          "pinyin": "wǒ de bǐ bújiàn le,zài nǎlǐ?",
+          "english": "My pen is missing, where is it?"
+        },
+        {
+          "hanzi": "我的玩具不見了！",
+          "pinyin": "wǒ de wánjù bújiàn le!",
+          "english": "My toy has gone missing!"
+        },
+        {
+          "hanzi": "貓不見了，我們找了很久。",
+          "pinyin": "māo bújiàn le,wǒmen zhǎo le hěn jiǔ.",
+          "english": "The cat is missing, we looked for ages."
+        }
+      ]
+    },
+    {
+      "hanzi": "非常",
+      "pinyin": "fēicháng",
+      "definition": "very, extremely",
+      "exampleSentences": [
+        {
+          "hanzi": "我非常高興。",
+          "pinyin": "wǒ fēicháng gāoxìng.",
+          "english": "I'm very happy."
+        },
+        {
+          "hanzi": "今天非常熱。",
+          "pinyin": "jīntiān fēicháng rè.",
+          "english": "Today is very hot."
+        },
+        {
+          "hanzi": "這個蛋糕非常好吃。",
+          "pinyin": "zhège dàngāo fēicháng hǎochī.",
+          "english": "This cake is extremely delicious."
+        },
+        {
+          "hanzi": "我非常想去海邊。",
+          "pinyin": "wǒ fēicháng xiǎng qù hǎibiān.",
+          "english": "I really want to go to the beach."
+        }
+      ]
+    },
+    {
+      "hanzi": "可愛",
+      "pinyin": "kě'ài",
+      "definition": "cute, lovable",
+      "exampleSentences": [
+        {
+          "hanzi": "小狗很可愛。",
+          "pinyin": "xiǎogǒu hěn kě'ài.",
+          "english": "The puppy is very cute."
+        },
+        {
+          "hanzi": "你的書包很可愛。",
+          "pinyin": "nǐ de shūbāo hěn kě'ài.",
+          "english": "Your school bag is cute."
+        },
+        {
+          "hanzi": "小寶寶笑起來很可愛。",
+          "pinyin": "xiǎobǎobao xiào qǐlái hěn kě'ài.",
+          "english": "Babies look cute when they smile."
+        },
+        {
+          "hanzi": "你的兔子真可愛！",
+          "pinyin": "nǐ de tùzi zhēn kě'ài!",
+          "english": "Your rabbit is so cute!"
+        }
+      ]
+    },
+    {
+      "hanzi": "兔子",
+      "pinyin": "tùzi",
+      "definition": "rabbit",
+      "exampleSentences": [
+        {
+          "hanzi": "兔子有兩隻耳朵。",
+          "pinyin": "tùzi yǒu liǎng zhī ěrduo.",
+          "english": "Rabbits have two ears."
+        },
+        {
+          "hanzi": "兔子喜歡吃紅蘿蔔。",
+          "pinyin": "tùzi xǐhuan chī hóngluóbo.",
+          "english": "Rabbits like to eat carrots."
+        },
+        {
+          "hanzi": "我們帶兔子去看獸醫。",
+          "pinyin": "wǒmen dài tùzi qù kàn shòuyī.",
+          "english": "We take the rabbit to the vet."
+        },
+        {
+          "hanzi": "小兔子在吃草。",
+          "pinyin": "xiǎotùzi zài chī cǎo.",
+          "english": "The little rabbit is eating grass."
+        }
+      ]
+    },
+    {
+      "hanzi": "餵",
+      "pinyin": "wèi",
+      "definition": "to feed",
+      "exampleSentences": [
+        {
+          "hanzi": "請你餵狗。",
+          "pinyin": "qǐng nǐ wèi gǒu.",
+          "english": "Please feed the dog."
+        },
+        {
+          "hanzi": "你餵貓了嗎？",
+          "pinyin": "nǐ wèi māo le ma?",
+          "english": "Have you fed the cat?"
+        },
+        {
+          "hanzi": "晚飯後，我幫媽媽餵狗。",
+          "pinyin": "wǎnfàn hòu,wǒ bāng māma wèi gǒu.",
+          "english": "After dinner, I help Mum feed the dog."
+        },
+        {
+          "hanzi": "我們在湖邊餵鴨子。",
+          "pinyin": "wǒmen zài húbiān wèi yāzi.",
+          "english": "We feed the ducks by the lake."
+        }
+      ]
+    }
+  ]
+}

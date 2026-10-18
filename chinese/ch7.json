@@ -1,0 +1,574 @@
+{
+  "id": "ch7",
+  "title": "學華語向前走 2B — Lesson 7",
+  "description": "Vocabulary from lesson 7 of the textbook 學華語向前走 (Let's Learn Mandarin) 2B, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "該",
+      "pinyin": "gāi",
+      "definition": "should, ought to",
+      "exampleSentences": [
+        {
+          "hanzi": "你該睡覺了。",
+          "pinyin": "nǐ gāi shuìjiào le.",
+          "english": "You should go to sleep now."
+        },
+        {
+          "hanzi": "我們該走了。",
+          "pinyin": "wǒmen gāi zǒu le.",
+          "english": "We should go now."
+        },
+        {
+          "hanzi": "下雨了，你該帶傘。",
+          "pinyin": "xià yǔ le,nǐ gāi dài sǎn.",
+          "english": "It's raining, you should take an umbrella."
+        },
+        {
+          "hanzi": "你該穿鞋子了。",
+          "pinyin": "nǐ gāi chuān xiézi le.",
+          "english": "You should put your shoes on now."
+        }
+      ]
+    },
+    {
+      "hanzi": "起床",
+      "pinyin": "qǐchuáng",
+      "definition": "to get out of bed",
+      "exampleSentences": [
+        {
+          "hanzi": "我七點起床。",
+          "pinyin": "wǒ qī diǎn qǐchuáng.",
+          "english": "I get up at seven o'clock."
+        },
+        {
+          "hanzi": "你幾點起床？",
+          "pinyin": "nǐ jǐ diǎn qǐchuáng?",
+          "english": "What time do you get up?"
+        },
+        {
+          "hanzi": "媽媽叫我起床了。",
+          "pinyin": "māma jiào wǒ qǐchuáng le.",
+          "english": "Mum told me to get up."
+        },
+        {
+          "hanzi": "我起床了，要去上學。",
+          "pinyin": "wǒ qǐchuáng le,yào qù shàngxué.",
+          "english": "I got up, now I'm going to school."
+        }
+      ]
+    },
+    {
+      "hanzi": "來不及",
+      "pinyin": "láibují",
+      "definition": "it's too late, there's not enough time (to do something)",
+      "exampleSentences": [
+        {
+          "hanzi": "快點，來不及了！",
+          "pinyin": "kuài diǎn,láibují le!",
+          "english": "Hurry up, there's no time!"
+        },
+        {
+          "hanzi": "我們來不及上課了。",
+          "pinyin": "wǒmen láibují shàngkè le.",
+          "english": "We're going to be late for class."
+        },
+        {
+          "hanzi": "還沒刷牙，來不及了！",
+          "pinyin": "hái méi shuāyá,láibují le!",
+          "english": "I haven't brushed my teeth, there's no time!"
+        },
+        {
+          "hanzi": "校車快到了，來不及了！",
+          "pinyin": "xiàochē kuài dào le,láibují le!",
+          "english": "The school bus is almost here, no time!"
+        }
+      ]
+    },
+    {
+      "hanzi": "累",
+      "pinyin": "lèi",
+      "definition": "tired",
+      "exampleSentences": [
+        {
+          "hanzi": "我今天很累。",
+          "pinyin": "wǒ jīntiān hěn lèi.",
+          "english": "I'm very tired today."
+        },
+        {
+          "hanzi": "媽媽很累。",
+          "pinyin": "māma hěn lèi.",
+          "english": "Mum is tired."
+        },
+        {
+          "hanzi": "踢完足球，我好累啊！",
+          "pinyin": "tī wán zúqiú,wǒ hǎo lèi a!",
+          "english": "After soccer, I'm so tired!"
+        },
+        {
+          "hanzi": "爸爸下班回家，好累。",
+          "pinyin": "bàba xiàbān huí jiā,hǎo lèi.",
+          "english": "Dad got home from work, so tired."
+        }
+      ]
+    },
+    {
+      "hanzi": "睡覺",
+      "pinyin": "shuìjiào",
+      "definition": "to sleep",
+      "exampleSentences": [
+        {
+          "hanzi": "我要睡覺了。",
+          "pinyin": "wǒ yào shuìjiào le.",
+          "english": "I'm going to sleep."
+        },
+        {
+          "hanzi": "貓在睡覺。",
+          "pinyin": "māo zài shuìjiào.",
+          "english": "The cat is sleeping."
+        },
+        {
+          "hanzi": "晚安，我去睡覺了。",
+          "pinyin": "wǎn'ān,wǒ qù shuìjiào le.",
+          "english": "Goodnight, I'm going to bed."
+        },
+        {
+          "hanzi": "弟弟在睡覺，小聲一點。",
+          "pinyin": "dìdi zài shuìjiào,xiǎoshēng yìdiǎn.",
+          "english": "Little brother is sleeping, keep your voice down."
+        }
+      ]
+    },
+    {
+      "hanzi": "趕快",
+      "pinyin": "gǎnkuài",
+      "definition": "right away, hurry up and quickly",
+      "exampleSentences": [
+        {
+          "hanzi": "你趕快坐下。",
+          "pinyin": "nǐ gǎnkuài zuòxià.",
+          "english": "Sit down quickly."
+        },
+        {
+          "hanzi": "我們趕快走吧。",
+          "pinyin": "wǒmen gǎnkuài zǒu ba.",
+          "english": "Let's go quickly."
+        },
+        {
+          "hanzi": "校車來了，趕快吃飯！",
+          "pinyin": "xiàochē lái le,gǎnkuài chī fàn!",
+          "english": "The school bus is here, eat quickly!"
+        },
+        {
+          "hanzi": "下雨了，趕快跑！",
+          "pinyin": "xià yǔ le,gǎnkuài pǎo!",
+          "english": "It's raining, run quickly!"
+        }
+      ]
+    },
+    {
+      "hanzi": "刷牙",
+      "pinyin": "shuāyá",
+      "definition": "to brush one's teeth",
+      "exampleSentences": [
+        {
+          "hanzi": "我每天刷牙。",
+          "pinyin": "wǒ měitiān shuāyá.",
+          "english": "I brush my teeth every day."
+        },
+        {
+          "hanzi": "你刷牙了嗎？",
+          "pinyin": "nǐ shuāyá le ma?",
+          "english": "Have you brushed your teeth?"
+        },
+        {
+          "hanzi": "睡覺前要刷牙。",
+          "pinyin": "shuìjiào qián yào shuāyá.",
+          "english": "Brush your teeth before bed."
+        },
+        {
+          "hanzi": "早上我先刷牙，再吃飯。",
+          "pinyin": "zǎoshang wǒ xiān shuāyá,zài chī fàn.",
+          "english": "In the morning I brush my teeth first, then eat."
+        }
+      ]
+    },
+    {
+      "hanzi": "洗澡",
+      "pinyin": "xǐzǎo",
+      "definition": "to take a bath / shower",
+      "exampleSentences": [
+        {
+          "hanzi": "我每天晚上洗澡。",
+          "pinyin": "wǒ měitiān wǎnshang xǐzǎo.",
+          "english": "I have a bath every night."
+        },
+        {
+          "hanzi": "你要洗澡嗎？",
+          "pinyin": "nǐ yào xǐzǎo ma?",
+          "english": "Do you want to have a bath?"
+        },
+        {
+          "hanzi": "洗澡的水好熱！",
+          "pinyin": "xǐzǎo de shuǐ hǎo rè!",
+          "english": "The bath water is so hot!"
+        },
+        {
+          "hanzi": "我的狗不想洗澡。",
+          "pinyin": "wǒ de gǒu bù xiǎng xǐzǎo.",
+          "english": "My dog doesn't want a bath."
+        }
+      ]
+    },
+    {
+      "hanzi": "用",
+      "pinyin": "yòng",
+      "definition": "to use",
+      "exampleSentences": [
+        {
+          "hanzi": "我用筆寫字。",
+          "pinyin": "wǒ yòng bǐ xiězì.",
+          "english": "I use a pen to write."
+        },
+        {
+          "hanzi": "請用筷子吃飯。",
+          "pinyin": "qǐng yòng kuàizi chī fàn.",
+          "english": "Please eat with chopsticks."
+        },
+        {
+          "hanzi": "我可以用你的鉛筆嗎？",
+          "pinyin": "wǒ kěyǐ yòng nǐ de qiānbǐ ma?",
+          "english": "Can I use your pencil?"
+        },
+        {
+          "hanzi": "這個要怎麼用？",
+          "pinyin": "zhège yào zěnme yòng?",
+          "english": "How do you use this?"
+        }
+      ]
+    },
+    {
+      "hanzi": "過",
+      "pinyin": "guo",
+      "definition": "(a phase particle indicating completion of an action)",
+      "exampleSentences": [
+        {
+          "hanzi": "我吃過早飯了。",
+          "pinyin": "wǒ chī guo zǎofàn le.",
+          "english": "I've already had breakfast."
+        },
+        {
+          "hanzi": "我去過臺灣。",
+          "pinyin": "wǒ qù guo Táiwān.",
+          "english": "I've been to Taiwan."
+        },
+        {
+          "hanzi": "我洗過手了。",
+          "pinyin": "wǒ xǐ guo shǒu le.",
+          "english": "I've already washed my hands."
+        },
+        {
+          "hanzi": "你吃過蛋糕嗎？",
+          "pinyin": "nǐ chī guo dàngāo ma?",
+          "english": "Have you ever eaten cake?"
+        }
+      ]
+    },
+    {
+      "hanzi": "別",
+      "pinyin": "bié",
+      "definition": "don't",
+      "exampleSentences": [
+        {
+          "hanzi": "上課別說話！",
+          "pinyin": "shàngkè bié shuōhuà!",
+          "english": "Don't talk in class!"
+        },
+        {
+          "hanzi": "別走，等我！",
+          "pinyin": "bié zǒu,děng wǒ!",
+          "english": "Don't go, wait for me!"
+        },
+        {
+          "hanzi": "別忘了帶書包！",
+          "pinyin": "bié wàng le dài shūbāo!",
+          "english": "Don't forget to bring your school bag!"
+        },
+        {
+          "hanzi": "別吃太多糖！",
+          "pinyin": "bié chī tài duō táng!",
+          "english": "Don't eat too much candy!"
+        }
+      ]
+    },
+    {
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "definition": "yesterday",
+      "exampleSentences": [
+        {
+          "hanzi": "昨天我很累。",
+          "pinyin": "zuótiān wǒ hěn lèi.",
+          "english": "I was very tired yesterday."
+        },
+        {
+          "hanzi": "昨天是星期一。",
+          "pinyin": "zuótiān shì xīngqī yī.",
+          "english": "Yesterday was Monday."
+        },
+        {
+          "hanzi": "昨天我在公園踢足球。",
+          "pinyin": "zuótiān wǒ zài gōngyuán tī zúqiú.",
+          "english": "I played soccer at the park yesterday."
+        },
+        {
+          "hanzi": "昨天的作業寫完了嗎？",
+          "pinyin": "zuótiān de zuòyè xiě wán le ma?",
+          "english": "Did you finish yesterday's homework?"
+        }
+      ]
+    },
+    {
+      "hanzi": "忘",
+      "pinyin": "wàng",
+      "definition": "to forget",
+      "exampleSentences": [
+        {
+          "hanzi": "我忘了，對不起。",
+          "pinyin": "wǒ wàng le,duìbuqǐ.",
+          "english": "I forgot, sorry."
+        },
+        {
+          "hanzi": "他忘了作業。",
+          "pinyin": "tā wàng le zuòyè.",
+          "english": "He forgot his homework."
+        },
+        {
+          "hanzi": "我忘了帶水壺。",
+          "pinyin": "wǒ wàng le dài shuǐhú.",
+          "english": "I forgot my water bottle."
+        },
+        {
+          "hanzi": "我忘了刷牙！",
+          "pinyin": "wǒ wàng le shuāyá!",
+          "english": "I forgot to brush my teeth!"
+        }
+      ]
+    },
+    {
+      "hanzi": "肥皂",
+      "pinyin": "féizào",
+      "definition": "soap",
+      "exampleSentences": [
+        {
+          "hanzi": "這是肥皂。",
+          "pinyin": "zhè shì féizào.",
+          "english": "This is soap."
+        },
+        {
+          "hanzi": "我有一塊肥皂。",
+          "pinyin": "wǒ yǒu yí kuài féizào.",
+          "english": "I have a bar of soap."
+        },
+        {
+          "hanzi": "洗手要用肥皂。",
+          "pinyin": "xǐ shǒu yào yòng féizào.",
+          "english": "Use soap when you wash your hands."
+        },
+        {
+          "hanzi": "肥皂的味道好香！",
+          "pinyin": "féizào de wèidào hǎo xiāng!",
+          "english": "The soap smells so nice!"
+        }
+      ]
+    },
+    {
+      "hanzi": "知道",
+      "pinyin": "zhīdào",
+      "definition": "to know",
+      "exampleSentences": [
+        {
+          "hanzi": "我知道你的名字。",
+          "pinyin": "wǒ zhīdào nǐ de míngzi.",
+          "english": "I know your name."
+        },
+        {
+          "hanzi": "你知道嗎？",
+          "pinyin": "nǐ zhīdào ma?",
+          "english": "Do you know?"
+        },
+        {
+          "hanzi": "我知道！我知道！",
+          "pinyin": "wǒ zhīdào!wǒ zhīdào!",
+          "english": "I know! I know!"
+        },
+        {
+          "hanzi": "媽媽知道我在哪裡。",
+          "pinyin": "māma zhīdào wǒ zài nǎlǐ.",
+          "english": "Mum knows where I am."
+        }
+      ]
+    },
+    {
+      "hanzi": "洗",
+      "pinyin": "xǐ",
+      "definition": "to wash",
+      "exampleSentences": [
+        {
+          "hanzi": "我洗衣服。",
+          "pinyin": "wǒ xǐ yīfu.",
+          "english": "I wash clothes."
+        },
+        {
+          "hanzi": "我們洗碗。",
+          "pinyin": "wǒmen xǐ wǎn.",
+          "english": "We wash the bowls."
+        },
+        {
+          "hanzi": "吃飯前要洗手。",
+          "pinyin": "chī fàn qián yào xǐ shǒu.",
+          "english": "Wash your hands before meals."
+        },
+        {
+          "hanzi": "爸爸在洗車，我來幫忙。",
+          "pinyin": "bàba zài xǐ chē,wǒ lái bāngmáng.",
+          "english": "Dad is washing the car, I'm helping."
+        }
+      ]
+    },
+    {
+      "hanzi": "乾淨",
+      "pinyin": "gānjìng",
+      "definition": "clean",
+      "exampleSentences": [
+        {
+          "hanzi": "這張桌子很乾淨。",
+          "pinyin": "zhè zhāng zhuōzi hěn gānjìng.",
+          "english": "This table is very clean."
+        },
+        {
+          "hanzi": "我的手很乾淨。",
+          "pinyin": "wǒ de shǒu hěn gānjìng.",
+          "english": "My hands are clean."
+        },
+        {
+          "hanzi": "踢完球，鞋子好髒，要洗乾淨。",
+          "pinyin": "tī wán qiú,xiézi hǎo zāng,yào xǐ gānjìng.",
+          "english": "After soccer my shoes are so dirty; they need washing clean."
+        },
+        {
+          "hanzi": "我的房間好乾淨！",
+          "pinyin": "wǒ de fángjiān hǎo gānjìng!",
+          "english": "My room is so clean!"
+        }
+      ]
+    },
+    {
+      "hanzi": "洗臉",
+      "pinyin": "xǐliǎn",
+      "definition": "to wash one's face",
+      "exampleSentences": [
+        {
+          "hanzi": "我洗臉了。",
+          "pinyin": "wǒ xǐliǎn le.",
+          "english": "I washed my face."
+        },
+        {
+          "hanzi": "你先洗臉。",
+          "pinyin": "nǐ xiān xǐliǎn.",
+          "english": "You wash your face first."
+        },
+        {
+          "hanzi": "起床以後要洗臉。",
+          "pinyin": "qǐchuáng yǐhòu yào xǐliǎn.",
+          "english": "Wash your face after getting up."
+        },
+        {
+          "hanzi": "水很冷，我不想洗臉。",
+          "pinyin": "shuǐ hěn lěng,wǒ bù xiǎng xǐliǎn.",
+          "english": "The water is cold, I don't want to wash my face."
+        }
+      ]
+    },
+    {
+      "hanzi": "晚上",
+      "pinyin": "wǎnshang",
+      "definition": "night",
+      "exampleSentences": [
+        {
+          "hanzi": "老師，晚上好！",
+          "pinyin": "lǎoshī,wǎnshang hǎo!",
+          "english": "Good evening, teacher!"
+        },
+        {
+          "hanzi": "現在是晚上。",
+          "pinyin": "xiànzài shì wǎnshang.",
+          "english": "It is night now."
+        },
+        {
+          "hanzi": "晚上我們一起吃飯。",
+          "pinyin": "wǎnshang wǒmen yìqǐ chī fàn.",
+          "english": "We eat together in the evening."
+        },
+        {
+          "hanzi": "晚上的月亮好亮！",
+          "pinyin": "wǎnshang de yuèliang hǎo liàng!",
+          "english": "The moon is so bright tonight!"
+        }
+      ]
+    },
+    {
+      "hanzi": "家人",
+      "pinyin": "jiārén",
+      "definition": "family members",
+      "exampleSentences": [
+        {
+          "hanzi": "這是我的家人。",
+          "pinyin": "zhè shì wǒ de jiārén.",
+          "english": "This is my family."
+        },
+        {
+          "hanzi": "我愛我的家人。",
+          "pinyin": "wǒ ài wǒ de jiārén.",
+          "english": "I love my family."
+        },
+        {
+          "hanzi": "週末我和家人去公園。",
+          "pinyin": "zhōumò wǒ hé jiārén qù gōngyuán.",
+          "english": "On the weekend I go to the park with my family."
+        },
+        {
+          "hanzi": "我和家人一起看電視。",
+          "pinyin": "wǒ hé jiārén yìqǐ kàn diànshì.",
+          "english": "I watch TV together with my family."
+        }
+      ]
+    },
+    {
+      "hanzi": "牙刷",
+      "pinyin": "yáshuā",
+      "definition": "toothbrush",
+      "exampleSentences": [
+        {
+          "hanzi": "這是我的牙刷。",
+          "pinyin": "zhè shì wǒ de yáshuā.",
+          "english": "This is my toothbrush."
+        },
+        {
+          "hanzi": "牙刷是藍色的。",
+          "pinyin": "yáshuā shì lánsè de.",
+          "english": "The toothbrush is blue."
+        },
+        {
+          "hanzi": "我的牙刷不見了！",
+          "pinyin": "wǒ de yáshuā bújiàn le!",
+          "english": "My toothbrush is missing!"
+        },
+        {
+          "hanzi": "弟弟用了我的牙刷！",
+          "pinyin": "dìdi yòng le wǒ de yáshuā!",
+          "english": "Little brother used my toothbrush!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "id": "ch9",
+  "title": "學華語向前走 2B — Lesson 9",
+  "description": "Vocabulary from lesson 9 of the textbook 學華語向前走 (Let's Learn Mandarin) 2B, with original example sentences written for young beginners (Traditional characters).",
+  "words": [
+    {
+      "hanzi": "指南針",
+      "pinyin": "zhǐnánzhēn",
+      "definition": "compass",
+      "exampleSentences": [
+        {
+          "hanzi": "這是指南針。",
+          "pinyin": "zhè shì zhǐnánzhēn.",
+          "english": "This is a compass."
+        },
+        {
+          "hanzi": "指南針指向北方。",
+          "pinyin": "zhǐnánzhēn zhǐxiàng běifāng.",
+          "english": "The compass points north."
+        },
+        {
+          "hanzi": "我們去露營，帶了指南針。",
+          "pinyin": "wǒmen qù lùyíng, dài le zhǐnánzhēn.",
+          "english": "We went camping and took a compass."
+        },
+        {
+          "hanzi": "指南針在我的書包裡。",
+          "pinyin": "zhǐnánzhēn zài wǒ de shūbāo lǐ.",
+          "english": "My compass is in my school bag."
+        }
+      ]
+    },
+    {
+      "hanzi": "指北針",
+      "pinyin": "zhǐběizhēn",
+      "definition": "compass",
+      "exampleSentences": [
+        {
+          "hanzi": "這個指北針是紅色的。",
+          "pinyin": "zhège zhǐběizhēn shì hóngsè de.",
+          "english": "This compass is red."
+        },
+        {
+          "hanzi": "我看指北針，它指向北方。",
+          "pinyin": "wǒ kàn zhǐběizhēn, tā zhǐxiàng běifāng.",
+          "english": "I look at the compass, it points north."
+        },
+        {
+          "hanzi": "我的指北針在哪裡？",
+          "pinyin": "wǒ de zhǐběizhēn zài nǎlǐ?",
+          "english": "Where is my compass?"
+        },
+        {
+          "hanzi": "爸爸送我一個指北針。",
+          "pinyin": "bàba sòng wǒ yí ge zhǐběizhēn.",
+          "english": "Dad gave me a compass."
+        }
+      ]
+    },
+    {
+      "hanzi": "它",
+      "pinyin": "tā",
+      "definition": "it",
+      "exampleSentences": [
+        {
+          "hanzi": "這是一本書，它很好看。",
+          "pinyin": "zhè shì yì běn shū, tā hěn hǎokàn.",
+          "english": "This is a book, and it's very nice."
+        },
+        {
+          "hanzi": "這枝筆很好用，它是藍色的。",
+          "pinyin": "zhè zhī bǐ hěn hǎoyòng, tā shì lánsè de.",
+          "english": "This pen works well, and it's blue."
+        },
+        {
+          "hanzi": "桌子上有一個杯子，它是空的。",
+          "pinyin": "zhuōzi shàng yǒu yí ge bēizi, tā shì kōng de.",
+          "english": "There's a cup on the table, and it's empty."
+        },
+        {
+          "hanzi": "我的球掉了，它在哪裡？",
+          "pinyin": "wǒ de qiú diào le, tā zài nǎlǐ?",
+          "english": "I dropped my ball, where is it?"
+        }
+      ]
+    },
+    {
+      "hanzi": "南方",
+      "pinyin": "nánfāng",
+      "definition": "the south",
+      "exampleSentences": [
+        {
+          "hanzi": "澳洲在中國的南方。",
+          "pinyin": "Àozhōu zài Zhōngguó de nánfāng.",
+          "english": "Australia is in the south of China."
+        },
+        {
+          "hanzi": "南方很熱，北方很冷。",
+          "pinyin": "nánfāng hěn rè, běifāng hěn lěng.",
+          "english": "The south is hot, the north is cold."
+        },
+        {
+          "hanzi": "我的阿姨住在南方。",
+          "pinyin": "wǒ de āyí zhù zài nánfāng.",
+          "english": "My aunt lives in the south."
+        },
+        {
+          "hanzi": "我們去南方的海邊玩。",
+          "pinyin": "wǒmen qù nánfāng de hǎibiān wán.",
+          "english": "We go to the beach in the south to play."
+        }
+      ]
+    },
+    {
+      "hanzi": "北方",
+      "pinyin": "běifāng",
+      "definition": "the north",
+      "exampleSentences": [
+        {
+          "hanzi": "北京在北方。",
+          "pinyin": "Běijīng zài běifāng.",
+          "english": "Beijing is in the north."
+        },
+        {
+          "hanzi": "北方在上面，南方在下面。",
+          "pinyin": "běifāng zài shàngmiàn, nánfāng zài xiàmiàn.",
+          "english": "The north is at the top, the south is at the bottom."
+        },
+        {
+          "hanzi": "冬天北方很冷，我穿毛衣。",
+          "pinyin": "dōngtiān běifāng hěn lěng, wǒ chuān máoyī.",
+          "english": "In winter it's very cold in the north, so I wear a jumper."
+        },
+        {
+          "hanzi": "爸爸說他想去北方看雪。",
+          "pinyin": "bàba shuō tā xiǎng qù běifāng kàn xuě.",
+          "english": "Dad says he wants to go north to see snow."
+        }
+      ]
+    },
+    {
+      "hanzi": "教室",
+      "pinyin": "jiàoshì",
+      "definition": "classroom",
+      "exampleSentences": [
+        {
+          "hanzi": "這是我們的教室。",
+          "pinyin": "zhè shì wǒmen de jiàoshì.",
+          "english": "This is our classroom."
+        },
+        {
+          "hanzi": "教室裡有很多書。",
+          "pinyin": "jiàoshì lǐ yǒu hěn duō shū.",
+          "english": "There are lots of books in the classroom."
+        },
+        {
+          "hanzi": "下課後，我們走出教室。",
+          "pinyin": "xiàkè hòu, wǒmen zǒu chū jiàoshì.",
+          "english": "After class, we walk out of the classroom."
+        },
+        {
+          "hanzi": "我星期六在教室學中文。",
+          "pinyin": "wǒ xīngqīliù zài jiàoshì xué zhōngwén.",
+          "english": "On Saturdays I learn Chinese in the classroom."
+        }
+      ]
+    },
+    {
+      "hanzi": "告訴",
+      "pinyin": "gàosu",
+      "definition": "to tell",
+      "exampleSentences": [
+        {
+          "hanzi": "請你告訴我。",
+          "pinyin": "qǐng nǐ gàosu wǒ.",
+          "english": "Please tell me."
+        },
+        {
+          "hanzi": "老師告訴我們明天不上課。",
+          "pinyin": "lǎoshī gàosu wǒmen míngtiān bú shàngkè.",
+          "english": "The teacher told us there's no class tomorrow."
+        },
+        {
+          "hanzi": "我告訴媽媽，我的作業做完了。",
+          "pinyin": "wǒ gàosu māma, wǒ de zuòyè zuòwán le.",
+          "english": "I told Mum my homework is finished."
+        },
+        {
+          "hanzi": "出門前要告訴爸爸你去哪裡。",
+          "pinyin": "chūmén qián yào gàosu bàba nǐ qù nǎlǐ.",
+          "english": "Before you go out, tell Dad where you're going."
+        }
+      ]
+    },
+    {
+      "hanzi": "方向",
+      "pinyin": "fāngxiàng",
+      "definition": "direction",
+      "exampleSentences": [
+        {
+          "hanzi": "你看這個方向。",
+          "pinyin": "nǐ kàn zhège fāngxiàng.",
+          "english": "Look in this direction."
+        },
+        {
+          "hanzi": "學校在哪個方向？",
+          "pinyin": "xuéxiào zài nǎge fāngxiàng?",
+          "english": "Which direction is the school in?"
+        },
+        {
+          "hanzi": "指南針可以幫我們找方向。",
+          "pinyin": "zhǐnánzhēn kěyǐ bāng wǒmen zhǎo fāngxiàng.",
+          "english": "A compass can help us find our direction."
+        },
+        {
+          "hanzi": "我們迷路了，找不到方向。",
+          "pinyin": "wǒmen mílù le, zhǎobudào fāngxiàng.",
+          "english": "We're lost and can't work out which way to go."
+        }
+      ]
+    },
+    {
+      "hanzi": "校門口",
+      "pinyin": "xiàoménkǒu",
+      "definition": "school entrance",
+      "exampleSentences": [
+        {
+          "hanzi": "我在校門口等你。",
+          "pinyin": "wǒ zài xiàoménkǒu děng nǐ.",
+          "english": "I'll wait for you at the school entrance."
+        },
+        {
+          "hanzi": "校門口有一棵大樹。",
+          "pinyin": "xiàoménkǒu yǒu yì kē dà shù.",
+          "english": "There's a big tree at the school entrance."
+        },
+        {
+          "hanzi": "媽媽每天在校門口接我。",
+          "pinyin": "māma měitiān zài xiàoménkǒu jiē wǒ.",
+          "english": "Mum picks me up at the school entrance every day."
+        },
+        {
+          "hanzi": "校門口有很多家長和小孩。",
+          "pinyin": "xiàoménkǒu yǒu hěn duō jiāzhǎng hé xiǎohái.",
+          "english": "There are lots of parents and kids at the school entrance."
+        }
+      ]
+    },
+    {
+      "hanzi": "足球場",
+      "pinyin": "zúqiúchǎng",
+      "definition": "soccer / football field",
+      "exampleSentences": [
+        {
+          "hanzi": "這是足球場。",
+          "pinyin": "zhè shì zúqiúchǎng.",
+          "english": "This is a soccer field."
+        },
+        {
+          "hanzi": "足球場很大。",
+          "pinyin": "zúqiúchǎng hěn dà.",
+          "english": "The soccer field is big."
+        },
+        {
+          "hanzi": "星期六我在足球場踢足球。",
+          "pinyin": "xīngqīliù wǒ zài zúqiúchǎng tī zúqiú.",
+          "english": "On Saturday I play soccer on the field."
+        },
+        {
+          "hanzi": "足球場上有很多小朋友。",
+          "pinyin": "zúqiúchǎng shàng yǒu hěn duō xiǎopéngyou.",
+          "english": "There are lots of kids on the soccer field."
+        }
+      ]
+    },
+    {
+      "hanzi": "東方",
+      "pinyin": "dōngfāng",
+      "definition": "the east",
+      "exampleSentences": [
+        {
+          "hanzi": "太陽從東方升起。",
+          "pinyin": "tàiyáng cóng dōngfāng shēngqǐ.",
+          "english": "The sun rises in the east."
+        },
+        {
+          "hanzi": "日本在中國的東方。",
+          "pinyin": "Rìběn zài Zhōngguó de dōngfāng.",
+          "english": "Japan is to the east of China."
+        },
+        {
+          "hanzi": "東方的天空很亮，太陽出來了。",
+          "pinyin": "dōngfāng de tiānkōng hěn liàng, tàiyáng chūlái le.",
+          "english": "The sky in the east is bright, the sun has come up."
+        },
+        {
+          "hanzi": "你知道東方在哪裡嗎？",
+          "pinyin": "nǐ zhīdào dōngfāng zài nǎlǐ ma?",
+          "english": "Do you know where the east is?"
+        }
+      ]
+    },
+    {
+      "hanzi": "還是",
+      "pinyin": "háishi",
+      "definition": "or",
+      "exampleSentences": [
+        {
+          "hanzi": "你要茶還是果汁？",
+          "pinyin": "nǐ yào chá háishi guǒzhī?",
+          "english": "Do you want tea or juice?"
+        },
+        {
+          "hanzi": "你喜歡狗還是貓？",
+          "pinyin": "nǐ xǐhuan gǒu háishi māo?",
+          "english": "Do you like dogs or cats?"
+        },
+        {
+          "hanzi": "我們明天去公園還是去海邊？",
+          "pinyin": "wǒmen míngtiān qù gōngyuán háishi qù hǎibiān?",
+          "english": "Shall we go to the park or the beach tomorrow?"
+        },
+        {
+          "hanzi": "晚飯吃麵還是飯？",
+          "pinyin": "wǎnfàn chī miàn háishi fàn?",
+          "english": "Noodles or rice for dinner?"
+        }
+      ]
+    },
+    {
+      "hanzi": "西方",
+      "pinyin": "xīfāng",
+      "definition": "the west",
+      "exampleSentences": [
+        {
+          "hanzi": "太陽從西方落下。",
+          "pinyin": "tàiyáng cóng xīfāng luòxià.",
+          "english": "The sun sets in the west."
+        },
+        {
+          "hanzi": "歐洲在中國的西方。",
+          "pinyin": "Ōuzhōu zài Zhōngguó de xīfāng.",
+          "english": "Europe is to the west of China."
+        },
+        {
+          "hanzi": "我家在學校的西方，走路五分鐘。",
+          "pinyin": "wǒ jiā zài xuéxiào de xīfāng, zǒulù wǔ fēnzhōng.",
+          "english": "My house is west of the school, five minutes' walk."
+        },
+        {
+          "hanzi": "傍晚的西方很漂亮，有很多雲。",
+          "pinyin": "bàngwǎn de xīfāng hěn piàoliang, yǒu hěn duō yún.",
+          "english": "The western sky at dusk is beautiful, with lots of clouds."
+        }
+      ]
+    },
+    {
+      "hanzi": "因為",
+      "pinyin": "yīnwèi",
+      "definition": "because",
+      "exampleSentences": [
+        {
+          "hanzi": "我很高興，因為今天是星期六。",
+          "pinyin": "wǒ hěn gāoxìng, yīnwèi jīntiān shì xīngqīliù.",
+          "english": "I'm happy because today is Saturday."
+        },
+        {
+          "hanzi": "因為下雨，我們不去公園。",
+          "pinyin": "yīnwèi xiàyǔ, wǒmen bú qù gōngyuán.",
+          "english": "Because it's raining, we're not going to the park."
+        },
+        {
+          "hanzi": "我喜歡狗，因為牠很可愛。",
+          "pinyin": "wǒ xǐhuan gǒu, yīnwèi tā hěn kě'ài.",
+          "english": "I like dogs because they're so cute."
+        },
+        {
+          "hanzi": "因為太熱，我們去游泳。",
+          "pinyin": "yīnwèi tài rè, wǒmen qù yóuyǒng.",
+          "english": "Because it's too hot, we're going swimming."
+        }
+      ]
+    },
+    {
+      "hanzi": "所以",
+      "pinyin": "suǒyǐ",
+      "definition": "so, therefore",
+      "exampleSentences": [
+        {
+          "hanzi": "天氣很冷，所以我穿毛衣。",
+          "pinyin": "tiānqì hěn lěng, suǒyǐ wǒ chuān máoyī.",
+          "english": "It's cold, so I wear a jumper."
+        },
+        {
+          "hanzi": "我很渴，所以我喝水。",
+          "pinyin": "wǒ hěn kě, suǒyǐ wǒ hē shuǐ.",
+          "english": "I'm thirsty, so I drink water."
+        },
+        {
+          "hanzi": "我的球壞了，所以我很傷心。",
+          "pinyin": "wǒ de qiú huài le, suǒyǐ wǒ hěn shāngxīn.",
+          "english": "My ball broke, so I'm sad."
+        },
+        {
+          "hanzi": "媽媽做了蛋糕，所以我們很開心。",
+          "pinyin": "māma zuò le dàngāo, suǒyǐ wǒmen hěn kāixīn.",
+          "english": "Mum made a cake, so we're really happy."
+        }
+      ]
+    }
+  ]
+}
